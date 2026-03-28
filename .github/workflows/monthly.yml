@@ -37,4 +37,5 @@ jobs:
           git config user.email "bot@expert-monitor"
           git add -A
           git diff --staged --quiet || git commit -m "📊 Отчёт за $(date +'%Y-%m-%d')"
+          git pull --rebase
           git push
