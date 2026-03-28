@@ -1,0 +1,193 @@
+{
+  "experts": [
+    {
+      "name": "Ray Dalio",
+      "topics": ["big cycle", "debt cycle", "world order", "reserve currency", "empire decline"],
+      "sources": [
+        {
+          "type": "youtube_channel",
+          "name": "Principles by Ray Dalio",
+          "url": "https://www.youtube.com/@principlesbyraydalio",
+          "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDp0VRB2kME4zzKONYnE_bg"
+        }
+      ]
+    },
+    {
+      "name": "Peter Turchin",
+      "topics": ["cliodynamics", "elite overproduction", "political instability", "wealth pump", "social disintegration"],
+      "sources": [
+        {
+          "type": "blog",
+          "name": "Peter Turchin Blog",
+          "url": "https://peterturchin.com",
+          "rss": "https://peterturchin.com/feed/"
+        }
+      ]
+    },
+    {
+      "name": "Adam Tooze",
+      "topics": ["global economy", "polycrisis", "fiscal policy", "geopolitics", "financial crisis"],
+      "sources": [
+        {
+          "type": "substack",
+          "name": "Chartbook by Adam Tooze",
+          "url": "https://adamtooze.substack.com",
+          "rss": "https://adamtooze.substack.com/feed"
+        }
+      ]
+    },
+    {
+      "name": "Nate Hagens",
+      "topics": ["energy crisis", "great simplification", "ecological limits", "economic contraction", "sustainability"],
+      "sources": [
+        {
+          "type": "youtube_channel",
+          "name": "The Great Simplification",
+          "url": "https://www.youtube.com/@thegreatsimplification",
+          "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz3gM6PdTPCHYB7eOETjbyQ"
+        }
+      ]
+    }
+  ],
+  "think_tanks": [
+    {
+      "name": "WEF Global Risks Report",
+      "url": "https://www.weforum.org/publications/global-risks-report-2026/",
+      "rss": "https://www.weforum.org/feed/",
+      "topics": ["global risks", "polycrisis", "systemic risk", "climate", "technology"]
+    },
+    {
+      "name": "ITR Economics",
+      "url": "https://itreconomics.com",
+      "rss": "https://blog.itreconomics.com/blog/rss.xml",
+      "topics": ["depression 2030s", "business cycle", "economic forecast"]
+    },
+    {
+      "name": "Cascade Institute (Polycrisis)",
+      "url": "https://cascadeinstitute.org",
+      "rss": null,
+      "scrape_url": "https://cascadeinstitute.org/research/",
+      "topics": ["polycrisis", "systemic risk", "cascading failures"]
+    },
+    {
+      "name": "McKinsey Global Institute",
+      "url": "https://www.mckinsey.com/mgi",
+      "rss": null,
+      "scrape_url": "https://www.mckinsey.com/mgi/our-research",
+      "topics": ["labor market", "productivity", "AI impact", "economic resilience"]
+    },
+    {
+      "name": "Brookings Institution",
+      "url": "https://www.brookings.edu",
+      "rss": "https://www.brookings.edu/feed/",
+      "topics": ["inequality", "mobility", "elite", "institutions", "democracy"]
+    },
+    {
+      "name": "RAND Corporation",
+      "url": "https://www.rand.org",
+      "rss": "https://www.rand.org/feeds/content.xml",
+      "topics": ["systemic risk", "geopolitics", "security", "conflict"]
+    },
+    {
+      "name": "Santa Fe Institute",
+      "url": "https://www.santafe.edu",
+      "rss": "https://www.santafe.edu/rss/news",
+      "topics": ["complexity science", "emergence", "networks", "collapse"]
+    },
+    {
+      "name": "Complexity Science Hub Vienna",
+      "url": "https://csh.ac.at",
+      "rss": null,
+      "scrape_url": "https://csh.ac.at/news/",
+      "topics": ["cliodynamics", "social complexity", "inequality", "crisis"]
+    },
+    {
+      "name": "Niskanen Center",
+      "url": "https://www.niskanencenter.org",
+      "rss": "https://www.niskanencenter.org/feed/",
+      "topics": ["elites", "institutions", "governance", "democracy"]
+    },
+    {
+      "name": "Opportunity Insights (Chetty)",
+      "url": "https://opportunityinsights.org",
+      "rss": null,
+      "scrape_url": "https://opportunityinsights.org/updates/",
+      "topics": ["economic mobility", "inequality", "american dream"]
+    },
+    {
+      "name": "Center for Creative Leadership",
+      "url": "https://www.ccl.org",
+      "rss": "https://www.ccl.org/feed/",
+      "topics": ["leadership in crisis", "chaos strategy", "organizational resilience"]
+    }
+  ],
+  "data_sources": [
+    {
+      "name": "FRED (Federal Reserve Economic Data)",
+      "url": "https://fred.stlouisfed.org",
+      "type": "api",
+      "indicators": [
+        "GDP", "UNRATE", "CPIAUCSL", "FEDFUNDS", "GFDEBTN",
+        "T10Y2Y", "M2SL", "DEXUSEU"
+      ]
+    },
+    {
+      "name": "Our World in Data",
+      "url": "https://ourworldindata.org",
+      "rss": "https://ourworldindata.org/atom.xml",
+      "type": "data"
+    },
+    {
+      "name": "IMF World Economic Outlook",
+      "url": "https://www.imf.org/en/Publications/WEO",
+      "type": "periodic"
+    }
+  ],
+  "czech_ukraine_sources": [
+    {
+      "name": "ČNB (Czech National Bank)",
+      "url": "https://www.cnb.cz/en/",
+      "rss": "https://www.cnb.cz/en/.galleries/rss/news_cnb_en.xml",
+      "topics": ["czech economy", "koruna", "monetary policy", "inflation CZ"]
+    },
+    {
+      "name": "IDEA CERGE-EI (Czech Think Tank)",
+      "url": "https://idea.cerge-ei.cz/en",
+      "rss": null,
+      "scrape_url": "https://idea.cerge-ei.cz/en/studies",
+      "topics": ["czech economy", "labor market CZ", "inequality CZ", "demographics CZ"]
+    },
+    {
+      "name": "European Central Bank Blog",
+      "url": "https://www.ecb.europa.eu/press/blog/html/index.en.html",
+      "rss": "https://www.ecb.europa.eu/rss/blog.html",
+      "topics": ["eurozone", "EU economy", "monetary policy EU", "inflation EU"]
+    },
+    {
+      "name": "Bruegel (EU Think Tank)",
+      "url": "https://www.bruegel.org",
+      "rss": "https://www.bruegel.org/rss.xml",
+      "topics": ["EU economy", "energy EU", "trade", "competitiveness"]
+    },
+    {
+      "name": "ISW (Institute for the Study of War)",
+      "url": "https://www.understandingwar.org",
+      "rss": null,
+      "scrape_url": "https://www.understandingwar.org/backgrounder/ukraine-conflict-updates",
+      "topics": ["ukraine war", "geopolitics", "conflict", "security"]
+    },
+    {
+      "name": "KSE Institute (Kyiv School of Economics)",
+      "url": "https://kse.ua/about-the-school/kse-institute/",
+      "rss": null,
+      "scrape_url": "https://kse.ua/about-the-school/kse-institute/",
+      "topics": ["ukraine economy", "reconstruction", "property", "GDP ukraine"]
+    },
+    {
+      "name": "VoxUkraine",
+      "url": "https://voxukraine.org/en",
+      "rss": "https://voxukraine.org/en/feed",
+      "topics": ["ukraine economy", "reforms", "reconstruction", "real estate ukraine"]
+    }
+  ]
+}
