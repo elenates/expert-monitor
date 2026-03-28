@@ -7,10 +7,11 @@ import requests
 import config
 
 
-def call_gemini(prompt: str, system_instruction: str = "", max_retries: int = 3) -> str:
+def call_gemini(prompt: str, system_instruction: str = "", max_retries: int = 6) -> str:
     """
     Вызов Gemini Flash API.
     Бесплатный лимит: 15 запросов/мин, 1M токенов/день.
+    Новые ключи могут иметь более строгие лимиты в первые часы.
     """
     if not config.GEMINI_API_KEY:
         raise ValueError(
@@ -25,7 +26,7 @@ def call_gemini(prompt: str, system_instruction: str = "", max_retries: int = 3)
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "maxOutputTokens": config.GEMINI_MAX_OUTPUT_TOKENS,
-            "temperature": 0.3,  # более детерминированный вывод
+            "temperature": 0.3,
         },
     }
 
@@ -41,8 +42,15 @@ def call_gemini(prompt: str, system_instruction: str = "", max_retries: int = 3)
             )
 
             if resp.status_code == 429:
-                wait = 15 * (attempt + 1)
-                print(f"  ⏳ Rate limit, ждём {wait} сек...")
+                # Увеличенные паузы: 30, 60, 90, 120, 150, 180 сек
+                wait = 30 * (attempt + 1)
+                print(f"  ⏳ Rate limit, ждём {wait} сек (попытка {attempt + 1}/{max_retries})...")
+                time.sleep(wait)
+                continue
+
+            if resp.status_code == 503:
+                wait = 30 * (attempt + 1)
+                print(f"  ⏳ Сервис недоступен, ждём {wait} сек...")
                 time.sleep(wait)
                 continue
 
@@ -53,16 +61,34 @@ def call_gemini(prompt: str, system_instruction: str = "", max_retries: int = 3)
             candidates = data.get("candidates", [])
             if candidates:
                 parts = candidates[0].get("content", {}).get("parts", [])
-                return "".join(p.get("text", "") for p in parts)
-            else:
-                print(f"  [!] Пустой ответ от Gemini: {data}")
+                text = "".join(p.get("text", "") for p in parts)
+                if text:
+                    print(f"  ✅ Gemini ответил ({len(text)} символов)")
+                    return text
+
+            # Проверяем блокировку контента
+            block_reason = data.get("promptFeedback", {}).get("blockReason", "")
+            if block_reason:
+                print(f"  [!] Запрос заблокирован Gemini: {block_reason}")
                 return ""
+
+            print(f"  [!] Пустой ответ от Gemini (попытка {attempt + 1})")
+            if attempt < max_retries - 1:
+                time.sleep(15)
+                continue
+
+        except requests.exceptions.Timeout:
+            print(f"  [!] Таймаут Gemini (попытка {attempt + 1})")
+            if attempt < max_retries - 1:
+                time.sleep(15)
+                continue
 
         except requests.exceptions.RequestException as e:
             print(f"  [!] Ошибка Gemini (попытка {attempt + 1}): {e}")
             if attempt < max_retries - 1:
-                time.sleep(5 * (attempt + 1))
+                time.sleep(15)
             else:
                 raise
 
+    print("  [!] Все попытки исчерпаны.")
     return ""
