@@ -10,6 +10,7 @@ Expert Monitor — главный оркестратор.
     python main.py --agent 4  # только Агент 4 (саммари)
 """
 import sys
+import time
 import argparse
 from datetime import datetime
 
@@ -35,12 +36,23 @@ def main():
             run_monitor()
 
         if args.agent is None or args.agent == 2:
+            # Пауза 60 сек перед обращением к Gemini,
+            # чтобы не попасть в rate limit
+            if args.agent is None:
+                print("\n⏳ Пауза 60 сек перед Gemini API...")
+                time.sleep(60)
             run_filter()
 
         if args.agent is None or args.agent == 3:
+            if args.agent is None:
+                print("\n⏳ Пауза 60 сек между запросами к Gemini...")
+                time.sleep(60)
             run_context()
 
         if args.agent is None or args.agent == 4:
+            if args.agent is None:
+                print("\n⏳ Пауза 60 сек между запросами к Gemini...")
+                time.sleep(60)
             run_summary()
 
         elapsed = (datetime.now() - start_time).total_seconds()
