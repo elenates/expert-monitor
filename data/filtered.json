@@ -755,6 +755,166 @@
     "relevance_reason": "auto"
   },
   {
+    "id": "251614bac219bf15fd6c6f505c555f45",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "On-line aplikace",
+    "url": "https://idea.cerge-ei.cz/seznam-publikaci/idea-aplikace",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "6bb23c7778151ea4f68d6c07b0d9c6cc",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Vývoj nezaměstnanosti",
+    "url": "https://idea.cerge-ei.cz/vyvoj-nezamestnanosti/vyvoj-nezamestnanosti",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "b3e98bc6a5cc9c09ba750a198c8c52bb",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Policy Briefs a další",
+    "url": "https://idea.cerge-ei.cz/ostatni/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "011ec123920f5550d81c548acdf1aa23",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "IDEA anti COVID-19",
+    "url": "https://idea.cerge-ei.cz/anti-covid-19/vystupy/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "f1825917c0dc4ba3ad0300ad8243a0d7",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Vedoucí projektu",
+    "url": "https://idea.cerge-ei.cz/ředitele-idea/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "a79da170ce26b9722cdde371a27fb930",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Spolupracovníci",
+    "url": "https://idea.cerge-ei.cz/lide/spolupracovnici",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "27f199123ae44fd3ceac894eaa173cc5",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Talent ve školách: Co pomáhá nadaným žákům",
+    "url": "https://idea.cerge-ei.cz/zpravy/talent-ve-skolach-co-pomaha-nadanym-zakum",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "7d040254d3d75aab63afc2f2db64fb14",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "WEBINÁŘ - Publikační výkonnost a autoři v ČR",
+    "url": "https://idea.cerge-ei.cz/zpravy/webinar-publikacni-vykonnost-a-autori-v-cr-2",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "e278a52be4d08010f4f4a080852fa83e",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "Struktura a hodnota majetku českých domácností",
+    "url": "https://idea.cerge-ei.cz/zpravy/struktura-a-hodnota-majetku-ceskych-domacnosti",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
+    "id": "80eef596ca17754b426ae3b981edd643",
+    "source": "IDEA CERGE-EI (Czech Think Tank)",
+    "title": "The German Labor Market – Seminar and discussion",
+    "url": "https://idea.cerge-ei.cz/zpravy/the-german-labor-market-seminar-and-discussion",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "czech economy",
+      "labor market CZ",
+      "inequality CZ",
+      "demographics CZ"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "auto"
+  },
+  {
     "id": "8bef526197a9dad43a3f31bc2539e5d7",
     "source": "European Central Bank Blog",
     "title": "Frank Elderson, Piero Cipollone: Digital euro: an opportunity for banks",
