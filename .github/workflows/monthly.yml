@@ -11,6 +11,7 @@ jobs:
     
     permissions:
       contents: write
+      issues: write
     
     steps:
       - name: Checkout repo
@@ -37,3 +38,19 @@ jobs:
           git diff --staged --quiet || git commit -m "📊 Данные за $(date +'%Y-%m-%d')"
           git pull --rebase
           git push
+
+      - name: Notify via GitHub Issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ITEMS=$(python3 -c "import json; d=json.load(open('data/filtered.json')); print(len(d))")
+          gh issue create \
+            --title "📊 Данные за $(date +'%B %Y') собраны — пора делать саммари" \
+            --body "Собрано и отфильтровано **${ITEMS} материалов**.
+
+          **Что делать:**
+          1. Скачай [файл для Claude](https://elenates.github.io/expert-monitor/for_claude.md)
+          2. Открой [claude.ai](https://claude.ai) → новый чат
+          3. Прикрепи файл + промпт из [PROMPT_TEMPLATE.md](https://github.com/elenates/expert-monitor/blob/main/PROMPT_TEMPLATE.md)
+
+          После получения саммари можешь закрыть этот issue."
