@@ -12,7 +12,7 @@
       "economic forecast"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Материал напрямую связан с прогнозами ITR Economics о депрессии 2030-х и содержит вопросы лидеров, что указывает на актуальность и практическую значимость для понимания текущей фазы цикла."
+    "relevance_reason": "Материал напрямую связан с прогнозами ITR Economics на 2030-е годы, что подтверждает тезисы базы знаний о приближении кризиса."
   },
   {
     "id": "778170ae8daa69c46c425991aa22c319",
@@ -27,7 +27,7 @@
       "cascading failures"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Материал напрямую связан с концепцией поликризиса и системных рисков, что является ключевым аспектом анализа текущей фазы цикла."
+    "relevance_reason": "Материал напрямую связан с концепцией поликризиса и системных рисков, что является ключевым для понимания текущей фазы цикла."
   },
   {
     "id": "1df90951cb7fcaa2efec586d386cb13d",
@@ -42,7 +42,7 @@
       "cascading failures"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Исследует вопросы демократии и ее защиты в контексте поликризиса, что перекликается с тезисами Турчина и Хоува о политической нестабильности и кризисе институтов."
+    "relevance_reason": "Исследование демократии и её защиты в контексте поликризиса напрямую связано с социополитическими циклами и системными рисками."
   },
   {
     "id": "9237ea2920655b90a169b646083264df",
@@ -57,7 +57,22 @@
       "cascading failures"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Фокусируется на масштабировании решений для сложных проблем, что важно для понимания как рисков, так и потенциальных путей выхода из кризиса."
+    "relevance_reason": "Концепция масштабирования и ускорения в контексте поликризиса может указывать на фазу цикла и нарастание системных рисков."
+  },
+  {
+    "id": "459d9c3a343f9d87aadd8550a091537e",
+    "source": "Cascade Institute (Polycrisis)",
+    "title": "Ultradeep Geothermal",
+    "url": "https://cascadeinstitute.org/geothermal/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "polycrisis",
+      "systemic risk",
+      "cascading failures"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Исследование геотермальной энергии как части решения энергетических и климатических кризисов относится к системным рискам и потенциальным решениям."
   },
   {
     "id": "f4cf210b15680f35e6e592ce32752a2d",
@@ -72,13 +87,13 @@
       "american dream"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Материал напрямую подтверждает и детализирует тезис базы знаний о снижении экономической мобильности и упадке 'американской мечты' (Четти)."
+    "relevance_reason": "Данные о снижении экономической мобильности напрямую подтверждают тезис Четти и Турчина о 'fading American dream' и росте неравенства."
   },
   {
-    "id": "741549175892fd3a979363fef5d9e348",
+    "id": "56d18ef14c2d46c833235db820000158",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Russia & Ukraine",
-    "url": "https://understandingwar.org/analysis/russia-ukraine/",
+    "title": "Russian offensive campaign Assessment",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/",
     "date": "",
     "summary": "",
     "topics": [
@@ -88,12 +103,44 @@
       "security"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Материалы ISW напрямую касаются геополитических сдвигов и текущего конфликта, что является критически важным элементом анализа текущей фазы цикла."
+    "relevance_reason": "Регулярные оценки кампании в Украине от ISW напрямую связаны с геополитическими сдвигами и системными рисками."
+  },
+  {
+    "id": "90b131a66cc7fc2405c393a346a22a0a",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "russian occupation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ ",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Обновления по оккупации территорий Украины от ISW важны для оценки геополитической напряженности и системных рисков."
+  },
+  {
+    "id": "7acbd6b9c591811b7036f155c01d4fff",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "Russian Force generation & adaptation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Анализ генерации и адаптации российских сил от ISW важен для оценки геополитических рисков и потенциала конфликта."
   },
   {
     "id": "a00bbd7af4df1935949669eb53f544a9",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Russian Offensive Campaign Update",
+    "title": "Russian Offensive Campaign Assessment",
     "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/",
     "date": "",
     "summary": "",
@@ -104,7 +151,149 @@
       "security"
     ],
     "relevance_score": 10,
-    "relevance_reason": "Регулярные обновления по наступательной кампании России дают актуальную информацию о геополитической напряженности и ее развитии."
+    "relevance_reason": "Оценки российской наступательной кампании от ISW напрямую связаны с геополитическими сдвигами и системными рисками."
+  },
+  {
+    "id": "deae389a686973771d7adf9535e1458d",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "Russian Occupation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Обновления по российской оккупации от ISW важны для оценки геополитической напряженности и системных рисков."
+  },
+  {
+    "id": "99e7f32a577856bab1260bdee89d5b21",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Israeli strikes hit two Gaza police checkpoints, killing six, medics say",
+    "url": "https://www.al-monitor.com/originals/2026/03/israeli-strikes-hit-two-gaza-police-checkpoints-killing-six-medics-say",
+    "date": "2026-03-29T07:36:37+00:00",
+    "summary": "CAIRO, March 29 (Reuters) - Two Israeli air strikes on two checkpoints of the Hamas-led police force killed at least six Palestinians including a child, local health officials said, in the latest round of violence despite a U.S.-brokered ceasefire that is now more than five months old.Medics said Israeli planes attacked two police checkpoints in Khan Younis in the southern Gaza Strip, killing three policemen and three civilians, including a girl, and wounding four others.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Новости о конфликте Израиля и Газы напрямую связаны с геополитическими сдвигами и системными рисками, особенно в контексте Ближнего Востока."
+  },
+  {
+    "id": "3f18f75f58172004df40e9c1381d6a2a",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Iran claims aluminium plant attacks in Gulf as Houthis join war",
+    "url": "https://www.al-monitor.com/originals/2026/03/iran-claims-aluminium-plant-attacks-gulf-houthis-join-war",
+    "date": "2026-03-29T05:30:22+00:00",
+    "summary": "Iran claimed on Sunday attacks on two major aluminium plants in the Gulf, further raising the economic stakes of the Middle East war after Yemen's Iran-backed Houthis joined the conflict.The war that began on February 28 with US-Israeli attacks on Iran has mushroomed throughout the region, sending world energy markets into a tailspin and threatening to torpedo the global economy.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Информация об атаках Ирана и вступлении хуситов в конфликт является ключевой для понимания эскалации геополитических рисков и влияния на нефтяные рынки."
+  },
+  {
+    "id": "0896950549cc2059461c14bba69b64e9",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Helplines buzz with alerts from seafarers trapped in war",
+    "url": "https://www.al-monitor.com/originals/2026/03/helplines-buzz-alerts-seafarers-trapped-war",
+    "date": "2026-03-29T03:30:24+00:00",
+    "summary": "Seafarers' helplines say they are overwhelmed with messages from crews stuck in the Gulf by the Middle East war, desperately seeking repatriation, compensation and onboard supplies.\"Writing to urgently inform you that our vessel is currently facing a critical situation regarding provisions and one crew health conditions,\" read an email from one seafarer on March 24 to the International Transport Workers' Federation (ITF)'s Seafarer Support team.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Проблемы моряков, застрявших в зоне конфликта, отражают системные риски для глобальной торговли и логистики."
+  },
+  {
+    "id": "97c1a8ebb5e2a73ec35078a8be819e6e",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Ship insurers juggle war risks for perilous Gulf route",
+    "url": "https://www.al-monitor.com/originals/2026/03/ship-insurers-juggle-war-risks-perilous-gulf-route",
+    "date": "2026-03-29T03:30:24+00:00",
+    "summary": "Iranian forces' threat to ships in the crucial Strait of Hormuz has driven up payments for the insurance that underpins the world freight industry.Here are facts and figures about how maritime insurance works -- and the impact from the war sparked by US-Israeli strikes on Iran, which has virtually cut off shipping in the strait.- Insurance available -",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Анализ рисков для страхования судов в Персидском заливе напрямую связан с геополитическими рисками и их влиянием на мировую торговлю."
+  },
+  {
+    "id": "f9bba99897e43ab045c2a02ced06d3de",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Pentagon preparing for weeks of ground operations in Iran, Washington Post reports",
+    "url": "https://www.al-monitor.com/originals/2026/03/pentagon-preparing-weeks-ground-operations-iran-washington-post-reports",
+    "date": "2026-03-29T01:01:39+00:00",
+    "summary": "March 28 (Reuters) - The Pentagon is preparing for weeks of ground operations in Iran, the Washington Post reported Saturday, citing U.S. officials.The plans could involve raids by Special Operations and conventional infantry troops, the Post reported. Whether President Donald Trump would approve any of those plans remains uncertain, according to the Post.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Подготовка Пентагона к наземным операциям в Иране является прямым индикатором нарастания геополитической напряженности и системных рисков."
+  },
+  {
+    "id": "a846be459b5d9f9cbc07e7b4ad3d98cb",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region",
+    "url": "https://www.al-monitor.com/originals/2026/03/yemens-houthis-enter-iran-war-attacks-israel-while-us-marines-arrive-region",
+    "date": "2026-03-28T23:36:38+00:00",
+    "summary": "By Menna AlaaElDin, Nayera Abdallah and Humeyra PamukCAIRO/DUBAI, March 29 (Reuters) - The risk of an expanded Iran war grew on Saturday as Yemen's Iran-aligned Houthis on Saturday launched their first attacks on Israel since the start of the conflict, even as additional U.S. forces reached the Middle East.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Вступление хуситов в конфликт и прибытие американских сил на Ближний Восток — ключевые события, указывающие на расширение геополитического кризиса."
+  },
+  {
+    "id": "7f759253ab9e02e95aab26123e58d49b",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Israeli strike kills three journalists in south Lebanon",
+    "url": "https://www.al-monitor.com/originals/2026/03/israeli-strike-kills-three-journalists-south-lebanon",
+    "date": "2026-03-28T20:00:23+00:00",
+    "summary": "An Israeli strike killed three journalists Saturday in south Lebanon, including a well-known reporter for Hezbollah's Al Manar network, with Lebanese authorities denouncing the attack as a \"war crime\".The Israeli military confirmed killing Al Manar correspondent Ali Shoeib, accusing him of having \"operated within the Hezbollah terrorist organisation under the guise of a journalist\".",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Убийство журналистов в Ливане в результате израильского удара является индикатором эскалации конфликта и связанных с ним системных рисков."
   },
   {
     "id": "b636f3fe143c2951b15e63a1d4f977f1",
@@ -119,7 +308,7 @@
       "economic forecast"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Содержит практические рекомендации для принятия инвестиционных решений в контексте прогнозируемых циклов, что соответствует критерию практической применимости."
+    "relevance_reason": "Подтверждает тезис о цикличности экономики и необходимости подготовки к будущим изменениям, что соответствует теории больших циклов."
   },
   {
     "id": "f49d89cbae1607eb2080d857b27174d0",
@@ -134,7 +323,7 @@
       "economic forecast"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Анализирует тренды в обрабатывающей промышленности, что важно для понимания состояния реального сектора экономики в преддверии кризиса."
+    "relevance_reason": "Отражает текущие тенденции в производственном секторе, которые могут быть индикаторами фазы цикла."
   },
   {
     "id": "3f623e251aac5b9679c32972684c8dca",
@@ -149,7 +338,7 @@
       "economic forecast"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Данные о реальных личных доходах являются ключевым индикатором 'обнищания масс' (Турчин) и общего состояния экономики, что напрямую связано с базой знаний."
+    "relevance_reason": "Данные о реальных личных доходах важны для оценки 'обнищания масс' (Турчин) и общего состояния экономики."
   },
   {
     "id": "e46587b6710553bb36d480c2f65693a6",
@@ -164,22 +353,7 @@
       "economic forecast"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Анализ цен на нефть и их влияния на инфляцию и потребителей важен для понимания системных рисков и потенциальных шоков."
-  },
-  {
-    "id": "459d9c3a343f9d87aadd8550a091537e",
-    "source": "Cascade Institute (Polycrisis)",
-    "title": "Ultradeep Geothermal",
-    "url": "https://cascadeinstitute.org/geothermal/",
-    "date": "",
-    "summary": "",
-    "topics": [
-      "polycrisis",
-      "systemic risk",
-      "cascading failures"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "Исследование потенциала геотермальной энергии как части решения энергетических и климатических кризисов, что является элементом системного риска и поиска антихрупких решений."
+    "relevance_reason": "Анализ цен на нефть и их влияния на инфляцию и потребителей важен для понимания системных рисков и инфляционных процессов."
   },
   {
     "id": "41df4163951e37bed8fd5860fd8c81b4",
@@ -194,7 +368,7 @@
       "cascading failures"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Аналитические материалы по поликризису напрямую подтверждают или дополняют базу знаний о системных рисках и взаимосвязанных кризисах."
+    "relevance_reason": "Аналитические материалы по поликризису и системным рискам напрямую подтверждают тезисы базы знаний."
   },
   {
     "id": "2919c31a545e6a7bc54eb03b9497961a",
@@ -209,7 +383,56 @@
       "cascading failures"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Исследование деполяризации актуально для понимания социополитического аспекта цикла (Турчин, Далио, Хоув)."
+    "relevance_reason": "Деполяризация как тема исследования напрямую связана с социополитическим циклом и тезисами Турчина и Хоува."
+  },
+  {
+    "id": "dac21433546808dc53e99fb4c7ba77ab",
+    "source": "Brookings Institution",
+    "title": "Research Programs",
+    "url": "https://www.brookings.edu/research-programs/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Исследования Brookings по неравенству, мобильности и институтам напрямую связаны с тезисами Турчина, Далио и Четти."
+  },
+  {
+    "id": "2cae7a4e43eae1421cb7c939644e1c6a",
+    "source": "RAND Corporation",
+    "title": "International Economic Relations",
+    "url": "https://www.rand.org/topics/international-economic-relations.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Исследования RAND по международным экономическим отношениям важны для понимания геополитических сдвигов и системных рисков."
+  },
+  {
+    "id": "14135a8f179132f204917c3deb50354a",
+    "source": "RAND Corporation",
+    "title": "International Affairs",
+    "url": "https://www.rand.org/topics/international-affairs.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Анализ международных отношений от RAND Corporation важен для оценки геополитических сдвигов и системных рисков."
   },
   {
     "id": "8ad3ed860a2c4b76d8a59fbd8953cc43",
@@ -225,7 +448,7 @@
       "democracy"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Обсуждает 'Повестку изобилия' и проблемы государственного управления, что связано с тезисами о перепроизводстве элит и фискальном ослаблении государства (Турчин, Далио)."
+    "relevance_reason": "Материал о 'повестке изобилия' и производительности государства напрямую связан с тезисами о фискальном ослаблении и перепроизводстве элит."
   },
   {
     "id": "752e49f85c411ad190dbd06cbe50a9c2",
@@ -241,7 +464,7 @@
       "democracy"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Обсуждение реформ и динамизма в контексте 'Повестки изобилия' перекликается с идеями о необходимости структурных изменений для преодоления кризиса."
+    "relevance_reason": "Обсуждение реформ и динамизма с экспертом, предвидевшим 'повестку изобилия', подтверждает актуальность тем, связанных с институтами и управлением."
   },
   {
     "id": "545a97effc56a067690c680f51a656ff",
@@ -257,38 +480,7 @@
       "democracy"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Дискуссия о будущем инноваций и технологическом динамизме важна для понимания факторов конкурентоспособности и инноваций в большом цикле (Далио)."
-  },
-  {
-    "id": "2c24ae1caa310fd4edf23482431cca94",
-    "source": "Niskanen Center",
-    "title": "Evaluation as due process: Civil Service in an automated age",
-    "url": "https://www.niskanencenter.org/evaluation-as-due-process-civil-service-in-an-automated-age/?utm_source=rss&utm_medium=rss&utm_campaign=evaluation-as-due-process-civil-service-in-an-automated-age",
-    "date": "2026-03-26T15:45:00+00:00",
-    "summary": "Modern government is built on the civil service. The twentieth century consensus, emerging out of the New Deal, was based on a social safety net administered by civil servants to ensure fair administration and due process.\nThe post Evaluation as due process: Civil Service in an automated age appeared first on Niskanen Center.",
-    "topics": [
-      "elites",
-      "institutions",
-      "governance",
-      "democracy"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "Анализ гражданской службы и автоматизации затрагивает вопросы эффективности институтов и их адаптации к новым реалиям, что важно для оценки фискального ослабления (Турчин)."
-  },
-  {
-    "id": "71396a18020effd34416b5dc87159758",
-    "source": "Opportunity Insights (Chetty)",
-    "title": "Racial DisparitiesWhat factors drive racial differences in economic opportunity?",
-    "url": "https://opportunityinsights.org/race/",
-    "date": "",
-    "summary": "",
-    "topics": [
-      "economic mobility",
-      "inequality",
-      "american dream"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "Анализ расовых различий в экономических возможностях важен для понимания аспектов неравенства и поляризации общества (Турчин, Далио)."
+    "relevance_reason": "Обсуждение будущего инноваций и экономического динамизма важно для понимания факторов, влияющих на циклы конкурентоспособности и инноваций."
   },
   {
     "id": "b0b28dc84e5f78d445005ddbf1c90c4c",
@@ -303,7 +495,7 @@
       "american dream"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Opportunity Atlas предоставляет данные, подтверждающие тезисы о снижении экономической мобильности и влиянии географии на возможности, что является частью системных проблем."
+    "relevance_reason": "Opportunity Atlas предоставляет данные, которые могут быть использованы для анализа факторов, влияющих на экономическую мобильность и неравенство."
   },
   {
     "id": "33680b24f22137401d433c632c237c52",
@@ -318,7 +510,7 @@
       "american dream"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Social Capital Atlas может дать представление о социальных связях и их влиянии на экономические возможности, что косвенно связано с социополитическим циклом."
+    "relevance_reason": "Social Capital Atlas может дать представление о факторах, влияющих на социальную структуру и потенциальные точки напряжения в обществе."
   },
   {
     "id": "8bef526197a9dad43a3f31bc2539e5d7",
@@ -334,7 +526,7 @@
       "inflation EU"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Обсуждение цифрового евро и его влияния на банки является важным аспектом денежного цикла и потенциальных сдвигов в финансовой системе."
+    "relevance_reason": "Обсуждение цифрового евро и его влияния на банки напрямую связано с долговым/денежным циклом и статусом резервной валюты."
   },
   {
     "id": "b1e88c4c54d7fce3db4f52676fe6357e",
@@ -350,23 +542,7 @@
       "inflation EU"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Анализ влияния тарифов на динамизм, производительность и рост в ЕС напрямую связан с геополитическими факторами и конкурентоспособностью (Далио)."
-  },
-  {
-    "id": "8405049894d886a1a8a0b3581c5da681",
-    "source": "European Central Bank Blog",
-    "title": "Climate-related disasters can push up the cost of debt",
-    "url": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260219~5954458037.en.html",
-    "date": "2026-02-19T10:00:00+00:00",
-    "summary": "",
-    "topics": [
-      "eurozone",
-      "EU economy",
-      "monetary policy EU",
-      "inflation EU"
-    ],
-    "relevance_score": 9,
-    "relevance_reason": "Исследование влияния климатических катастроф на стоимость долга затрагивает системные риски и их экономические последствия."
+    "relevance_reason": "Анализ влияния тарифов на динамизм бизнеса и рост в Еврозоне важен для понимания геополитических и экономических факторов, влияющих на циклы."
   },
   {
     "id": "e4d1dc9635f1120d38930ff8b47bb755",
@@ -382,7 +558,7 @@
       "real estate ukraine"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Анализ карьерных путей в вооруженных силах Украины может отражать долгосрочные последствия конфликта и изменения в геополитическом ландшафте."
+    "relevance_reason": "Анализ карьерных путей в вооруженных силах Украины важен для понимания влияния войны на общество и потенциальных долгосрочных последствий."
   },
   {
     "id": "b524069c6ed1cde3ee1e70d90964dd0d",
@@ -398,7 +574,7 @@
       "real estate ukraine"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Обзор реформ в Украине за 2025 год важен для понимания устойчивости страны к кризисам и ее способности к адаптации, что косвенно влияет на геополитическую стабильность."
+    "relevance_reason": "Обзор реформ в Украине за 2025 год важен для оценки устойчивости страны и ее способности справляться с кризисами."
   },
   {
     "id": "12de57d944d51d9b9ab4e6ab7bdf00b2",
@@ -414,7 +590,7 @@
       "real estate ukraine"
     ],
     "relevance_score": 9,
-    "relevance_reason": "Анализ цифровой трансформации Украины в условиях войны затрагивает вопросы инноваций, устойчивости и адаптации к шокам."
+    "relevance_reason": "Анализ цифровой трансформации Украины в условиях войны важен для понимания адаптивности и устойчивости к системным шокам."
   },
   {
     "id": "28b1fda4f4eb0b01afaa1ea522578b89",
@@ -429,7 +605,7 @@
       "economic forecast"
     ],
     "relevance_score": 8,
-    "relevance_reason": "Подчеркивает важность подготовки и фундаментальных показателей бизнеса, что является практической рекомендацией в условиях неопределенности."
+    "relevance_reason": "Подчеркивает важность фундаментальных принципов и подготовки бизнеса, что перекликается с рекомендациями по построению антихрупких систем."
   },
   {
     "id": "a67bcc52c30fd313c9207f9f821325e5",
@@ -444,7 +620,7 @@
       "economic forecast"
     ],
     "relevance_score": 8,
-    "relevance_reason": "Анализ потребительских трендов критически важен для понимания динамики экономики, особенно в контексте прогнозируемого снижения спроса."
+    "relevance_reason": "Анализ потребительских трендов важен для понимания динамики спроса и общего состояния экономики."
   },
   {
     "id": "a602c093a7e88d5615aa25418f387b21",
@@ -459,7 +635,7 @@
       "economic forecast"
     ],
     "relevance_score": 8,
-    "relevance_reason": "Обсуждает 'прибыльную, но бесприбыльную' экономику, что отражает проблемы с рентабельностью и сжатием маржи, связанные с долговым циклом и инфляцией."
+    "relevance_reason": "Предупреждение о 'прибыльной, но бездоходной' (profitless prosperity) эпохе подтверждает тезисы о сжатии маржи и потенциальных проблемах в экономике."
   },
   {
     "id": "598fe6f7f4b81eb42903211d3ab76fa6",
@@ -474,6 +650,57 @@
       "economic forecast"
     ],
     "relevance_score": 8,
-    "relevance_reason": "Данные о росте инвестиций в основной капитал могут указывать на краткосрочные позитивные тренды ('ревущие двадцатые' по ITR), но требуют контекста с общими прогнозами."
+    "relevance_reason": "Данные об инвестициях в основной капитал могут служить опережающим индикатором состояния экономики и готовности к будущим циклам."
+  },
+  {
+    "id": "987a4eb0f1be38b7575f22331a5f5210",
+    "source": "Brookings Institution",
+    "title": "Tariffs and Trade",
+    "url": "https://www.brookings.edu/tags/tariffs/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Анализ тарифов и торговли важен для понимания геополитических и экономических сдвигов, влияющих на циклы."
+  },
+  {
+    "id": "530494c1c8987101adc4362ad42a9aec",
+    "source": "Brookings Institution",
+    "title": "Defense & Security",
+    "url": "https://www.brookings.edu/topics/national-security/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Исследования в области обороны и безопасности важны для оценки геополитических рисков и потенциальных конфликтов."
+  },
+  {
+    "id": "af0a054caf64810adb82fc3e8d9eb710",
+    "source": "Brookings Institution",
+    "title": "Global Economy & Development",
+    "url": "https://www.brookings.edu/topics/global-inequality/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Анализ глобального неравенства и развития напрямую связан с тезисами о социополитических циклах и системных рисках."
   }
 ]

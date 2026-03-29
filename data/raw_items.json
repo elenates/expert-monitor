@@ -247,6 +247,436 @@
     ]
   },
   {
+    "id": "dac21433546808dc53e99fb4c7ba77ab",
+    "source": "Brookings Institution",
+    "title": "Research Programs",
+    "url": "https://www.brookings.edu/research-programs/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "7c1f97ce3a14b0e6497d1371dfa7a740",
+    "source": "Brookings Institution",
+    "title": "Research & Commentary",
+    "url": "https://www.brookings.edu/research-commentary/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "67d378d2445b1f43b9680fe51f2f12ef",
+    "source": "Brookings Institution",
+    "title": "Our Commitments",
+    "url": "https://www.brookings.edu/about-us/#commitments",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "e40f2dc001ffde6609a8871b71a6db35",
+    "source": "Brookings Institution",
+    "title": "Diversity, Equity, and Inclusion",
+    "url": "https://www.brookings.edu/dei-report-2025/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "987a4eb0f1be38b7575f22331a5f5210",
+    "source": "Brookings Institution",
+    "title": "Tariffs and Trade",
+    "url": "https://www.brookings.edu/tags/tariffs/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "4bcd508e06e45b03a27143e0ee0af623",
+    "source": "Brookings Institution",
+    "title": "Business & Workforce",
+    "url": "https://www.brookings.edu/topics/business-industry/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "4640d195919e0cd6c1d54ca1ab8cf21f",
+    "source": "Brookings Institution",
+    "title": "Cities & Communities",
+    "url": "https://www.brookings.edu/topics/cities-communities/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "3d970a2117f8090303c2f86a599e8453",
+    "source": "Brookings Institution",
+    "title": "Climate & Energy",
+    "url": "https://www.brookings.edu/topics/climate-energy/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "530494c1c8987101adc4362ad42a9aec",
+    "source": "Brookings Institution",
+    "title": "Defense & Security",
+    "url": "https://www.brookings.edu/topics/national-security/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "af0a054caf64810adb82fc3e8d9eb710",
+    "source": "Brookings Institution",
+    "title": "Global Economy & Development",
+    "url": "https://www.brookings.edu/topics/global-inequality/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "inequality",
+      "mobility",
+      "elite",
+      "institutions",
+      "democracy"
+    ]
+  },
+  {
+    "id": "2cae7a4e43eae1421cb7c939644e1c6a",
+    "source": "RAND Corporation",
+    "title": "International Economic Relations",
+    "url": "https://www.rand.org/topics/international-economic-relations.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "d363068a34a06318eb854104c1fa3bd0",
+    "source": "RAND Corporation",
+    "title": "Artificial Intelligence",
+    "url": "https://www.rand.org/topics/artificial-intelligence.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "2a216760270429d811daabfdd59a2fe7",
+    "source": "RAND Corporation",
+    "title": "Children, Families, and Communities",
+    "url": "https://www.rand.org/topics/children-families-and-communities.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "6b2c2daef7e6cc985fde66672268a201",
+    "source": "RAND Corporation",
+    "title": "Cyber and Data Sciences",
+    "url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "9e21bb1fb82534f2bd90ba164074c3b1",
+    "source": "RAND Corporation",
+    "title": "Education and Literacy",
+    "url": "https://www.rand.org/topics/education-and-literacy.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "d3793bab3c8de7a8ebc8098b745f6cc6",
+    "source": "RAND Corporation",
+    "title": "Energy and Environment",
+    "url": "https://www.rand.org/topics/energy-and-environment.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "098db13dd52f42f3a75c56ea9dae4b10",
+    "source": "RAND Corporation",
+    "title": "Health, Health Care, and Aging",
+    "url": "https://www.rand.org/topics/health-health-care-and-aging.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "4179cc7fef4abbc866f01e3b1d241417",
+    "source": "RAND Corporation",
+    "title": "Homeland Security and Public Safety",
+    "url": "https://www.rand.org/topics/homeland-security-and-public-safety.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "7c0ada673b9e6e03bfd079d3d84612f7",
+    "source": "RAND Corporation",
+    "title": "Infrastructure and Transportation",
+    "url": "https://www.rand.org/topics/infrastructure-and-transportation.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "14135a8f179132f204917c3deb50354a",
+    "source": "RAND Corporation",
+    "title": "International Affairs",
+    "url": "https://www.rand.org/topics/international-affairs.html",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "systemic risk",
+      "geopolitics",
+      "security",
+      "conflict"
+    ]
+  },
+  {
+    "id": "d5a20241db5dbac9d45dd651e2815d42",
+    "source": "Santa Fe Institute",
+    "title": "Santa FeInstitute",
+    "url": "https://www.santafe.edu/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "459adb61705f33a797140c137c17fd6c",
+    "source": "Santa Fe Institute",
+    "title": "Sponsored Research",
+    "url": "https://www.santafe.edu/research/resources/sponsored-research",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "a37ecb34c10aff9d9b93a8a2855cdfa1",
+    "source": "Santa Fe Institute",
+    "title": "Miller Scholarships",
+    "url": "https://www.santafe.edu/research/initiatives/miller-scholarship",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "b060c4a24b493ca8b96adad6b8c5570b",
+    "source": "Santa Fe Institute",
+    "title": "SFI in the Media",
+    "url": "https://www.santafe.edu/news-center/in-the-media",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "86153ff4fc218c7723c8a43150da5957",
+    "source": "Santa Fe Institute",
+    "title": "Journalism Fellowship",
+    "url": "https://www.santafe.edu/news-center/journalism-fellowship",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "88f22b4799d1aa3b1e7f1bdef7b4bf8e",
+    "source": "Santa Fe Institute",
+    "title": "Complexity Explorer",
+    "url": "https://www.santafe.edu/engage/learn/complexity-explorer",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "e0b92349a3eb3427492c366fd06ad9de",
+    "source": "Santa Fe Institute",
+    "title": "Postdoctoral Research",
+    "url": "https://www.santafe.edu/research/fellowships/overview",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "b0db209335389c955474eaaf1b04ca95",
+    "source": "Santa Fe Institute",
+    "title": "Education Supporters",
+    "url": "https://www.santafe.edu/engage/learn/supporters",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "e5980ce94bdc8638ff8b0c53def3cefa",
+    "source": "Santa Fe Institute",
+    "title": "Fractal Faculty",
+    "url": "https://www.santafe.edu/people/type/researcher?groups__in=35",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
+    "id": "cdbb1622eecbf917074dcb1bfbae1bc6",
+    "source": "Santa Fe Institute",
+    "title": "Miller Scholars",
+    "url": "https://www.santafe.edu/people/type/researcher?groups__in=21",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "complexity science",
+      "emergence",
+      "networks",
+      "collapse"
+    ]
+  },
+  {
     "id": "4cd4e7c58c18a62c9e2a8a3d79e32c97",
     "source": "Complexity Science Hub Vienna",
     "title": "Research Topics",
@@ -937,10 +1367,52 @@
     ]
   },
   {
-    "id": "741549175892fd3a979363fef5d9e348",
+    "id": "56d18ef14c2d46c833235db820000158",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Russia & Ukraine",
-    "url": "https://understandingwar.org/analysis/russia-ukraine/",
+    "title": "Russian offensive campaign Assessment",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ]
+  },
+  {
+    "id": "90b131a66cc7fc2405c393a346a22a0a",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "russian occupation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ ",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ]
+  },
+  {
+    "id": "7acbd6b9c591811b7036f155c01d4fff",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "Russian Force generation & adaptation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/",
+    "date": "",
+    "summary": "",
+    "topics": [
+      "ukraine war",
+      "geopolitics",
+      "conflict",
+      "security"
+    ]
+  },
+  {
+    "id": "134b326483214ea5f2f03eaf5c86ffd7",
+    "source": "ISW (Institute for the Study of War)",
+    "title": "ISW INTSUM Project",
+    "url": "https://www.understandingwar.org/analysis/middle-east/isw-intsum-project/",
     "date": "",
     "summary": "",
     "topics": [
@@ -953,7 +1425,7 @@
   {
     "id": "a00bbd7af4df1935949669eb53f544a9",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Russian Offensive Campaign Update",
+    "title": "Russian Offensive Campaign Assessment",
     "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/",
     "date": "",
     "summary": "",
@@ -965,10 +1437,10 @@
     ]
   },
   {
-    "id": "a1253dc04639777eea0c1352c5eae6bc",
+    "id": "deae389a686973771d7adf9535e1458d",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Russia's First Ukraine Invasion (Donbas)",
-    "url": "https://www.understandingwar.org/analysis/map-room/?_map_series=russias-first-ukraine-invasion-donbas",
+    "title": "Russian Occupation Update",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/",
     "date": "",
     "summary": "",
     "topics": [
@@ -979,10 +1451,10 @@
     ]
   },
   {
-    "id": "c6d10d4852036e0b653b221d40e8f0a4",
+    "id": "dae695c96831d142a8b2b3d4d8ea5e60",
     "source": "ISW (Institute for the Study of War)",
-    "title": "Browse the research library",
-    "url": "https://www.understandingwar.org/research",
+    "title": "Russian Preparations for War",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russian-preparations-for-war/",
     "date": "",
     "summary": "",
     "topics": [
@@ -993,10 +1465,10 @@
     ]
   },
   {
-    "id": "ce6eee931fafaae3c085a6771690ffd1",
+    "id": "44259e0304fd3a82185418d301d39a44",
     "source": "ISW (Institute for the Study of War)",
-    "title": "COA1d Ukraine Forecast Map: Odesa",
-    "url": "https://understandingwar.org/map/coa1d-ukraine-forecast-map-odesa/",
+    "title": "Russia in Review",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/russia-in-review/",
     "date": "",
     "summary": "",
     "topics": [
@@ -1007,10 +1479,10 @@
     ]
   },
   {
-    "id": "5aed64486d8f76b79e03fc14f6fe7995",
+    "id": "c570e7f1aca4a97591862cc5a4755169",
     "source": "ISW (Institute for the Study of War)",
-    "title": "COA1c Ukraine Forecast Map: Land Bridge to Crimea",
-    "url": "https://understandingwar.org/map/coa1c-ukraine-forecast-map-land-bridge-to-crimea/",
+    "title": "Russian Invasion of Ukraine (2014–2021)",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/ukraine-russia-conflict-january-2015-2016/",
     "date": "",
     "summary": "",
     "topics": [
@@ -1021,52 +1493,10 @@
     ]
   },
   {
-    "id": "2e2710f59818e3ba13f96294bd8551c9",
+    "id": "b8b16f904909e28abd1e4ad0a5149e3e",
     "source": "ISW (Institute for the Study of War)",
-    "title": "COA1a Ukraine Forecast Map: Russian Deployment to Belarus",
-    "url": "https://understandingwar.org/map/coa1a-ukraine-forecast-map-russian-deployment-to-belarus/",
-    "date": "",
-    "summary": "",
-    "topics": [
-      "ukraine war",
-      "geopolitics",
-      "conflict",
-      "security"
-    ]
-  },
-  {
-    "id": "3d317222e35db01e8194f6df9df63829",
-    "source": "ISW (Institute for the Study of War)",
-    "title": "Russian Force Posture around Ukraine December 2021",
-    "url": "https://understandingwar.org/map/russian-force-posture-around-ukraine-december-2021/",
-    "date": "",
-    "summary": "",
-    "topics": [
-      "ukraine war",
-      "geopolitics",
-      "conflict",
-      "security"
-    ]
-  },
-  {
-    "id": "9cbb5d0f7e7381c91cc16d512757c4bf",
-    "source": "ISW (Institute for the Study of War)",
-    "title": "Russian Military Activity: October 8 – 14, 2015",
-    "url": "https://understandingwar.org/map/russian-military-activity-october-8-14-2015/",
-    "date": "",
-    "summary": "",
-    "topics": [
-      "ukraine war",
-      "geopolitics",
-      "conflict",
-      "security"
-    ]
-  },
-  {
-    "id": "04a82730c9b2b556b78635e65e9d42b3",
-    "source": "ISW (Institute for the Study of War)",
-    "title": "Ukraine Crisis Update: September 9, 2015",
-    "url": "https://understandingwar.org/map/ukraine-crisis-update-september-9-2015/",
+    "title": "Putin and Zelensky Before the War",
+    "url": "https://www.understandingwar.org/analysis/russia-ukraine/putin-and-zelensky-before-the-war/",
     "date": "",
     "summary": "",
     "topics": [
@@ -1214,6 +1644,166 @@
       "reforms",
       "reconstruction",
       "real estate ukraine"
+    ]
+  },
+  {
+    "id": "99e7f32a577856bab1260bdee89d5b21",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Israeli strikes hit two Gaza police checkpoints, killing six, medics say",
+    "url": "https://www.al-monitor.com/originals/2026/03/israeli-strikes-hit-two-gaza-police-checkpoints-killing-six-medics-say",
+    "date": "2026-03-29T07:36:37+00:00",
+    "summary": "CAIRO, March 29 (Reuters) - Two Israeli air strikes on two checkpoints of the Hamas-led police force killed at least six Palestinians including a child, local health officials said, in the latest round of violence despite a U.S.-brokered ceasefire that is now more than five months old.Medics said Israeli planes attacked two police checkpoints in Khan Younis in the southern Gaza Strip, killing three policemen and three civilians, including a girl, and wounding four others.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "3f18f75f58172004df40e9c1381d6a2a",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Iran claims aluminium plant attacks in Gulf as Houthis join war",
+    "url": "https://www.al-monitor.com/originals/2026/03/iran-claims-aluminium-plant-attacks-gulf-houthis-join-war",
+    "date": "2026-03-29T05:30:22+00:00",
+    "summary": "Iran claimed on Sunday attacks on two major aluminium plants in the Gulf, further raising the economic stakes of the Middle East war after Yemen's Iran-backed Houthis joined the conflict.The war that began on February 28 with US-Israeli attacks on Iran has mushroomed throughout the region, sending world energy markets into a tailspin and threatening to torpedo the global economy.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "0896950549cc2059461c14bba69b64e9",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Helplines buzz with alerts from seafarers trapped in war",
+    "url": "https://www.al-monitor.com/originals/2026/03/helplines-buzz-alerts-seafarers-trapped-war",
+    "date": "2026-03-29T03:30:24+00:00",
+    "summary": "Seafarers' helplines say they are overwhelmed with messages from crews stuck in the Gulf by the Middle East war, desperately seeking repatriation, compensation and onboard supplies.\"Writing to urgently inform you that our vessel is currently facing a critical situation regarding provisions and one crew health conditions,\" read an email from one seafarer on March 24 to the International Transport Workers' Federation (ITF)'s Seafarer Support team.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "97c1a8ebb5e2a73ec35078a8be819e6e",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Ship insurers juggle war risks for perilous Gulf route",
+    "url": "https://www.al-monitor.com/originals/2026/03/ship-insurers-juggle-war-risks-perilous-gulf-route",
+    "date": "2026-03-29T03:30:24+00:00",
+    "summary": "Iranian forces' threat to ships in the crucial Strait of Hormuz has driven up payments for the insurance that underpins the world freight industry.Here are facts and figures about how maritime insurance works -- and the impact from the war sparked by US-Israeli strikes on Iran, which has virtually cut off shipping in the strait.- Insurance available -",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "f9bba99897e43ab045c2a02ced06d3de",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Pentagon preparing for weeks of ground operations in Iran, Washington Post reports",
+    "url": "https://www.al-monitor.com/originals/2026/03/pentagon-preparing-weeks-ground-operations-iran-washington-post-reports",
+    "date": "2026-03-29T01:01:39+00:00",
+    "summary": "March 28 (Reuters) - The Pentagon is preparing for weeks of ground operations in Iran, the Washington Post reported Saturday, citing U.S. officials.The plans could involve raids by Special Operations and conventional infantry troops, the Post reported. Whether President Donald Trump would approve any of those plans remains uncertain, according to the Post.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "a846be459b5d9f9cbc07e7b4ad3d98cb",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region",
+    "url": "https://www.al-monitor.com/originals/2026/03/yemens-houthis-enter-iran-war-attacks-israel-while-us-marines-arrive-region",
+    "date": "2026-03-28T23:36:38+00:00",
+    "summary": "By Menna AlaaElDin, Nayera Abdallah and Humeyra PamukCAIRO/DUBAI, March 29 (Reuters) - The risk of an expanded Iran war grew on Saturday as Yemen's Iran-aligned Houthis on Saturday launched their first attacks on Israel since the start of the conflict, even as additional U.S. forces reached the Middle East.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "de9db3b7ad0dfb8958892933cc7dc163",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Lebanon kids struggle to keep up studies as war slams school doors shut",
+    "url": "https://www.al-monitor.com/originals/2026/03/lebanon-kids-struggle-keep-studies-war-slams-school-doors-shut",
+    "date": "2026-03-28T21:30:28+00:00",
+    "summary": "In a classroom turned shelter for displaced families, teenager Ahmad Melhem follows a recorded lesson on a tablet as the war between Hezbollah and Israel interrupts education for hundreds of thousands of students in Lebanon.\"I don't want to regret not finishing my studies despite the difficult circumstances,\" said Melhem, whose family was displaced from Beirut's southern suburbs, the site of repeated Israeli bombardment.\"We took a risk and went back to get schoolbooks,\" he told AFP. ",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "c9835ead5c990db6fc3bd0cb72f27acd",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Yemen's Houthis say they launched second attack on Israel in less than 24 hours",
+    "url": "https://www.al-monitor.com/originals/2026/03/yemens-houthis-say-they-launched-second-attack-israel-less-24-hours",
+    "date": "2026-03-28T20:36:38+00:00",
+    "summary": "CAIRO, March 28 (Reuters) - Yemen's Iran-aligned Houthis said they carried out a second attack on Israel in less than 24 hours using missiles and drones, and vowed to continue military operations in the coming days, the group's military spokesperson Yahya Saree said in a televised speech.The Houthis' entry into the conflict adds to regional tensions, particularly given their ability to strike targets far beyond Yemen and disrupt shipping lanes around the Arabian Peninsula and the Red Sea, as the",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "9e9155f6c1fe48be4db63b1cc3abccf4",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Don't strike a deal with Iran's current leaders, opposition figure Pahlavi warns",
+    "url": "https://www.al-monitor.com/originals/2026/03/dont-strike-deal-irans-current-leaders-opposition-figure-pahlavi-warns",
+    "date": "2026-03-28T20:01:41+00:00",
+    "summary": "By Nathan LayneGRAPEVINE, Texas, March 28 (Reuters) - Iranian opposition figure Reza Pahlavi on Saturday warned that negotiating for peace with the current leaders of Iran would only push the threat to Americans down the road, and said he would once again call for Iranians to protest in the streets.",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
+    ]
+  },
+  {
+    "id": "7f759253ab9e02e95aab26123e58d49b",
+    "source": "Al-Monitor (Middle East)",
+    "title": "Israeli strike kills three journalists in south Lebanon",
+    "url": "https://www.al-monitor.com/originals/2026/03/israeli-strike-kills-three-journalists-south-lebanon",
+    "date": "2026-03-28T20:00:23+00:00",
+    "summary": "An Israeli strike killed three journalists Saturday in south Lebanon, including a well-known reporter for Hezbollah's Al Manar network, with Lebanese authorities denouncing the attack as a \"war crime\".The Israeli military confirmed killing Al Manar correspondent Ali Shoeib, accusing him of having \"operated within the Hezbollah terrorist organisation under the guise of a journalist\".",
+    "topics": [
+      "middle east",
+      "iran",
+      "israel",
+      "oil",
+      "geopolitics",
+      "conflict"
     ]
   },
   {
