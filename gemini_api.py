@@ -10,9 +10,9 @@ import config
 
 # Модели в порядке приоритета (все бесплатные)
 MODELS_TO_TRY = [
-    "gemini-2.0-flash-lite",   # самый щедрый лимит (30 RPM)
-    "gemini-2.0-flash",        # основная модель (15 RPM)
-    "gemini-1.5-flash",        # старая, но стабильная (15 RPM)
+    "gemini-2.5-flash-lite",   # самый щедрый лимит (15 RPM, 1000 RPD)
+    "gemini-2.5-flash",        # баланс скорости и качества (10 RPM, 250 RPD)
+    "gemini-2.5-pro",          # лучшее качество (5 RPM, 100 RPD)
 ]
 
 
