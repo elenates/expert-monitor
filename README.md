@@ -1,145 +1,96 @@
 # 📊 Expert Monitor
 
-Автоматический мониторинг экспертных прогнозов о глобальных циклах, кризисах и их влиянии на Чехию и Украину.
+Автоматический сбор экспертных прогнозов о глобальных циклах, кризисах и их влиянии на Чехию и Украину. Саммари делается вручную в Claude для максимальной конкретики.
 
-## Что это делает
+## Как это работает
 
-Раз в месяц (1-го числа) система автоматически:
+### Автоматически (1-го числа каждого месяца):
 
-1. **Монитор** — обходит ~25 источников (блоги экспертов, think tanks, данные) и собирает свежие публикации
-2. **Фильтр** — через Gemini AI отбирает наиболее релевантные материалы, сверяя с базой знаний
-3. **Контекст** — анализирует найденное с точки зрения жителя Чехии
-4. **Саммари** — генерирует итоговый отчёт на русском языке
+1. **Агент 1 (Монитор)** — обходит ~30 источников (блоги экспертов, think tanks, данные по Чехии, Украине, Ближнему Востоку) и собирает свежие публикации
+2. **Агент 2 (Фильтр)** — через Gemini AI отбирает наиболее релевантные материалы и загружает их полный текст
+3. **Подготовка** — формирует файл `docs/for_claude.md` для ручного анализа
 
-Результат: Markdown-отчёт + веб-страница на GitHub Pages.
+### Вручную (5 минут):
+
+1. Скачай `docs/for_claude.md` из репо
+2. Открой новый чат в [Claude](https://claude.ai)
+3. Прикрепи файл + скопируй промпт из `PROMPT_TEMPLATE.md`
+4. Получи саммари и задавай уточняющие вопросы
 
 ## Эксперты и источники
 
-- **Рэй Далио** — большие циклы, долговые кризисы
-- **Питер Турчин** — клиодинамика, перепроизводство элит
-- **Нил Хоув** — теория поколений, «четвёртый поворот»
-- **Нассим Талеб** — чёрные лебеди, антихрупкость
-- **ITR Economics** — прогноз депрессии 2030-х
-- **Think tanks**: WEF, Brookings, RAND, Santa Fe Institute и др.
-- **Чехия/ЕС**: ČNB, ECB, Bruegel, IDEA CERGE-EI
-- **Украина**: ISW, KSE Institute, VoxUkraine
+**Авторы:** Рэй Далио, Питер Турчин, Нил Хоув, Нассим Талеб, ITR Economics, Адам Туз, Nate Hagens
 
-## ⚡ Быстрая установка (15 минут)
+**Think tanks:** WEF, Brookings, RAND, Santa Fe Institute, Cascade Institute, Niskanen Center и др.
 
-### Шаг 1: Получи бесплатный API-ключ Gemini
+**Чехия/ЕС:** ČNB, ECB, Bruegel, IDEA CERGE-EI
 
-1. Зайди на [Google AI Studio](https://aistudio.google.com/apikey)
-2. Нажми «Create API Key»
-3. Скопируй ключ (он выглядит как `AIzaSy...`)
+**Украина:** ISW, KSE Institute, VoxUkraine
 
-### Шаг 2: Создай GitHub-репо
+**Ближний Восток:** Al-Monitor, Crisis Group, IISS, Carnegie MEC
 
-1. Зайди на [github.com/new](https://github.com/new)
-2. Название: `expert-monitor` (или любое другое)
-3. Выбери **Public** (нужен для бесплатных GitHub Actions)
-4. Нажми «Create repository»
+## ⚡ Установка
 
-### Шаг 3: Загрузи файлы
+### 1. API-ключ Gemini (бесплатно)
 
-**Вариант А — через браузер (самый простой):**
-1. Открой свой новый репо на GitHub
-2. Нажми «uploading an existing file»
-3. Перетащи ВСЕ файлы из скачанной папки
-4. Нажми «Commit changes»
-5. Повтори для папок `.github/workflows/`, `data/`, `docs/`, `reports/`
+[Google AI Studio](https://aistudio.google.com/apikey) → Create API Key
 
-**Вариант Б — через командную строку:**
-```bash
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/expert-monitor.git
-cd expert-monitor
-# Скопируй все файлы проекта в эту папку
-git add -A
-git commit -m "Initial commit"
-git push
-```
+### 2. GitHub-репо
 
-### Шаг 4: Добавь API-ключ в секреты
+Создай публичный репо, загрузи все файлы.
 
-1. В репо на GitHub: **Settings** → **Secrets and variables** → **Actions**
-2. Нажми **New repository secret**
-3. Name: `GEMINI_API_KEY`
-4. Secret: вставь свой ключ
-5. Нажми **Add secret**
+### 3. Секрет
 
-### Шаг 5: Включи GitHub Pages
+Settings → Secrets → Actions → `GEMINI_API_KEY` → вставь ключ.
 
-1. В репо: **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main`, папка: `/docs`
-4. Нажми **Save**
+### 4. Первый запуск
 
-### Шаг 6: Запусти первый раз
+Actions → Monthly Expert Monitor → Run workflow
 
-1. В репо: вкладка **Actions**
-2. Слева выбери «Monthly Expert Monitor»
-3. Справа нажми **Run workflow** → **Run workflow**
-4. Подожди 3-5 минут — появится зелёная галочка
+### 5. Саммари
 
-### Готово! 🎉
-
-- **Отчёт** появится в `reports/latest_report.md`
-- **Веб-страница**: `https://ТВОЙ_ЮЗЕРНЕЙМ.github.io/expert-monitor/`
-- Следующий автоматический запуск: 1-е число следующего месяца
+После завершения: скачай `docs/for_claude.md` → новый чат в Claude → прикрепи файл + промпт из `PROMPT_TEMPLATE.md`
 
 ## Структура проекта
 
 ```
 expert-monitor/
-├── .github/workflows/monthly.yml   # GitHub Actions (автозапуск)
+├── .github/workflows/monthly.yml   # Автозапуск (1-е число месяца)
 ├── data/                           # Промежуточные данные
-├── docs/index.html                 # Веб-страница (GitHub Pages)
-├── reports/
-│   ├── latest_report.md            # Последний отчёт
-│   └── archive/                    # Архив отчётов
+│   ├── raw_items.json              # Все найденные материалы
+│   ├── filtered.json               # Отфильтрованные + тексты
+│   └── for_claude.md               # Файл для Claude
+├── docs/
+│   └── for_claude.md               # Копия для скачивания
+├── reports/archive/                # Архив (если нужно)
 ├── agent_monitor.py                # Агент 1: сбор данных
-├── agent_filter.py                 # Агент 2: фильтрация через AI
-├── agent_context.py                # Агент 3: контекст ЧР/Украина
-├── agent_summary.py                # Агент 4: финальный отчёт
+├── agent_filter.py                 # Агент 2: фильтрация + тексты
+├── prepare_for_claude.py           # Подготовка файла для Claude
 ├── config.py                       # Настройки
 ├── gemini_api.py                   # Обёртка Gemini API
 ├── knowledge_base.md               # База знаний (тезисы из книг)
 ├── main.py                         # Оркестратор
-├── requirements.txt                # Зависимости Python
-└── sources.json                    # Конфигурация источников
+├── sources.json                    # Конфигурация источников
+├── PROMPT_TEMPLATE.md              # Промпт для Claude
+└── requirements.txt                # Зависимости
 ```
-
-## Локальный запуск (опционально)
-
-```bash
-pip install -r requirements.txt
-export GEMINI_API_KEY="твой_ключ"
-python main.py
-```
-
-Или отдельные агенты:
-```bash
-python main.py --agent 1   # только мониторинг
-python main.py --agent 2   # только фильтрация
-```
-
-## Стоимость
-
-**$0/месяц.** Всё бесплатно:
-- GitHub Actions: 2000 мин/мес (используем ~5 мин)
-- GitHub Pages: бесплатный хостинг
-- Gemini Flash: 1500 запросов/день бесплатно (используем ~3-4)
 
 ## Настройка
 
-### Добавить новый источник
-Отредактируй `sources.json` — добавь RSS-фид или URL для скрапинга.
+### Добавить источник
+
+Отредактируй `sources.json` — добавь RSS или URL для скрапинга.
 
 ### Изменить частоту
+
 В `.github/workflows/monthly.yml` измени cron:
 - Раз в неделю: `cron: '0 9 * * 1'`
 - Раз в месяц: `cron: '0 9 1 * *'` (по умолчанию)
 
-### Переключить модель AI
-В `config.py` измени `GEMINI_MODEL`. Другие бесплатные варианты:
-- `gemini-2.0-flash` (по умолчанию, быстрый)
-- `gemini-2.0-flash-lite` (ещё быстрее, менее точный)
+### Запустить вручную
+
+Actions → Monthly Expert Monitor → Run workflow (в любое время)
+
+## Стоимость
+
+**$0/месяц.** GitHub Actions + Gemini Flash бесплатны. Claude Pro — обычная подписка, один чат в месяц.
