@@ -52,8 +52,9 @@
   "think_tanks": [
     {
       "name": "WEF Global Risks Report",
-      "url": "https://www.weforum.org/publications/global-risks-report-2026/",
-      "rss": "https://www.weforum.org/feed/",
+      "url": "https://www.weforum.org",
+      "rss": null,
+      "scrape_url": "https://www.weforum.org/stories/",
       "topics": ["global risks", "polycrisis", "systemic risk", "climate", "technology"]
     },
     {
@@ -79,19 +80,22 @@
     {
       "name": "Brookings Institution",
       "url": "https://www.brookings.edu",
-      "rss": "https://www.brookings.edu/feed/",
+      "rss": null,
+      "scrape_url": "https://www.brookings.edu/articles/",
       "topics": ["inequality", "mobility", "elite", "institutions", "democracy"]
     },
     {
       "name": "RAND Corporation",
       "url": "https://www.rand.org",
-      "rss": "https://www.rand.org/feeds/content.xml",
+      "rss": null,
+      "scrape_url": "https://www.rand.org/blog.html",
       "topics": ["systemic risk", "geopolitics", "security", "conflict"]
     },
     {
       "name": "Santa Fe Institute",
       "url": "https://www.santafe.edu",
-      "rss": "https://www.santafe.edu/rss/news",
+      "rss": null,
+      "scrape_url": "https://www.santafe.edu/news-center/news",
       "topics": ["complexity science", "emergence", "networks", "collapse"]
     },
     {
@@ -166,21 +170,22 @@
     {
       "name": "Bruegel (EU Think Tank)",
       "url": "https://www.bruegel.org",
-      "rss": "https://www.bruegel.org/rss.xml",
+      "rss": null,
+      "scrape_url": "https://www.bruegel.org/publications",
       "topics": ["EU economy", "energy EU", "trade", "competitiveness"]
     },
     {
       "name": "ISW (Institute for the Study of War)",
       "url": "https://www.understandingwar.org",
       "rss": null,
-      "scrape_url": "https://www.understandingwar.org/backgrounder/ukraine-conflict-updates",
+      "scrape_url": "https://www.understandingwar.org/analysis/russia-ukraine/",
       "topics": ["ukraine war", "geopolitics", "conflict", "security"]
     },
     {
       "name": "KSE Institute (Kyiv School of Economics)",
-      "url": "https://kse.ua/about-the-school/kse-institute/",
+      "url": "https://kse.ua",
       "rss": null,
-      "scrape_url": "https://kse.ua/about-the-school/kse-institute/",
+      "scrape_url": "https://kse.ua/research/",
       "topics": ["ukraine economy", "reconstruction", "property", "GDP ukraine"]
     },
     {
@@ -188,6 +193,34 @@
       "url": "https://voxukraine.org/en",
       "rss": "https://voxukraine.org/en/feed",
       "topics": ["ukraine economy", "reforms", "reconstruction", "real estate ukraine"]
+    }
+  ],
+  "middle_east_sources": [
+    {
+      "name": "Al-Monitor (Middle East)",
+      "url": "https://www.al-monitor.com",
+      "rss": "https://www.al-monitor.com/rss",
+      "topics": ["middle east", "iran", "israel", "oil", "geopolitics", "conflict"]
+    },
+    {
+      "name": "Crisis Group - Middle East",
+      "url": "https://www.crisisgroup.org/middle-east-north-africa",
+      "rss": null,
+      "scrape_url": "https://www.crisisgroup.org/middle-east-north-africa",
+      "topics": ["middle east conflict", "iran", "israel", "gaza", "lebanon", "geopolitics"]
+    },
+    {
+      "name": "IISS (Strategic Studies)",
+      "url": "https://www.iiss.org",
+      "rss": null,
+      "scrape_url": "https://www.iiss.org/online-analysis",
+      "topics": ["geopolitics", "middle east", "security", "conflict", "defense"]
+    },
+    {
+      "name": "Carnegie Middle East Center",
+      "url": "https://carnegie-mec.org",
+      "rss": "https://carnegie-mec.org/rss/solr/?lang=en",
+      "topics": ["middle east", "iran", "gulf states", "oil geopolitics", "regional stability"]
     }
   ]
 }
