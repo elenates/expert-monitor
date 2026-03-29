@@ -5,14 +5,14 @@ name: Monthly Expert Monitor
 on:
   schedule:
     - cron: '0 9 1 * *'
-  workflow_dispatch:  # кнопка "Run workflow" в GitHub
+  workflow_dispatch:
 
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # нужно для коммита отчёта
+      contents: write
     
     steps:
       - name: Checkout repo
@@ -25,6 +25,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Test Gemini API
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python test_gemini.py
 
       - name: Run Expert Monitor
         env:
