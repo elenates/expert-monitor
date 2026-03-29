@@ -1,13 +1,12 @@
 """
 Expert Monitor — главный оркестратор.
-Запускает все 4 агента последовательно.
+Собирает данные (Агент 1), фильтрует (Агент 2), готовит файл для Claude.
+Саммари делается вручную в Claude Pro.
 
 Использование:
-    python main.py          # полный запуск всех агентов
-    python main.py --agent 1  # только Агент 1 (мониторинг)
-    python main.py --agent 2  # только Агент 2 (фильтрация)
-    python main.py --agent 3  # только Агент 3 (контекст)
-    python main.py --agent 4  # только Агент 4 (саммари)
+    python main.py          # полный запуск
+    python main.py --agent 1  # только сбор данных
+    python main.py --agent 2  # только фильтрация
 """
 import sys
 import time
@@ -16,52 +15,41 @@ from datetime import datetime
 
 from agent_monitor import run_monitor
 from agent_filter import run_filter
-from agent_context import run_context
-from agent_summary import run_summary
+from prepare_for_claude import run_prepare
 
 
 def main():
     parser = argparse.ArgumentParser(description="Expert Monitor Pipeline")
-    parser.add_argument("--agent", type=int, choices=[1, 2, 3, 4],
-                        help="Запустить только конкретного агента (1-4)")
+    parser.add_argument("--agent", type=int, choices=[1, 2],
+                        help="Запустить только конкретного агента (1 или 2)")
     args = parser.parse_args()
 
     start_time = datetime.now()
-    print(f"\n{'='*60}")
-    print(f"🚀 EXPERT MONITOR — запуск {start_time.strftime('%Y-%m-%d %H:%M')}")
-    print(f"{'='*60}")
+    print("\n" + "=" * 60)
+    print("🚀 EXPERT MONITOR — запуск " + start_time.strftime("%Y-%m-%d %H:%M"))
+    print("=" * 60)
 
     try:
         if args.agent is None or args.agent == 1:
             run_monitor()
 
         if args.agent is None or args.agent == 2:
-            # Пауза 60 сек перед обращением к Gemini,
-            # чтобы не попасть в rate limit
             if args.agent is None:
                 print("\n⏳ Пауза 60 сек перед Gemini API...")
                 time.sleep(60)
             run_filter()
 
-        if args.agent is None or args.agent == 3:
-            if args.agent is None:
-                print("\n⏳ Пауза 60 сек между запросами к Gemini...")
-                time.sleep(60)
-            run_context()
-
-        if args.agent is None or args.agent == 4:
-            if args.agent is None:
-                print("\n⏳ Пауза 60 сек между запросами к Gemini...")
-                time.sleep(60)
-            run_summary()
+        if args.agent is None:
+            run_prepare()
 
         elapsed = (datetime.now() - start_time).total_seconds()
-        print(f"\n{'='*60}")
-        print(f"✅ ЗАВЕРШЕНО за {elapsed:.0f} секунд")
-        print(f"{'='*60}")
+        print("\n" + "=" * 60)
+        print("✅ ЗАВЕРШЕНО за " + str(int(elapsed)) + " секунд")
+        print("📎 Скачай data/for_claude.md и открой новый чат в Claude")
+        print("=" * 60)
 
     except Exception as e:
-        print(f"\n❌ ОШИБКА: {e}")
+        print("\n❌ ОШИБКА: " + str(e))
         sys.exit(1)
 
 
