@@ -181,7 +181,27 @@ def run_monitor() -> list[dict]:
         total_sources += 1
         time.sleep(config.REQUEST_DELAY)
 
-    # 4. Data sources (RSS only)
+    # 4. Ближний Восток
+    print("\n🕌 Ближний Восток:")
+    for src in sources.get("middle_east_sources", []):
+        name = src["name"]
+        topics = src.get("topics", [])
+
+        if src.get("rss"):
+            print(f"  RSS: {name}")
+            items = fetch_rss(src["rss"], name, topics)
+            all_items.extend(items)
+            print(f"    → {len(items)} записей")
+        elif src.get("scrape_url"):
+            print(f"  Скрапинг: {name}")
+            items = scrape_page(src["scrape_url"], name, topics)
+            all_items.extend(items)
+            print(f"    → {len(items)} записей")
+
+        total_sources += 1
+        time.sleep(config.REQUEST_DELAY)
+
+    # 5. Data sources (RSS only)
     print("\n📊 Данные:")
     for ds in sources.get("data_sources", []):
         if ds.get("rss"):
