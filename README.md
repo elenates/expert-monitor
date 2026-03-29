@@ -47,6 +47,8 @@ Settings → Secrets → Actions → `GEMINI_API_KEY` → вставь ключ.
 
 Actions → Monthly Expert Monitor → Run workflow
 
+1-го числа каждого месяца пайплайн запустится автоматически и создаст GitHub Issue с напоминанием — уведомление придёт на email.
+
 ### 5. Саммари
 
 После завершения: скачай `docs/for_claude.md` → новый чат в Claude → прикрепи файл + промпт из `PROMPT_TEMPLATE.md`
