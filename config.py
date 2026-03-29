@@ -6,7 +6,7 @@ import os
 
 # Gemini API (бесплатный)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash-lite"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # Пути к файлам
