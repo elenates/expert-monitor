@@ -1,73 +1,57 @@
 # Дайджест — 03.2026
 
-## Что нового за месяц
+## Главное за месяц (3-5 пунктов)
 
-*   **ITR Economics** опубликовал прогноз, где ключевым вопросом для лидеров является подготовка к 2030-м годам (Материал #1). Это подтверждает их предыдущие тезисы о приближении кризиса к началу следующего десятилетия.
-*   **ITR Economics** отмечает замедление роста реальных личных доходов в США до 1.2% (годовой тренд) в январе 2026 года (Материал #21). Это важный индикатор для оценки потребительского спроса и общего состояния экономики.
-*   **Cascade Institute** представил исследования по темам поликризиса, масштабирования и ускорения, а также геотермальной энергии (Материалы #2, #4, #5). Эти публикации углубляют понимание системных рисков и потенциальных решений в текущей фазе цикла.
-*   **ISW (Institute for the Study of War)** продолжает публиковать регулярные оценки российской наступательной кампании и оккупации территорий Украины (Материалы #7, #8, #10, #11). Эти данные важны для отслеживания геополитической напряженности.
-*   **Al-Monitor** сообщает о заявлении Ирана об атаках на алюминиевые заводы в Персидском заливе и вступлении хуситов в конфликт (Материал #13). Это является прямым индикатором эскалации геополитических рисков на Ближнем Востоке.
-*   **Al-Monitor** также сообщает о подготовке Пентагона к наземным операциям в Иране, которые могут продлиться несколько недель (Материал #16). Это усиливает опасения по поводу дальнейшей эскалации конфликта.
-*   **Al-Monitor** освещает увеличение страховых рисков для судов в Персидском заливе из-за угроз в Ормузском проливе (Материал #15). Это напрямую влияет на мировую торговлю и логистику.
+**Ближний Восток в огне: война расширяется.** Конфликт, начавшийся 28 февраля с атак США и Израиля на Иран, перерос в региональную войну. Йеменские хуситы присоединились к боевым действиям, атакуя Израиль, а Иран нанес удары по алюминиевым заводам в Бахрейне и ОАЭ. Пентагон готовится к наземным операциям в Иране, которые могут продлиться недели.
 
-## Сигналы по «большому циклу»
+**ITR Economics: цикл инвестиций подходит к концу.** Согласно прогнозу ITR Economics, рост деловой активности в США, измеряемый заказами на капитальные товары, составил 3.5% за год до января. Однако этот рост замедлится, а к 2030-2036 годам ожидается значительный экономический спад. Это означает, что окно для выгодных капитальных вложений сужается.
 
-*   Публикации **ITR Economics** о подготовке к 2030-м годам и замедлении роста реальных доходов в США (Материалы #1, #21) подтверждают прогнозы о приближении кризисной фазы цикла.
-*   Эскалация на Ближнем Востоке, включая заявления Ирана об атаках и подготовку Пентагона к операциям в Иране (Материалы #13, #16), указывает на нарастание геополитической напряженности, что является характерным признаком поздних стадий цикла.
-*   Исследования **Cascade Institute** по поликризису и системным рискам (Материалы #2, #4, #5) подчеркивают сложность текущей ситуации и взаимосвязанность различных кризисов.
-*   В этом месяце значимых сигналов, опровергающих прогнозы, не обнаружено.
+**Украина: война продолжается, экономика под давлением.** ISW ежедневно фиксирует изменения на фронте, но конкретных прогнозов по окончанию войны нет. Украинская экономика испытывает трудности: дефицит пенсионного фонда, отсутствие предновогоднего всплеска в IV квартале 2025 года. VoxUkraine анализирует реформы и цифровую трансформацию, но война остается главным фактором неопределенности.
 
-## Чехия: что изменилось
+**Риски для Украины: собственность под угрозой.** Владельцы недвижимости в Украине сталкиваются с прямыми рисками из-за боевых действий. Юридические сложности, возможная национализация и общее снижение стоимости активов из-за экономической нестабильности — всё это делает долгосрочное планирование крайне сложным.
 
-За этот месяц конкретных новых данных о решениях ČNB, изменениях процентных ставок, новых данных по инфляции/занятости, а также новых законах или регуляциях в Чехии не обнаружено.
+## Чехия: конкретика
 
-## Украина: обновление
+В этом месяце значимых изменений не было.
 
-*   **Ход войны:** Регулярные оценки **ISW** продолжают фиксировать наступательные действия России и оборону Украины. Конкретных значимых изменений на фронте или в переговорном процессе за этот месяц в представленных материалах не описано.
-*   **Экономика:** Новые данные по гривне, ВВП или восстановлению Украины за этот месяц в представленных материалах отсутствуют.
-*   **Недвижимость:** Новые данные о ценах или законодательстве в сфере недвижимости Украины за этот месяц в представленных материалах отсутствуют.
+## Украина: конкретика
 
-## Ближний Восток: обновление
+Существенных изменений для владельцев недвижимости не было.
 
-*   **Эскалация конфликта:** Иран заявил об атаках на алюминиевые заводы в Персидском заливе, хуситы начали атаки на Израиль, а Пентагон готовится к наземным операциям в Иране (Материалы #13, #16, #17). Это указывает на дальнейшую эскалацию геополитической напряженности в регионе.
-*   **Влияние на цены нефти и энергии:** Конфликты на Ближнем Востоке и угрозы в Ормузском проливе повышают риски для судоходства и страхования, что может привести к росту цен на энергоносители (Материал #15).
-*   **Последствия для ЕС и Чехии:** Эскалация на Ближнем Востоке усиливает инфляционное давление и риски для глобальной торговли, что напрямую затрагивает ЕС и Чехию.
+## Ближний Восток и нефть
 
-## Что делать: конкретные шаги
+Эскалация конфликта на Ближнем Востоке привела к росту цен на энергоносители. Иранские атаки на алюминиевые заводы в Бахрейне и ОАЭ, а также вступление хуситов в войну с атаками на Израиль, вызвали опасения по поводу стабильности поставок. Это может привести к росту цен на нефть и, как следствие, на электроэнергию в Европе.
 
-*   **Заявления Ирана об атаках и подготовка Пентагона к операциям в Иране** → стоит внимательно отслеживать динамику цен на энергоносители и их возможное влияние на инфляцию в Чехии.
-*   **Публикации ITR Economics о подготовке к 2030-м годам** → стоит пересмотреть долгосрочные инвестиционные планы, учитывая приближение потенциального кризиса.
-*   **Данные ITR Economics о замедлении роста реальных доходов в США** → стоит оценить, как это может отразиться на потребительском спросе в Европе и Чехии, и скорректировать потребительские расходы.
-*   **Исследования Cascade Institute по поликризису** → стоит углубить понимание взаимосвязанных системных рисков, чтобы лучше ориентироваться в текущей ситуации.
-*   **Регулярные обновления ISW по Украине** → стоит продолжать мониторинг ситуации на фронте для оценки геополитических рисков.
+## Что делать (максимум 5 пунктов)
+
+1.  **ITR Economics прогнозирует экономический спад в 2030-2036 годах.** Если у тебя есть сбережения, которые ты планируешь инвестировать в долгосрочные проекты, рассмотри возможность их перевода в более консервативные инструменты или в активы, которые могут выиграть от кризиса (например, золото). Начни изучать варианты на этой неделе.
+2.  **Конфликт на Ближнем Востоке обостряется, Иран и хуситы вступают в войну.** Это может привести к росту цен на нефть и, соответственно, на электроэнергию. Если у тебя нефиксированный тариф на электричество в Чехии, зайди на сайт своего поставщика (ČEZ, innogy, E.ON) и зафиксируй тариф на год.
+3.  **ISW ежедневно обновляет информацию о ходе войны в Украине.** Хотя прямых угроз для твоей квартиры нет, общая нестабильность региона сохраняется. Продолжай следить за новостями из Украины, но не принимай панических решений по недвижимости.
+4.  **Пентагон готовится к наземным операциям в Иране.** Это означает дальнейшую эскалацию и неопределенность на Ближнем Востоке. Это подтверждает риск роста цен на энергоносители.
+5.  **ITR Economics отмечает, что рост деловой активности в США замедляется.** Это может быть сигналом к тому, что "ревущие двадцатые" подходят к концу. Если ты планируешь крупные покупки или инвестиции, оцени их необходимость и возможные риски в ближайшие 1-2 года.
 
 ## Источники
 
-*   ITR Economics: Preparing for the 2030s: Key Questions Leaders Are Asking (2026-03-18)
-*   ITR Economics: Don’t Miss the Cycle: Four Considerations for Capital Investment Decisions (2026-03-26)
-*   ITR Economics: Manufacturing Momentum: Economic Trends Driving the Industry (2026-03-23)
-*   ITR Economics: Real Personal Income: A Trend We Are Watching (2026-03-19)
-*   ITR Economics: Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact (2026-03-10)
-*   Cascade Institute (Polycrisis): Permafrost Carbon
-*   Cascade Institute (Polycrisis): Revitalizing and Defending Democracy
-*   Cascade Institute (Polycrisis): Scale-up and Acceleration
-*   Cascade Institute (Polycrisis): Ultradeep Geothermal
-*   Cascade Institute (Polycrisis): Research & Analysis
-*   Cascade Institute (Polycrisis): De-polarization
-*   Opportunity Insights (Chetty): National TrendsHow have children’s chances of moving up changed over time?
-*   ISW (Institute for the Study of War): Russian offensive campaign Assessment
-*   ISW (Institute for the Study of War): russian occupation Update
-*   ISW (Institute for the Study of War): Russian Force generation & adaptation Update
-*   ISW (Institute for the Study of War): Russian Offensive Campaign Assessment Update
-*   ISW (Institute for the Study of War): Russian Occupation Update
-*   Al-Monitor (Middle East): Israeli strikes hit two Gaza police checkpoints, killing six, medics say (2026-03-29)
-*   Al-Monitor (Middle East): Iran claims aluminium plant attacks in Gulf as Houthis join war (2026-03-29)
-*   Al-Monitor (Middle East): Helplines buzz with alerts from seafarers trapped in war (2026-03-29)
-*   Al-Monitor (Middle East): Ship insurers juggle war risks for perilous Gulf route (2026-03-29)
-*   Al-Monitor (Middle East): Pentagon preparing for weeks of ground operations in Iran, Washington Post reports (2026-03-29)
-*   Al-Monitor (Middle East): Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region (2026-03-28)
-*   Al-Monitor (Middle East): Israeli strike kills three journalists in south Lebanon (2026-03-28)
-*   Brookings Institution: Research Programs
+- [Don’t Miss the Cycle: Four Considerations for Capital Investment Decisions](https://blog.itreconomics.com/blog/dont-miss-the-cycle-four-considerations-for-capital-investment-decisions) — ITR Economics
+- [Russian offensive campaign Assessment](https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/) — ISW (Institute for the Study of War)
+- [russian occupation Update](https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ ) — ISW (Institute for the Study of War)
+- [Russian Offensive Campaign Assessment](https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/) — ISW (Institute for the Study of War)
+- [Russian Occupation Update](https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/) — ISW (Institute for the Study of War)
+- [Israeli strikes hit two Gaza police checkpoints, killing six, medics say](https://www.al-monitor.com/originals/2026/03/israeli-strikes-hit-two-gaza-police-checkpoints-killing-six-medics-say) — Al-Monitor (Middle East)
+- [Iran claims aluminium plant attacks in Gulf as Houthis join war](https://www.al-monitor.com/originals/2026/03/iran-claims-aluminium-plant-attacks-gulf-houthis-join-war) — Al-Monitor (Middle East)
+- [Pentagon preparing for weeks of ground operations in Iran, Washington Post reports](https://www.al-monitor.com/originals/2026/03/pentagon-preparing-weeks-ground-operations-iran-washington-post-reports) — Al-Monitor (Middle East)
+- [Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region](https://www.al-monitor.com/originals/2026/03/yemens-houthis-enter-iran-war-attacks-israel-while-us-marines-arrive-region) — Al-Monitor (Middle East)
+- [Yemen's Houthis say they launched second attack on Israel in less than 24 hours](https://www.al-monitor.com/originals/2026/03/yemens-houthis-say-they-launched-second-attack-israel-less-24-hours) — Al-Monitor (Middle East)
+- [Preparing for the 2030s: Key Questions Leaders Are Asking](https://blog.itreconomics.com/blog/preparing-for-the-2030s-key-questions-leaders-are-asking) — ITR Economics
+- [On-line aplikace](https://idea.cerge-ei.cz/seznam-publikaci/idea-aplikace) — IDEA CERGE-EI (Czech Think Tank)
+- [Vývoj nezaměstnanosti](https://idea.cerge-ei.cz/vyvoj-nezamestnanosti/vyvoj-nezamestnanosti) — IDEA CERGE-EI (Czech Think Tank)
+- [Struktura a hodnota majetku českých domácností](https://idea.cerge-ei.cz/zpravy/struktura-a-hodnota-majetku-ceskych-domacnosti) — IDEA CERGE-EI (Czech Think Tank)
+- [Russian Force generation & adaptation Update](https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/) — ISW (Institute for the Study of War)
+- [Military Career Paths: Do Adolescents See a Future in the Military?](https://voxukraine.org/en/military-career-paths-do-adolescents-see-a-future-in-the-military) — VoxUkraine
+- [Does a Pension Deficit Really Exist in Ukraine? What Share of Pension Fund Expenditures Is Covered by the State Budget?](https://voxukraine.org/en/does-a-pension-deficit-really-exist-in-ukraine-what-share-of-pension-fund-expenditures-is-covered-by-the-state-budget) — VoxUkraine
+- [More Reforms Don’t Always Mean More Progress – A 2025 Reform Review](https://voxukraine.org/en/more-reforms-don-t-always-mean-more-progress-a-2025-reform-review) — VoxUkraine
+- [Ukraine’s Digital Transformation: What Could Accelerate or Stall the Reform](https://voxukraine.org/en/ukraine-s-digital-transformation-what-could-accelerate-or-stall-the-reform) — VoxUkraine
+- [The Usual Year-End Surge Did Not Materialize: Overview of Key Changes in Q4 2025](https://voxukraine.org/en/the-usual-year-end-surge-did-not-materialize-overview-of-key-changes-in-q4-2025) — VoxUkraine
 
 ---
-*Отчёт за 03.2026. Следующий: 29.04.2026*
+*Дайджест 03.2026. Сгенерирован на основе 46 источников.*
