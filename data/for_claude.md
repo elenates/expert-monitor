@@ -1,4 +1,4 @@
-# Данные для саммари — 2026-03-29
+# Данные для саммари — 2026-04-01
 
 ## Краткая база знаний (ключевые тезисы экспертов)
 
@@ -25,257 +25,171 @@
 
 ---
 
-## Отфильтрованные материалы (41 шт.)
+## Отфильтрованные материалы (45 шт.)
 
 ### 1. Don’t Miss the Cycle: Four Considerations for Capital Investment Decisions
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/dont-miss-the-cycle-four-considerations-for-capital-investment-decisions
 - **Дата:** 2026-03-26T21:41:28+00:00
-- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, что является конкретным прогнозом с указанием временных рамок. Это соответствует критериям новых данных и прогнозов.
+- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, продлится ~6 лет. Указаны 5 мегатрендов, ведущих к депрессии (демография, здравоохранение, соц. программы, гос. долг, инфляция). Это конкретный прогноз с указанием временных рамок и причин.
 
 Executive Strategy Don’t Miss the Cycle: Four Considerations for Capital Investment Decisions Explore essential strategies for capital investment decisions amid economic uncertainty, focusing on timing, cost control, productivity, and AI implications. ITR Economics Mar 26, 2026 After several years of supply chain disruptions, tariff uncertainty, and volatile demand patterns, skepticism toward economic momentum is understandable. In spite of the headwinds, B2B spending – as measured by US Nondefense Capital Goods New Orders excluding aircraft – expanded 3.5% in the 12 months through January; growth is accelerating, consistent with other industrial sector indicators. While pricing has contributed to much of this growth, we expect some volume gains over a mild accelerating growth cycle extending into late 2026. This could be a favorable environment for making capital investments, but it depends on your business’s lead or lag time to the macroeconomy and whether you will be able to realize your return on investment before we head into the significant economic downturn of 2030–36. Leaders who succeed in this cycle will do four things well. They will understand the business cycle, control costs with strategic timing, prioritize sourcing for productivity, and evaluate their exposure to AI. 1. Time Investments With the Cycle, Not the Headlines Business leaders must time their investments relative to the business cycle while tuning out headlines designed to drive clicks, not inform business decisions. First, find out where your business currently sits within the business cycle. The process is easy, and we present it in detail on our website . Whether a business moves in sync with macroeconomic trends or behaves countercyclically will directly impact the optimal timing and best return for investment decisions. If your business moves at the same time as the macroeconomy, the optimum window for increasing capacity before the peak is short. Macroeconomic indicators support expan
 
 ---
 
-### 2. On-line aplikace
-
-- **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/seznam-publikaci/idea-aplikace
-- **Почему отобрано:** IDEA CERGE-EI — чешский аналитический центр, что соответствует приоритету по Чехии. Наличие 'онлайн-приложений' может содержать конкретные данные или модели.
-
-On-line aplikace O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line aplikace Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Výstupy > On-line aplikace Aktuálně Talent ve školách: Co pomáhá nadaným žákům WEBINÁŘ - Publikační výkonnost a autoři v ČR Struktura a hodnota majetku českých domácností The German Labor Market – Seminar and discussion On-line aplikace Bibliometrické aplikace 👈 Pozn. Jednotlivé aplikace rozbalte/sbalte kliknutím Srovnání vědeckých časopisů A Comparison of Journal Citation Indices IDEA, akademický think-tank při CERGE-EI, spustila novou internetovou aplikaci, která vědcům usnadní orientaci ve světě vědeckých časopisů. Nový interaktivní nástroj umožňuje rychle odhadnout vědecký vliv časopisů v rámci více než 200 vědních oborů. Nástroj umožňuje sledovat i v Česku vydávané časopisy a zjistit, ve kterých časopisech čeští vědci dominantně publikují. Nástroj je založen na citačních indexech časopisů, které byly a jsou důležitým kritériem vládního hodnocení výzkumných organizací. Tápající z českých vědců se tak již nemusí složitě pídit, ve kterých časopisech se mají snažit publikovat. Tento interaktivní nástroj neustále vyvíjíme a aktualizujeme. Nově se tak můžete těšit na: Citační indexy časopisů za roky 2018 a 2019 Přehlednější zobrazení výsledků Novou možnost uživatelského zobrazení četnosti publikací Vstup do aplikace Informační leták o aplikaci si můžete stáhnout ve formátu PDF ZDE Klíčovým ukazatelem vládního hodnocení výzkumných organizací se od roku 2017 stal AIS index vědeckých časopisů (anglicky Article Influence Score ). Na jeho základě lze velmi spolehlivě odhadovat průměrný vědecký vliv resp. význam článků v těchto časopisech publikovaných. Hodnota indexu AIS navíc silně koreluje s
-
----
-
-### 3. Vývoj nezaměstnanosti
-
-- **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/vyvoj-nezamestnanosti/vyvoj-nezamestnanosti
-- **Почему отобрано:** Данные по безработице в Чехии — это конкретный экономический индикатор, релевантный для анализа макроцикла в Чехии.
-
-Vývoj nezaměstnanosti O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line aplikace Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Výstupy > Vývoj nezaměstnanosti Aktuálně Talent ve školách: Co pomáhá nadaným žákům WEBINÁŘ - Publikační výkonnost a autoři v ČR Struktura a hodnota majetku českých domácností The German Labor Market – Seminar and discussion Vývoj nezaměstnanosti Nezaměstnanost v lednu 2026 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich Nezaměstnanost v srpnu 2025 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich Nezaměstnanost v dubnu 2025 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich Nezaměstnanost v prosinci 2024 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich Nezaměstnanost v srpnu 2024 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich 12.9.2024 Nezaměstnanost v dubnu 2024 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich 10.5.2024 Nezaměstnanost v prosinci 2023 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossmann a Daniel Münich 10.1.2024 Nezaměstnanost v srpnu 2023 Blesková analýza aktuálního vývoje registrované nezaměstnanosti na základě dat MPSV. Ke stažení PDF Autoři: Jakub Grossman
-
----
-
-### 4. Struktura a hodnota majetku českých domácností
-
-- **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/zpravy/struktura-a-hodnota-majetku-ceskych-domacnosti
-- **Почему отобрано:** Структура и стоимость имущества чешских домохозяйств — это конкретные экономические данные, важные для анализа внутреннего спроса и финансовой стабильности в Чехии.
-
-Struktura a hodnota majetku českých domácností O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line aplikace Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Události > Aktuálně > Euro v Česku? Pro a proti očima ekonomů z IDEA Aktuálně Talent ve školách: Co pomáhá nadaným žákům WEBINÁŘ - Publikační výkonnost a autoři v ČR Struktura a hodnota majetku českých domácností The German Labor Market – Seminar and discussion Aktuálně Struktura a hodnota majetku českých domácností Chudší české domácnosti drží v evropském srovnání majetek relativně vysoký, ty bohatší relativně nižší. Co stojí za specifickou strukturou majetku českých domácností a jak se liší od zbytku Evropy? Podívejte se na nový díl IDEA Talks s Michalem Šoltésem a Davidem Klimešem. Celý díl IDEA Talks ke zhlédnutí zde: K poslechu také jako podcast: Spotify Apple podcasts Související studie IDEA Zpravodaj Přihlaste se k odběru a naše studie vám již neuniknou. Institut pro demokracii a ekonomickou analýzu Projekt Ekonomického ústavu Akademie věd ČR, v.v.i. Politických vězňů 7, 110 00 Praha 1 email: This email address is being protected from spambots. You need JavaScript enabled to view it. tel: (+420) 602 698 440 Sledujte nás na Mapa stránek Site by CERGE-EI Institut pro demokracii a ekonomickou analýzu: Projekt Národohospodářského ústavu Akademie věd ČR, v.v.i. Politických vězňů 7, 110 00 Praha 1 email: This email address is being protected from spambots. You need JavaScript enabled to view it. tel: (+420) 602 698 440 Sledujte nás na Mapa stránek Site by CERGE-EI
-
----
-
-### 5. Russian offensive campaign Assessment
+### 2. Russian offensive campaign Assessment
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/
-- **Почему отобрано:** ISW предоставляет ежедневные оценки российской наступательной кампании, что является критически важными новыми данными по геополитическому конфликту.
+- **Почему отобрано:** ISW предоставляет ежедневные 'Russian offensive campaign Assessment' по войне в Украине. Это критически важные данные по геополитическому конфликту с прямым влиянием на мировую экономику.
 
 Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Mar 22, 2026 Russia & Ukraine Ukraine Russian Phase Zero Operations in Europe Date Range: September 9, 2025 
 
 ---
 
-### 6. russian occupation Update
+### 3. russian occupation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ 
-- **Почему отобрано:** ISW предоставляет ежедневные обновления по российской оккупации, что является критически важными новыми данными по геополитическому конфликту.
+- **Почему отобрано:** ISW предоставляет ежедневные 'russian occupation Update' по войне в Украине. Это критически важные данные по геополитическому конфликту с прямым влиянием на мировую экономику.
 
 Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Jan 22, 2026 Russia & Ukraine Ukraine Sample of Children’s Camps to Which Russian Occupation Officials Plan to Send 58,000 Ukrainian Children in Summer 2026 READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Update Feb 22, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Static Map Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, March 19 to March 25, 2026 Update Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Update, March 26, 2026 READ MORE Static Map Mar 19, 2026 RUSSIA & UKRAINE UKRAINE Key Developm
 
 ---
 
-### 7. Russian Force generation & adaptation Update
+### 4. Russian Offensive Campaign Assessment
+
+- **Источник:** ISW (Institute for the Study of War)
+- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/
+- **Почему отобрано:** ISW предоставляет ежедневные 'Russian Offensive Campaign Assessment' по войне в Украине. Это критически важные данные по геополитическому конфликту с прямым влиянием на мировую экономику.
+
+Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Mar 22, 2026 Russia & Ukraine Ukraine Russian Phase Zero Operations in Europe Date Range: September 9, 2025 
+
+---
+
+### 5. Russian Occupation Update
+
+- **Источник:** ISW (Institute for the Study of War)
+- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/
+- **Почему отобрано:** ISW предоставляет ежедневные 'Russian Occupation Update' по войне в Украине. Это критически важные данные по геополитическому конфликту с прямым влиянием на мировую экономику.
+
+Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Jan 22, 2026 Russia & Ukraine Ukraine Sample of Children’s Camps to Which Russian Occupation Officials Plan to Send 58,000 Ukrainian Children in Summer 2026 READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Update Feb 22, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Static Map Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, March 19 to March 25, 2026 Update Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Update, March 26, 2026 READ MORE Static Map Mar 19, 2026 RUSSIA & UKRAINE UKRAINE Key Developm
+
+---
+
+### 6. Preparing for the 2030s: Key Questions Leaders Are Asking
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/preparing-for-the-2030s-key-questions-leaders-are-asking
+- **Дата:** 2026-03-18T13:45:28+00:00
+- **Почему отобрано:** Статья касается подготовки к 2030-м годам и вопросов, которые задают лидеры. Хотя конкретные цифры не приведены, она отражает фокус на долгосрочные прогнозы ITR Economics, что релевантно для понимания их видения будущего.
+
+2030s Depression Preparing for the 2030s: Key Questions Leaders Are Asking Prepare for the 2030s with insights on economic trends, strategic asset management, and proactive measures to protect profitability amid uncertainty. ITR Economics Mar 18, 2026 We received many thoughtful questions regarding our economic outlook for the next decade during our December 2025 Executive Series webinar. As leaders think about preparing for the 2030s, many are asking the same fundamental question: What should we be doing now to prepare for the next major economic cycle? While financial decisions should be discussed with a qualified advisor, we identified several themes relevant to business leaders and investors as they determine how to navigate the years ahead. Key Themes Emerging From Leader Questions What Will Drive the 2030s Depression? Our outlook for the 2030s is not based on a single driver but rather on long-term structural pressures that have been building for decades. Demographics, healthcare costs, entitlement spending, inflation, and national debt are all contributing to a coming pullback in demand. These systemic forces — not a single shock — shape our long-term forecast. Understanding these forces now allows leaders to make smarter strategic decisions throughout the remainder of the 2020s. Why Services Often Hold Up Better During severe downturns, service sectors tend to hold up better than goods-producing industries because many services are less discretionary. While consumers may delay purchasing manufactured goods, services such as healthcare, maintenance, and professional services remain necessary. For business leaders, this distinction highlights the importance of understanding where resilience may exist within their markets. Where Investors Are Looking for Stability Many participants also asked about protecting wealth going into the 2030s. In past research we have highlighted sovereign bonds from countries such as Canada, Australia, Switzerland, and Sweden as pot
+
+---
+
+### 7. National TrendsHow have children’s chances of moving up changed over time?
+
+- **Источник:** Opportunity Insights (Chetty)
+- **URL:** https://opportunityinsights.org/national_trends/
+- **Почему отобрано:** Opportunity Insights (Chetty) анализирует 'National Trends' по изменению шансов детей на улучшение положения со временем. Это долгосрочный индикатор социального и экономического развития.
+
+Opportunity Insights Research Data Impact Courses About National Trends How have children’s chances of moving up changed over time? Education Maximizing the impacts of our schools and colleges on upward mobility List of All Papers Our library of papers, presentations, datasets, and replication code Neighborhoods Location matters: from income to health to innovation Racial Disparities What factors drive racial differences in economic opportunity? Other Papers by OI Researchers Other papers related to economic opportunity by OI researchers All Papers All of our papers and presentations. Opportunity Atlas Explore Neighborhood-Level Data to Find Solutions to Your Community’s Challenges. Social Capital Atlas See our new estimates of social capital for every school, college, and ZIP code in the United States. College Mobility Report Cards Use this tool by the New York Times to explore which colleges and universities are engines of income mobility. Economic Tracker Track the economic impacts of COVID-19 on people, businesses, and communities across the United States in real-time. Migration Patterns See where children from your hometown moved in adulthood, and how these patterns vary by race and income. Downloadable Data Repository All available data from our published research. Opportunity Insights supports policymakers, practitioners, and communities to use our research and data to develop evidence-based solutions for improved economic mobility. See more about OI's community impacts Community Impacts: Using Data to Improve Opportunity See how local leaders are using the evidence to develop solutions that boost economic mobility. Expanding Geographic Choice: Creating Moves to Opportunity Pilot effort to identify rigorous and scalable strategies to increase access to high opportunity neighborhoods. Understanding Higher Education: CLIMB Initiative A partnership to explore and amplify higher education as an engine of mobility. Supporting Local Data Tools: Empowering Evidence-
+
+---
+
+### 8. Opportunity AtlasExplore Neighborhood-Level Data to Find Solutions to Your Community’s Challenges.
+
+- **Источник:** Opportunity Insights (Chetty)
+- **URL:** https://www.opportunityatlas.org/
+- **Почему отобрано:** Opportunity Atlas предоставляет данные на уровне районов о возможностях, что может быть использовано для анализа неравенства и его последствий.
+
+The Opportunity Atlas Loading Loading...
+
+---
+
+### 9. Social Capital AtlasSee our new estimates of social capital for every school, college, and ZIP code in the United States.
+
+- **Источник:** Opportunity Insights (Chetty)
+- **URL:** https://socialcapital.org/
+- **Почему отобрано:** Social Capital Atlas предоставляет данные о социальном капитале, что является важным фактором социальной стабильности и экономического развития.
+
+The Social Capital Atlas
+
+---
+
+### 10. From peak back to target: tracking expectations during the inflation surge
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260331~af8055c801.en.html
+- **Дата:** 2026-03-31T09:00:00+00:00
+- **Почему отобрано:** ECB Blog анализирует 'From peak back to target: tracking expectations during the inflation surge'. Это прямое исследование инфляции и инфляционных ожиданий, ключевых макроэкономических показателей.
+
+THE ECB BLOG From peak back to target: tracking expectations during the inflation surge 31 March 2026 By Benjamin Böninghausen, Léa Gosselin, Fabian Schupp and Andreea Vladu Inflation expectations are crucial for monetary policy as they shape economic decisions and feed through to inflation. While expectation surveys provide insights, they come with blind spots. We use a model to transform infrequent survey data into a dense grid of expectations. Measuring inflation expectations is crucial for monetary policy. What we expect tomorrow’s prices to be affects how we spend today and plan for the future. Financial investors, for example, will demand higher interest rates on assets when they expect inflation to increase. They want to be compensated for the expected additional loss of purchasing power. This influences financing conditions, spending and investment, which in turn affect inflation. In the same way, firms’ inflation expectations matter for their price-setting, a channel that economists capture within modern versions of the Phillips curve. And households likewise factor in their inflation expectations when deciding on saving and spending or asking for a pay rise. But measuring these inflation expectations is a challenge. For those of financial investors, there are two methods: either we conduct surveys asking them what they expect or we infer their inflation expectations from market prices. Though both methods can offer valuable information, both also have their shortcomings. Market prices of so-called inflation swaps, for example, do not express market participants' expectations directly. That is because these prices contain risk premia, which compensate investors for bearing inflation uncertainty. [ 1 ] And as these premia are not directly observable, we need to estimate them, which always leaves some uncertainty about the magnitude of actual inflation expectations. By contrast, surveys among professional forecasters provide a more direct measure of survey pa
+
+---
+
+### 11. Russian Force generation & adaptation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/
-- **Почему отобрано:** ISW предоставляет обновления по генерации российских сил и их адаптации, что является критически важными новыми данными по геополитическому конфликту.
+- **Почему отобрано:** ISW анализирует 'Russian Force generation & adaptation Update', что дает представление о военном потенциале и стратегии России, влияющей на геополитическую стабильность.
 
 Home | Analysis | Russia & Ukraine | Russian Force Generation and Technological Adaptations Update Russian Force Generation and Technological Adaptations Update Jump to About this product line The Russian Force Generation and Technological Adaptations Update provides a running intelligence estimate of how Russia is adapting to battlefield realities in Ukraine and the consequences for European defense and the future of war. Each weekly update tracks Russian recruitment efforts, force generation, force reconstitution, force restructuring, and technological adaptations. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. This product line supports ISW’s Contemporary & Future of War Project which analyzes how the war in Ukraine is transforming the character of war in ways that will affect all future wars. ISW launched this product line in April 2024. Insights into Russian force generation and technological adaptation in Ukraine before April 2024 can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Offensive Campaign Update Related Map Series Russian Force Generation Russian Force Generation and Technological Adaptations Update Featured Insights Special Report Feb 23, 2026 Contemporary & Future War Russia & Ukraine Ukraine Russia’s Quest to Intensify The Theater-Wide Battlefield Air Interdiction Campaign Against Ukraine’s Logistics READ MORE Analysis Oct 13, 2025 Contemporary & Future War Russia & Ukraine Ukraine Warning: The Kremlin is Preparing to Mobilize Reservists on a Rolling Basis to Fight in Ukraine for the First Time READ MORE Special Report Jun 2, 2025 Contemporary & Future War Russia & Ukraine Ukraine The Battlefield AI Revolution Is Not Here Yet: The Status of Russian and Ukrainian AI Drone Efforts READ MORE Special Report Feb 23, 2025 Russia & Ukraine Ukraine Pu
 
 ---
 
-### 8. Russian Offensive Campaign Assessment
-
-- **Источник:** ISW (Institute for the Study of War)
-- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/
-- **Почему отобрано:** ISW предоставляет ежедневные оценки российской наступательной кампании, что является критически важными новыми данными по геополитическому конфликту.
-
-Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Mar 22, 2026 Russia & Ukraine Ukraine Russian Phase Zero Operations in Europe Date Range: September 9, 2025 
-
----
-
-### 9. Russian Occupation Update
-
-- **Источник:** ISW (Institute for the Study of War)
-- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/
-- **Почему отобрано:** ISW предоставляет ежедневные обновления по российской оккупации, что является критически важными новыми данными по геополитическому конфликту.
-
-Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Jan 22, 2026 Russia & Ukraine Ukraine Sample of Children’s Camps to Which Russian Occupation Officials Plan to Send 58,000 Ukrainian Children in Summer 2026 READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Update Feb 22, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Static Map Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, March 19 to March 25, 2026 Update Mar 26, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Update, March 26, 2026 READ MORE Static Map Mar 19, 2026 RUSSIA & UKRAINE UKRAINE Key Developm
-
----
-
-### 10. Military Career Paths: Do Adolescents See a Future in the Military?
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/military-career-paths-do-adolescents-see-a-future-in-the-military
-- **Дата:** 2026-03-27T12:06:52+00:00
-- **Почему отобрано:** Анализ карьерных путей в ВСУ и стремлений подростков к военной карьере — это конкретные данные, связанные с Украиной и ее оборонным потенциалом в условиях войны.
-
-Military Career Paths: Do Adolescents See a Future in the Military? Daria Bevziuk Vladyslav Shymanskyi Olha Rybak Analytics Society March 27, 2026 756 In this piece, we examine key trends in how often Ukrainian adolescents consider service in the Armed Forces of Ukraine and aspire to a military career. This data is one of the first attempts to assess the prevalence of such views among adolescents, which may translate into a future inflow of personnel into the country’s Defense Forces. The full-scale war in Ukraine has been ongoing for over four years. Russia’s war against Ukraine has lasted for more than a decade, and there are currently no clear prospects for its end. Under these conditions, the survival and preservation of the state depend on the combat capability and effective functioning of the armed forces. According to President Zelenskyy, as of January 2025 , the Defense Forces of Ukraine had at least 880,000 personnel. Despite this, the military suffers from a chronic personnel shortage. The demand for specialists extends beyond combat units to a wide range of non-combat and high-tech fields—from IT, logistics, and analytics to medicine, engineering, and management. The shortage of young specialists—motivated, socially conscious individuals with modern outlooks and a willingness to drive change—is particularly acute. This need is recognized and reflected in the Military Personnel Policy Concept within the system of the Ministry of Defense of Ukraine until 2028, which emphasizes the formation of a professional, motivated, and strong core of personnel. The document provides for updating approaches to the recruitment, training, and development of military personnel, as well as for creating conditions for their career development, social mobility, and the acquisition of in-demand competencies. The Armed Forces of Ukraine are rapidly evolving and becoming one of the largest institutional employers in the country, opening up broad opportunities for professional de
-
----
-
-### 11. Does a Pension Deficit Really Exist in Ukraine? What Share of Pension Fund Expenditures Is Covered by the State Budget?
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/does-a-pension-deficit-really-exist-in-ukraine-what-share-of-pension-fund-expenditures-is-covered-by-the-state-budget
-- **Дата:** 2026-03-27T10:32:42+00:00
-- **Почему отобрано:** Анализ дефицита пенсионного фонда Украины и доли расходов, покрываемых госбюджетом, — это конкретные экономические данные по Украине.
-
-Does a Pension Deficit Really Exist in Ukraine? What Share of Pension Fund Expenditures Is Covered by the State Budget? Yuliia Horodetska Public finance March 27, 2026 127 The key prerequisite for the success of a solidarity-based (pay-as-you-go) pension system is a sufficient number of formally employed workers. The formula is simple: the more people who pay a portion of their wages as pension contributions (the Unified Social Contribution, USC) to the Pension Fund, the more funds are available for pension payments. Where does Ukraine stand in this regard? The Ministry of Social Policy notes that the optimal ratio is at least two employed persons per pensioner. Today in Ukraine, there is only one USC contributor per pensioner (Figure 1). How large is the Pension Fund deficit, and where does it obtain additional funding? Figure 1. Number of pensioners and USC contributors Source: Pension Fund data During 2023-2024, the Pension Fund was tasked with administering several social payments. Therefore, for this article, we use only data on USC revenues allocated to pension payments and, accordingly, regular pension expenditures. In addition to regular pensions, the Pension Fund administers special pensions established by separate laws (for example, pensions for service members, judges, miners, etc.). The Pension Fund receives funds from the state budget to finance these pensions. In addition, the state budget provides funds to cover the Pension Fund deficit. Figure 2. Revenues and expenditures for pension payments, Pension Fund deficit Source: Pension Fund budget execution reports . Note: expenditures do not include administrative costs, pension delivery, etc. As shown in Figure 2, since 2019 funding for the Pension Fund deficit has declined significantly, and in 2024 there was no deficit despite the emigration of about 4 million working-age individuals. This was driven by an increase in the total wage bill of service members, from which taxes, including the USC, are paid
-
----
-
-### 12. More Reforms Don’t Always Mean More Progress – A 2025 Reform Review
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/more-reforms-don-t-always-mean-more-progress-a-2025-reform-review
-- **Дата:** 2026-03-24T12:52:33+00:00
-- **Почему отобрано:** Обзор реформ в Украине за 2025 год с оценкой их прогресса — это конкретные данные и анализ ситуации в Украине.
-
-More Reforms Don’t Always Mean More Progress – A 2025 Reform Review Viktoriia Vyhovska Reforms March 24, 2026 648 Against the backdrop of corruption scandals and delays in fulfilling certain international commitments, questions are increasingly being raised about whether Ukraine is moving quickly enough to implement the reforms needed to maintain internal resilience and secure future accession to the European Union. This is particularly important ahead of the review of international financial support programs, on which the country’s macro-financial stability and further progress in European integration depend. To better understand the pace and nature of reform progress in 2025, we analyzed key government decisions. Which changes are truly moving the country forward, and which are raising concerns among experts — we explore these questions in this annual review of reforms. General overview of reforms Among the regulatory acts adopted in 2025, Reform Index experts identified and evaluated 180 decisions that change the rules governing the functioning of the state, the economy, and key public institutions. This is significantly more than in 2024 , when experts assessed 139 regulations (Figure 1). Figure 1. Number of reforms by year Source: Reform Index The vast majority of decisions adopted in 2025 received positive scores. Experts rated 172 regulations above zero, indicating they were deemed to contribute to positive change. Of these, 32 received scores of +2 or higher on a scale from -5 to +5 (under the Reform Index methodology, this is the threshold that distinguishes substantial reforms from less significant regulatory changes). Among the most important decisions of 2025 is the law on factoring , which establishes a dedicated register of debt obligations to prevent the same debt from being sold to multiple companies simultaneously. Another important decision is the resolution allowing work experience acquired abroad to be counted toward eligibility for an old-age pe
-
----
-
-### 13. Ukraine’s Digital Transformation: What Could Accelerate or Stall the Reform
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/ukraine-s-digital-transformation-what-could-accelerate-or-stall-the-reform
-- **Дата:** 2026-03-24T12:20:00+00:00
-- **Почему отобрано:** Анализ факторов, которые могут ускорить или замедлить цифровую трансформацию в Украине в условиях войны — это конкретные данные и прогнозы по Украине.
-
-Ukraine’s Digital Transformation: What Could Accelerate or Stall the Reform Viktoriia Vyhovska Reforms March 24, 2026 730 In recent years, digitalization in Ukraine has evolved from a set of fragmented technology projects into one of the country’s key reforms . It has become a tool for enhancing transparency, driving economic development, and improving the quality of public services. However, in 2026, the reform faces a new challenge: how to sustain the pace and intensity of digital transformation amid war, terror against Ukraine’s energy infrastructure, leadership changes in state institutions, and rising security risks. Below, we outline these and other risks that will shape the reform’s trajectory. On February 26, Vox Ukraine held a roundtable on digitalization reform. Together with reform stakeholders, civil servants, representatives of the expert community, and educators, participants discussed the risks facing the reform in 2026 and what the government should focus on to sustain its pace. Below are the key takeaways from the event. A fundamental element of a digital state is its registries and access to data . It is essential to understand that digitalization is not only about smartphone apps or the automation of services. Above all, it is the state’s ability to work with data: to collect it, analyze it, and use it for decision-making. The war has not reduced demand for open data: before the war, about 5 million people used services based on open data each month, whereas during the war and blackouts, nearly 14 million Ukrainians use such services monthly. The reasons are practical. In wartime, conducting due diligence on counterparties and employees becomes far more important: Are they linked to Russian entities or sanctioned individuals? Are they involved in corruption scandals? Open data significantly simplifies such checks. This is especially important in a context where corruption scandals can negatively affect the country’s image among investors. At the s
-
----
-
-### 14. The Usual Year-End Surge Did Not Materialize: Overview of Key Changes in Q4 2025
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/the-usual-year-end-surge-did-not-materialize-overview-of-key-changes-in-q4-2025
-- **Дата:** 2026-03-24T12:09:41+00:00
-- **Почему отобрано:** Обзор ключевых изменений в Украине за 4 квартал 2025 года, включая реформы — это конкретные данные и анализ ситуации в Украине.
-
-The Usual Year-End Surge Did Not Materialize: Overview of Key Changes in Q4 2025 Kseniia Alekankina Reforms March 24, 2026 521 The last quarter of 2025 brought a total of 42 reforms and one zero-scoring change in the socio-economic sphere to the country’s reform record. Despite a decline in the number of changes compared with the previous quarter (when there were 63), there is also good news: this time, there were no counter-reforms. After the peak in reform activity in Q3, the pace of reforms returned to a more typical level in Q4. Figure 1. Initiators of regulatory acts included in the Reform Index Source The government remains the key initiator of reforms in Ukraine. Following the recent cabinet reshuffle , when Yuliia Svyrydenko became head of the Cabinet of Ministers (previously she was the First Deputy Prime Minister—Minister of Economy), the number of government-initiated reforms increased. In Q4, the government accounted for 33 reforms (32 resolutions and 1 law). Over the same period, the Verkhovna Rada initiated only 6 reforms—the lowest quarterly figure since the start of the full-scale invasion. Positive developments Among the 42 positive changes, the highest score—2.5 points (on a scale from –5 to +5)—was awarded to a government resolution stipulating that all construction projects must now be assessed for accessibility. When uploading documents to the Unified State Electronic System in the Construction Sector (USESCS), architects are required to complete an accessibility checklist to confirm that the project complies with barrier-free access requirements. “The resolution does not change accessibility requirements established by state building codes. At the same time, it changes how compliance with these requirements is recorded in the digital system: they are now structured into a separate data block that must be completed and registered in the USESCS. This increases transparency in the system. The introduction of a standardized checklist may be useful 
-
----
-
-### 15. Important Draft Laws, Issue 63: Tax Incentives for Businesses in Kyiv, Tax Exemption for Individuals Renting Out Housing
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/important-draft-laws-issue-63-tax-incentives-for-businesses-in-kyiv-tax-exemption-for-individuals-renting-out-housing
-- **Дата:** 2026-03-24T10:16:37+00:00
-- **Почему отобрано:** Анализ законопроектов в Украине, включая налоговые стимулы для бизнеса и освобождение от налогов для арендодателей — это конкретные данные и законодательные инициативы по Украине.
-
-Important Draft Laws, Issue 63: Tax Incentives for Businesses in Kyiv, Tax Exemption for Individuals Renting Out Housing Oleh Ivanov Reforms March 24, 2026 295 Between February 2 and 15, a total of 27 draft laws were registered in the Verkhovna Rada: 2 presidential, 11 government-initiated, and 14 introduced by MPs. These include proposals to improve the handling of electronic documents, as well as several initiatives in tax and economic policy. In particular, lawmakers propose introducing a pilot fiscal regime, “Free Hryvnia,” in Kyiv, under which several taxes (corporate income tax, personal income tax, VAT, and the military levy) would be replaced by a monthly contribution. Another bill proposes introducing tax incentives for the reconstruction of enterprises damaged or destroyed by Russian attacks. In addition, MPs propose shortening timelines and simplifying bankruptcy procedures for micro and small businesses, reducing the tax on rental income from 18% to 5%, and abolishing this tax for the duration of martial law. Division of electronic documents into conventional and machine-readable formats Currently, the law defines an electronic document simply as information in the form of electronic data with mandatory details (number, issuer, date of issuance, responsible party, contact details). Bill No. 14414 proposes dividing such documents into two types: conventional (unstructured) and machine-readable (structured). Unstructured documents are familiar texts or PDF files that are read on a screen. Machine-readable documents are structured data formats designed to be processed by computer programs without human involvement. A visual form is not required for such documents. The bill defines methods for verifying the authenticity of such documents. While author identification currently requires an electronic signature, the bill would also allow the use of an electronic seal. Moreover, it would allow the creation of machine-readable documents without a signature or sea
-
----
-
-### 16. Pakistan hosts Saudi, Turkey, Egypt for talks on Mideast war<br />
+### 12. Trump says U.S. strongly considering NATO exit, Telegraph newspaper says
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/03/pakistan-hosts-saudi-turkey-egypt-talks-mideast-war
-- **Дата:** 2026-03-29T15:30:23+00:00
-- **Почему отобрано:** Пакистан принимает переговоры с Саудовской Аравией, Турцией и Египтом по войне на Ближнем Востоке. Это новые геополитические данные, касающиеся Ближнего Востока.
+- **URL:** https://www.al-monitor.com/originals/2026/04/trump-says-us-strongly-considering-nato-exit-telegraph-newspaper-says
+- **Дата:** 2026-04-01T09:36:42+00:00
+- **Почему отобрано:** Al-Monitor сообщает о возможном выходе США из НАТО по заявлению Трампа, что является критически важным геополитическим событием с огромными последствиями для мировой безопасности и экономики.
 
-Pakistan, Saudi Arabia, Egypt and Turkey on Sunday held talks about trying to end the war in the Middle East, as Islamabad acts as a go-between between the United States and Iran.The four-way meeting between the top diplomats of the Muslim nations lasted several hours in the Pakistani capital, Islamabad.Pakistan has emerged as a key facilitator between Iran and the United States as their war drags on, relaying messages between the two sides.
+Trump says U.S. strongly considering NATO exit, Telegraph newspaper says Apr 1, 2026 U.S. President Donald Trump signs an executive order on mail ballots, in the Oval Office of the White House in Washington, D.C., March 31, 2026. REUTERS/Evan Vucci — Evan Vucci LONDON, April 1 (Reuters) - U.S. President Donald Trump said he was strongly considering pulling the United States out of NATO after allies failed to back U.S. military action against Iran, according to an interview with Britain's Daily Telegraph. Trump described the alliance as a "paper tiger" and said removing the United States from the defence pact was now "beyond reconsideration," the newspaper reported. He said he had long held doubts about NATO's credibility. "Oh yes, I would say [it’s] beyond reconsideration," Trump told the newspaper when asked about whether he would reconsider U.S. membership of the alliance after the conflict. "I was never swayed by NATO. I always knew they were a paper tiger, and Putin knows that too, by the way." (Reporting by Sam Tabahriti; editing by Michael Holden)
 
 ---
 
-### 17. Pakistan hosts regional powers for Iran talks with focus on Hormuz proposals
+### 13. Trump says war could end in two, three weeks as Israel strikes Tehran
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/03/pakistan-hosts-regional-powers-iran-talks-focus-hormuz-proposals
-- **Дата:** 2026-03-29T14:01:42+00:00
-- **Почему отобрано:** Пакистан принимает региональные державы для переговоров по Ирану с фокусом на предложения по Ормузскому проливу. Это новые геополитические данные, касающиеся Ближнего Востока.
+- **URL:** https://www.al-monitor.com/originals/2026/04/trump-says-war-could-end-two-three-weeks-israel-strikes-tehran
+- **Дата:** 2026-04-01T06:00:26+00:00
+- **Почему отобрано:** Al-Monitor сообщает о заявлении Трампа о возможном окончании войны в течение 2-3 недель и ударах Израиля по Тегерану. Это прямое указание на эскалацию конфликта на Ближнем Востоке.
 
-By Ariba Shahid, Jonathan Spicer and Mubasher  BukhariISLAMABAD/ISTANBUL, March 29 (Reuters) - Pakistan hosted talks with Turkey, Egypt and Saudi Arabia on Sunday as part of its efforts to broker an end to the Iran war, with initial discussions focused on proposals to reopen the Strait of Hormuz to shipping, sources familiar with the matter said.Foreign ministers from the three regional powers landed in Islamabad for the talks as Iran warned the U.S. against launching a ground attack and global 
-
----
-
-### 18. Ukraine's Zelenskiy arrives in Jordan for next leg of Gulf tour
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/03/ukraines-zelenskiy-arrives-jordan-next-leg-gulf-tour
-- **Дата:** 2026-03-29T13:36:37+00:00
-- **Почему отобрано:** Визит Зеленского в Иорданию в рамках турне по Персидскому заливу для укрепления оборонных связей — это новые геополитические данные, касающиеся Ближнего Востока и Украины.
-
-KYIV, March 29 (Reuters) - Ukrainian President Volodymyr Zelenskiy arrived in Jordan on Sunday as part of a Gulf tour aimed at shoring up defence ties with countries in the region amid rising tensions over the Iran war.Zelenskiy is seeking support from Gulf states for Ukraine's war against Russia as Western military aid faces fresh uncertainty and Kyiv struggles to cover its budget deficit and fund domestic weapons production.
+Trump says war could end in two, three weeks as Israel strikes Tehran by AFP teams in Tehran, Jerusalem, Washington, Beirut, Dubai and Sanaa Apr 1, 2026 Residents and first responders at the scene following an Iranian strike in Bnei Brak in central Israel on Wednesday — Marco Longari Tehran was rocked by a fresh wave of explosions Wednesday, as US President Donald Trump said the war with Iran could be over in two or three weeks. The conflict began when the United States and Israel launched airstrikes across Iran that killed supreme leader Ayatollah Ali Khamenei, quickly mushrooming into a regional war that has sent oil and gas prices soaring and threatened to torpedo the global economy. But Trump, whose statements on the war have swung from combative to conciliatory, said late Tuesday that the fighting could be over in "two weeks, maybe three". The White House said he would give "an important update on Iran" to the nation at 9:00 pm Wednesday (0100 GMT Thursday). Tehran has insisted there are no ongoing negotiations with the United States, and that it has not responded to a reported 15-point proposal from Washington to end the war. With the status of diplomatic efforts uncertain, Iranian state television reported that Tehran was under attack on Wednesday, and explosions were heard in the capital's north, east and centre. The Israeli military confirmed it had carried out the strikes, and later said it was intercepting a missile attack from Iran which medics said seriously injured an 11-year-old girl and wounded 13 others. Israel said Wednesday its air defences were also responding to a missile fired from Yemen -- the third attack by the Iran-backed Houthi rebels since they entered the war over the weekend. Thousands of people have been killed throughout the region during the conflict, which has displaced millions more from their homes. Iranian President Masoud Pezeshkian said the Islamic republic had the "necessary will" to end the war, provided its enemies guarantee
 
 ---
 
-### 19. War in the Middle East: latest developments
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/03/war-middle-east-latest-developments-25
-- **Дата:** 2026-03-29T13:30:21+00:00
-- **Почему отобрано:** Обновления по войне на Ближнем Востоке, включая удар по иранскому объекту — это новые конкретные данные по геополитической ситуации.
-
-Here are the latest developments in the Middle East war:- Iran missile unit -The Israeli military said it had attacked overnight a key production facility in Tehran used by Iran's defence ministry to manufacture components for ballistic missiles.Since the US-Israel war on Iran began on February 28, Israel has attacked several weapons production facilities in the Islamic republic, as well as nuclear sites.- France condemns Houthis -
-
----
-
-### 20. Preparing for the 2030s: Key Questions Leaders Are Asking
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/preparing-for-the-2030s-key-questions-leaders-are-asking
-- **Дата:** 2026-03-18T13:45:28+00:00
-- **Почему отобрано:** Статья посвящена подготовке к 2030-м годам и содержит вопросы, которые задают лидеры, что косвенно указывает на ожидаемые экономические тренды и вызовы, связанные с прогнозом ITR Economics.
-
-
-  
-
-We received many thoughtful questions regarding our economic outlook for the next decade during our December 2025 Executive Series webinar.
-
----
-
-### 21. Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact
+### 14. Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/oil-prices-and-the-economy-forecast-consumer-risk-and-inflation-impact
 - **Дата:** 2026-03-10T20:41:40+00:00
-- **Почему отобрано:** Обсуждает влияние цен на нефть на экономику, потребительские риски и инфляцию. Это конкретные экономические индикаторы, важные для анализа макроциклов.
+- **Почему отобрано:** Обсуждаются цены на нефть, их влияние на потребителей и инфляцию. Это конкретный экономический индикатор, который может быть связан с макроэкономическими циклами и инфляционными процессами.
 
-
-  
-
-Clients have been asking a lot of questions about oil prices and their economic impact lately. Where are prices headed? How will consumers handle the shock of higher energy costs? Is there a price point at which oil prices begin to adversely impact the economy? How should I plan for inflation? Here is what we want you to know.
+News Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact Stay informed on the economic impact of rising oil prices, consumer risks, and inflation. Learn strategies to protect your business amid uncertainties. ITR Economics Mar 10, 2026 Clients have been asking a lot of questions about oil prices and their economic impact lately. Where are prices headed? How will consumers handle the shock of higher energy costs? Is there a price point at which oil prices begin to adversely impact the economy? How should I plan for inflation? Here is what we want you to know. Executive Summary: Economic concern is less about how high oil goes and more about how we are seeing an oil price shock coincide with weak real income growth. In the meantime, there are a multitude of levers you can pull to help your business. What Does the Data Say Happens During and After Extreme Oil Price Shocks? Daily oil price data extends back to roughly 1983. Since that time, we have seen 10 events associated with at least one 20% increase in oil prices over a five-day stretch: three wars (the 1990 Gulf War, the 2022 Russia-Ukraine War, and today), three OPEC-related events, volatility surrounding two recessions (the Great Recession and COVID-19), a mid-1990s inventory imbalance, and the Exxon-Valdez oil spill. Focusing on the two previous wars, there is a degree of consensus: monthly average prices peaked within the first three to four months, then gave up most, if not all, of the gains in the ensuing three or so months. The degree of increase was substantially different — 93% in the case of 1990 and 25% in the case of 2022. That reflects differences in: Where oil prices were prior to war (low, in the case of 1990, making it easier to rise higher; prices were already elevated in the case of 2022) Dynamics of the war itself (fought in the Middle East, in or near a multitude of oil-producing nations, versus outside it) How globalized the oil market was (not as globalized in 1990 as 20
 
 ---
 
-### 22. Growth Can Return While Profitability Lags
+### 15. Growth Can Return While Profitability Lags
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/growth-can-return-while-profitability-lags
 - **Дата:** 2026-02-20T13:00:01+00:00
-- **Почему отобрано:** Упоминает прогноз ITR Economics о 'бесприбыльном процветании' в 2020-х, где рост может сопровождаться отставанием прибыльности. Это конкретный экономический прогноз.
+- **Почему отобрано:** Прогноз 'бесприбыльного процветания' (profitless prosperity) в 2020-х, когда рост может сопровождаться отстающей прибыльностью из-за высоких издержек и ограниченной ценовой власти. Это конкретное описание экономического явления.
 
-
-  
-
-That is the reality many leaders face when costs remain elevated and pricing power is limited. ITR Economics has been warning that the 2020s may include periods of profitless prosperity — where top-line growth is achievable, but margins are compressed by labor, materials, interest rates, and other structural pressures.
+Solutions Growth Can Return While Profitability Lags Learn why strong growth isn't translating into profits and discover strategic shifts for business resiliency in our upcoming webinar. ITR Economics Feb 20, 2026 That is the reality many leaders face when costs remain elevated and pricing power is limited. ITR Economics has been warning that the 2020s may include periods of profitless prosperity — where top-line growth is achievable, but margins are compressed by labor, materials, interest rates, and other structural pressures. This disconnect creates a leadership challenge. When volumes improve, it is easy to assume that profits will follow. But if costs rise just as fast, or faster, your organization can be busy and still underperform financially. The solution is not panic. It is strategy built on economic intelligence: understanding cycle dynamics, using the right leading indicators, and making decisions that align investment with forward-looking risk and opportunity. In Profitless Prosperity: Why Growth Isn’t Translating Into Profits — and What Leaders Must Do Next , we will detail why this environment occurs and what it means for leadership teams. We will translate the macro forces into practical guidance across pricing strategy, capital allocation, productivity, and technology investment. You’ll also learn how CEOs, CFOs, and CIOs can align priorities so that your organization doesn’t simply grow, but grows profitably and with resilience. If you are seeing improving demand but stubborn margin pressure, this webinar will help you determine what is cyclical, what is structural, and what actions you can take now to reduce risk and improve outcomes. Register today to gain the clarity and decision-making framework you need to navigate profitless prosperity with confidence. Solutions
 
 ---
 
-### 23. Business Investment a Constructive Signal Despite Uncertainty
+### 16. Business Investment a Constructive Signal Despite Uncertainty
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/business-investment-a-constructive-signal-despite-uncertainty
 - **Дата:** 2026-02-17T13:00:03+00:00
-- **Почему отобрано:** Содержит данные о росте заказов на капитальные товары в США, что является конкретным экономическим индикатором, отражающим инвестиционную активность и производственный цикл.
+- **Почему отобрано:** Упоминается рост инвестиций в бизнес (US Capital Goods New Orders в ускоренном росте), что является позитивным сигналом, несмотря на неопределенность. Это конкретный экономический индикатор.
 
 
   
@@ -284,19 +198,89 @@ Recent data show a notable rise in business investment, suggesting that firms ar
 
 ---
 
-### 24. Talent ve školách: Co pomáhá nadaným žákům
+### 17. Legal Immigration in Numbers: March 2026 Status Update
 
-- **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/zpravy/talent-ve-skolach-co-pomaha-nadanym-zakum
-- **Почему отобрано:** Анализ талантов и школ в Чехии может косвенно указывать на долгосрочную конкурентоспособность и инновационный потенциал страны.
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/immigrationdata/?utm_source=rss&utm_medium=rss&utm_campaign=immigrationdata
+- **Дата:** 2026-03-31T17:45:00+00:00
+- **Почему отобрано:** Статья 'Legal Immigration in Numbers: March 2026 Status Update' от Niskanen Center содержит конкретные данные по иммиграции, что может влиять на демографию и рабочую силу.
+
+While President Trump has kept the spotlight on illegal immigration, legal immigration has also been disrupted.
+The post Legal Immigration in Numbers: March 2026 Status Update appeared first on Niskanen Center.
 
 ---
 
-### 25. WEBINÁŘ - Publikační výkonnost a autoři v ČR
+### 18. Adoption Readiness Levels for energy technologies
+
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/adoption-readiness-levels/?utm_source=rss&utm_medium=rss&utm_campaign=adoption-readiness-levels
+- **Дата:** 2026-03-26T17:54:58+00:00
+- **Почему отобрано:** Niskanen Center предлагает 'Adoption Readiness Levels for energy technologies', что может быть связано с прогнозами по энергетическим рынкам и их влиянию на экономику.
+
+A standardized framework for assessing commercial readiness and guiding targeted public intervention across the energy technology landscape.
+The post Adoption Readiness Levels for energy technologies appeared first on Niskanen Center.
+
+---
+
+### 19. Economic TrackerTrack the economic impacts of COVID-19 on people, businesses, and communities across the United States in real-time.
+
+- **Источник:** Opportunity Insights (Chetty)
+- **URL:** http://www.tracktherecovery.org
+- **Почему отобрано:** Economic Tracker от Opportunity Insights в реальном времени отслеживает экономические последствия COVID-19. Хотя пандемия прошла, методология и данные могут быть применимы к другим шокам.
+
+---
+
+### 20. Vývoj nezaměstnanosti
 
 - **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/zpravy/webinar-publikacni-vykonnost-a-autori-v-cr-2
-- **Почему отобрано:** Вебинар о публикационной активности и авторах в Чехии может содержать данные о научном и инновационном потенциале, влияющем на экономический цикл.
+- **URL:** https://idea.cerge-ei.cz/vyvoj-nezamestnanosti/vyvoj-nezamestnanosti
+- **Почему отобрано:** IDEA CERGE-EI публикует данные по 'Vývoj nezaměstnanosti' (Динамика безработицы) в Чехии, что является ключевым экономическим индикатором.
+
+---
+
+### 21. Struktura a hodnota majetku českých domácností
+
+- **Источник:** IDEA CERGE-EI (Czech Think Tank)
+- **URL:** https://idea.cerge-ei.cz/zpravy/struktura-a-hodnota-majetku-ceskych-domacnosti
+- **Почему отобрано:** IDEA CERGE-EI анализирует 'Структура и hodnota majetku českých domácností' (Структура и стоимость имущества чешских домохозяйств), что важно для понимания финансового состояния и потребления.
+
+---
+
+### 22. One market, one supervision: the case for integrated EU capital markets oversight
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260330~0370e4586a.en.html
+- **Дата:** 2026-03-30T09:00:00+00:00
+- **Почему отобрано:** ECB Blog обсуждает 'One market, one supervision: the case for integrated EU capital markets oversight'. Это касается структуры финансовых рынков ЕС, что важно для системных рисков.
+
+---
+
+### 23. Low unemployment, plenty of labour: what does it imply for wage pressures?
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260309~3a4841b028.en.html
+- **Дата:** 2026-03-09T10:00:00+00:00
+- **Почему отобрано:** ECB Blog анализирует 'Low unemployment, plenty of labour: what does it imply for wage pressures?'. Это касается рынка труда и инфляционного давления, важных экономических индикаторов.
+
+---
+
+### 24. How tariffs threaten business dynamism, productivity and growth
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260225~f0dae9781d.en.html
+- **Дата:** 2026-02-25T10:00:00+00:00
+- **Почему отобрано:** ECB Blog анализирует 'How tariffs threaten business dynamism, productivity and growth'. Это прямое исследование влияния тарифов (геополитика) на экономические показатели.
+
+---
+
+### 25. A Supply-Constrained Economy: Implications for Monetary Policy
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/a-supply-constrained-economy-implications-for-monetary-policy
+- **Дата:** 2026-03-31T10:18:55+00:00
+- **Почему отобрано:** VoxUkraine анализирует 'A Supply-Constrained Economy: Implications for Monetary Policy'. Это прямое исследование влияния ограничений предложения на экономику и монетарную политику.
+
+Globalization has only reinforced the need for sound macroeconomic policy. Unstable inflation is a sign of weak institutional maturity, which negatively affects competition for capital and talent.
 
 ---
 
