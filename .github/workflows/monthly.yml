@@ -2,7 +2,7 @@ name: Monthly Expert Monitor
 
 on:
   schedule:
-    - cron: '0 9 1 * *'
+    - cron: '0 9 15 * *'
   workflow_dispatch:
 
 jobs:
