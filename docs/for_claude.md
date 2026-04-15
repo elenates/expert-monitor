@@ -1,4 +1,4 @@
-# Данные для саммари — 2026-04-02
+# Данные для саммари — 2026-04-15
 
 ## Краткая база знаний (ключевые тезисы экспертов)
 
@@ -25,225 +25,290 @@
 
 ---
 
-## Отфильтрованные материалы (20 шт.)
+## Отфильтрованные материалы (40 шт.)
 
-### 1. How banks are adjusting to declining reserves
+### 1. Your Market View Is Incomplete
 
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260402~d9be74e490.en.html
-- **Дата:** 2026-04-02T09:00:00+00:00
-- **Почему отобрано:** Новые данные ЕЦБ о том, как банки адаптируются к снижению резервов. Это прямой экономический индикатор.
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/your-market-view-is-incomplete
+- **Дата:** 2026-04-09T15:30:34+00:00
+- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, продлится ~6 лет. Точность прогнозов 94.7% с 1985 года. Указывает на 5 мегатрендов: демография, расходы на здравоохранение, социальные программы, госдолг, инфляция.
 
-THE ECB BLOG How banks are adjusting to declining reserves 2 April 2026 By Vagia Iskaki, Tobias Linzert, Yannik Schneider, Marta Skrzypińska and Olivier Vergote As the Eurosystem normalises its balance sheet, central bank reserves – banks’ most liquid asset – keep declining. This post examines how banks adapt to lower levels of reserves and explains why take-up in the Eurosystem’s standard refinancing operations (SROs) is expected to increase. [ 1 ] Central bank reserves have almost halved from a peak of €4.9 trillion in 2022 to €2.6 trillion in early 2026 (Chart 1a). While still abundant, they are unevenly spread across banks. This implies that, as the Eurosystem continues to shrink its balance sheet, some banks may need to source reserves sooner than others. At the same time, money market rates at which banks lend and borrow have moved closer to the deposit facility rate (DFR) – the main policy rate through which the ECB steers its monetary policy stance. In fact, secured money market – repo – rates last traded this close to the DFR in 2020. This blog post examines the implications of these trends. In an annual Eurosystem survey, bank treasurers were asked about the preferred level of reserves they wish to hold. When compared to actual reserve holdings, we find that banks representing 26% of all euro area banking assets now operate close to what was indicated as their preferred level of reserves, up from 15% a year earlier (Chart 1b). [ 2 ] The group includes large banks, such as globally systemically important banks (G-SIBs), as well as custodians and asset managers – institutions that generally manage their liquidity more actively. Looking ahead, reserves are projected to decline by about €470 billion per year, though this projection is subject to high uncertainty (Chart 1a). [ 3 ] While at present most banks are still holding abundant reserves, the share of banks nearing their preferred reserve levels is expected to increase. By the end of 2026, banks accountin
-
----
-
-### 2. From peak back to target: tracking expectations during the inflation surge
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260331~af8055c801.en.html
-- **Дата:** 2026-03-31T09:00:00+00:00
-- **Почему отобрано:** Новые данные ЕЦБ о динамике инфляционных ожиданий. Прямой экономический индикатор.
-
-THE ECB BLOG From peak back to target: tracking expectations during the inflation surge 31 March 2026 By Benjamin Böninghausen, Léa Gosselin, Fabian Schupp and Andreea Vladu Inflation expectations are crucial for monetary policy as they shape economic decisions and feed through to inflation. While expectation surveys provide insights, they come with blind spots. We use a model to transform infrequent survey data into a dense grid of expectations. Measuring inflation expectations is crucial for monetary policy. What we expect tomorrow’s prices to be affects how we spend today and plan for the future. Financial investors, for example, will demand higher interest rates on assets when they expect inflation to increase. They want to be compensated for the expected additional loss of purchasing power. This influences financing conditions, spending and investment, which in turn affect inflation. In the same way, firms’ inflation expectations matter for their price-setting, a channel that economists capture within modern versions of the Phillips curve. And households likewise factor in their inflation expectations when deciding on saving and spending or asking for a pay rise. But measuring these inflation expectations is a challenge. For those of financial investors, there are two methods: either we conduct surveys asking them what they expect or we infer their inflation expectations from market prices. Though both methods can offer valuable information, both also have their shortcomings. Market prices of so-called inflation swaps, for example, do not express market participants' expectations directly. That is because these prices contain risk premia, which compensate investors for bearing inflation uncertainty. [ 1 ] And as these premia are not directly observable, we need to estimate them, which always leaves some uncertainty about the magnitude of actual inflation expectations. By contrast, surveys among professional forecasters provide a more direct measure of survey pa
+Solutions Your Market View Is Incomplete Pricing has become a more consequential piece of the puzzle this cycle, and if your business is struggling to price with confidence, you are not alone. ITR Economics Apr 9, 2026 We are hearing this theme from business leaders more and more: You have a strong handle on your markets, and you know your business’s capacity to capitalize on market expansion as well as its ability to mitigate a market downturn. Yet in recent months, you are finding yourself: Explaining why margins slipped on orders booked six months ago, even though revenue met your plan Renegotiating suppliers after the fact while locked into customer pricing that no longer fits your costs Winning work that looks strong on paper, only to see material and labor cost increases eat away at profitability Pricing has become a more consequential piece of the puzzle this cycle, and if your business is struggling to price with confidence — without eroding margins on one side or alienating customers on the other — you are not alone. Pricing Issues Pervade the Economy In the data, nominal dollar growth is holding up in many sectors. Our marquee dataset for business-to-business spending, US Nondefense Capital Goods New Orders (excluding aircraft), is 3.5% above the year-ago level. Adjusted for inflation, however, annual New Orders are essentially flat — just 0.3% above a year ago. Your business may be experiencing something similar. Getting a Handle on Your Pricing Environment The challenge is not recognizing inflation; everyone sees it and feels it. The challenge is knowing how it will affect your business and having a reliable view of what comes next. Most companies rely on a mix of internal data and broad indicators like CPI or PPI to guide pricing. But neither provides a complete picture. Internal data shows what has already happened, not what is coming. Broad indices reflect average conditions, but that is not your cost structure. This is especially true in times like t
 
 ---
 
-### 3. Low unemployment, plenty of labour: what does it imply for wage pressures?
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260309~3a4841b028.en.html
-- **Дата:** 2026-03-09T10:00:00+00:00
-- **Почему отобрано:** Новые данные ЕЦБ о влиянии низкого уровня безработицы на инфляцию заработной платы. Прямой экономический индикатор.
-
-THE ECB BLOG Low unemployment, plenty of labour: what does it imply for wage pressures? 9 March 2026 By Oscar Arce and David Sondermann Euro area unemployment is near record lows and set to fall further. Yet wage growth is projected to moderate. Paradox? Not if you look beyond unemployment – immigration, participation, job switching and firms’ hiring intentions are all part of the story. Slack in the labour market is a key input into monetary policy assessments of wage growth and inflation. [ 1 ] It is about the balance between effective labour supply and firms’ demand for workers. The unemployment rate has traditionally served as the central indicator of labour market slack in policy discussions. In the euro area, this rate has been close to its record low for some time now (Chart 1). It is projected to fall even further in the next three years. Over the same period, wage growth is also projected to decelerate. This combination seems puzzling because the classic Phillips curve relationship predicts that a lower unemployment rate would make firms bid up wages to attract workers. Chart 1 Euro area unemployment (left-hand side: millions of unemployed; right-hand side: unemployment as a percentage of the labour force) Source: Eurostat, Labour Force Survey, latest observation: Q3 2025. This blog post takes a closer look at labour market mechanics to make sense of the combination of low unemployment and the projected deceleration of wage increases. We argue that focusing on the unemployment rate alone falls short and can be misleading. At times, unemployment captures the supply-demand balance less well, in particular when labour supply and demand adjust along several additional margins. And these margins have become more important in recent years. The labour force is growing How have firms satisfied their demand for additional workers over time? Employment growth can be broken down into the changes in unemployment and workers that joined the labour force (Chart 2). Follo
-
----
-
-### 4. Europe diesel at four-year high above $200 as Iran war disrupts supply
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/europe-diesel-four-year-high-above-200-iran-war-disrupts-supply
-- **Дата:** 2026-04-02T15:45:39+00:00
-- **Почему отобрано:** Конкретные цифры по ценам на дизельное топливо в Европе (четырехлетний максимум выше $200), связанные с геополитикой (война в Иране). Прямой экономический индикатор и геополитика.
-
-Europe diesel at four-year high above $200 as Iran war disrupts supply Subscribe for less than $9/month to access this story and all Al-Monitor reporting. By entering your email, you agree to receive ALM's daily newsletter and occasional marketing messages.
-
----
-
-### 5. Medical needs surging in Iran and supplies under threat, Red Cross warns
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/medical-needs-surging-iran-and-supplies-under-threat-red-cross-warns
-- **Дата:** 2026-04-02T16:01:40+00:00
-- **Почему отобрано:** Конкретные данные о росте медицинских потребностей в Иране и угрозе поставкам, связанные с войной. Геополитика и экономические последствия.
-
-Medical needs surging in Iran and supplies under threat, Red Cross warns By Emma Farge Apr 2, 2026 People stand near damaged buildings, amid the U.S.-Israeli conflict with Iran, in Tehran, Iran, in this still image obtained from a handout video released on April 1, 2026. Iranian Red Crescent Society/Handout via REUTERS — IRANIAN RED CRESCENT SOCIETY By Emma Farge GENEVA, April 2 (Reuters) - Emergency medical needs in Iran are rising exponentially, and stocks of trauma kits and other gear could run low if the war persists, the head of the International Federation of Red Cross and ​Red Crescent ​Societies delegation there said on Thursday. More than 1,900 people have been killed since the U.S.-Israeli airstrikes on Iran began on February 28, and more than 21,000 injured, according to the agency - the only humanitarian group working across the country. Other estimates are higher. Maria Martinez told Reuters three of the agency's own workers had died on duty, including one during an airstrike on March 31 that hit a medical clinic in Zanjan province. She did not attribute blame for the killings. 'YOU CAN SENSE THE FEAR' "Our concern is really how the humanitarian needs are escalating so rapidly and (over) our ability to bring all the support into the country," Martinez said. Hopes for a swift end to the conflict faded on Thursday after U.S. President Donald Trump vowed to conduct more aggressive strikes. Washington has said its Iran strikes are being carried out with precision. Israel's military has said it takes measures to mitigate harm against civilians during its operations. Martinez said there were no shortages of emergency stocks for now, but the situation would worsen if the fighting continued, especially as the price of supplies went up and their insufficient funding ran low. “The needs are exponentially increasing. Resources are not unlimited," she said. She was concerned that people's fears of bombings would stop them from venturing out to seek aid. "The street
-
----
-
-### 6. Hamas wants guarantees of Israeli troop withdrawal before disarmament talks, sources say
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/hamas-wants-guarantees-israeli-troop-withdrawal-disarmament-talks-sources-say
-- **Дата:** 2026-04-02T17:01:44+00:00
-- **Почему отобрано:** Геополитическое событие: требования ХАМАС по выводу войск Израиля перед переговорами о разоружении. Конкретные условия переговоров.
-
-Hamas wants guarantees of Israeli troop withdrawal before disarmament talks, sources say By Nidal al-Mughrabi and Ahmed Shalaby Apr 2, 2026 The damaged Al-Shifa Hospital during the war in Gaza City, March 31, 2026. REUTERS/Dawoud Abu Alkas — DAWOUD ABU ALKAS By Nidal al-Mughrabi and Ahmed Shalaby CAIRO, April 2 (Reuters) - Palestinian militant group Hamas has told mediators it will not discuss giving up arms without guarantees that Israel will fully quit Gaza as laid out in a disarmament plan from U.S. President Donald Trump's "Board of Peace", three sources told Reuters. Hamas' disarmament is a sticking point in talks to implement Trump's plan for the Palestinian enclave and cement an October ceasefire that halted two years of full-blown war. A Hamas delegation met with Egyptian, Qatari and Turkish mediators in Cairo on Wednesday and Thursday to give their initial response to a disarmament proposal presented to the group last month, two Egyptian sources and a Palestinian official said. Hamas conveyed several demands and amendments to the board's plan, including an end to Israeli violations, implementation of all provisions and Israel's withdrawal from Gaza, the two Egyptian sources told Reuters. Hamas accuses Israel of breaking the ceasefire with attacks that have killed hundreds in Gaza. Israel says its strikes are aimed at thwarting imminent attacks by militants. The sources said Hamas also sought clarification about what it described as Israel's continued expansion of areas under its control. Israel retained control of well over half of Gaza after the ceasefire. The sources said Hamas does not want to discuss disarmament before those issues are addressed. Two Hamas officials declined to comment on the content of the meetings. Israel's government did not immediately respond to a request for comment. Representatives for the Board of Peace did not immediately respond to requests for comment. BREAKTHROUGH UNLIKELY Another source with direct knowledge of the Board of
-
----
-
-### 7. UK-led Hormuz talks demand 'immediate' reopening of Hormuz
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/uk-led-hormuz-talks-demand-immediate-reopening-hormuz
-- **Дата:** 2026-04-02T16:30:25+00:00
-- **Почему отобрано:** Геополитическое событие: требование Великобритании и 40 стран о немедленном открытии Ормузского пролива. Конкретное требование и геополитический контекст.
-
-UK-led Hormuz talks demand 'immediate' reopening of Hormuz by Peter Hutchison and Helen Rowe Apr 2, 2026 Yvette Cooper hosted the call from London — Leon Neal A UK-led meeting of some 40 countries on the strait of Hormuz crisis wrapped up Thursday with a demand for the "immediate and unconditional" reopening of the vital shipping route, but no immediate breakthrough. "Iran is trying to hold the global economy hostage in the Strait of Hormuz. They must not prevail," British foreign minister Yvette Cooper said in a statement. "To that effect, partners today called for the immediate and unconditional reopening of the Strait and respect for the fundamental principles of freedom of navigation and the law of the sea," she added. The strait has been virtually closed since the US-Israeli war against Iran started on February 28, impacting global supplies of important commodities including oil, liquid natural gas, and fertiliser. That has led to a sharp rise in energy prices. The foreign ministers and representatives who joined the call discussed a range of areas of "possible collective, coordinated, action," Cooper added. This could include increased diplomatic pressure, including through the UN, as well as possible sanctions, she said. The Gulf Cooperation Council (GCC) meanwhile called Thursday for the UN Security Council to authorise the use of force to protect the key waterway. Bahrain has proposed a draft resolution that would greenlight states to use "all necessary means" to assure free transit through the Strait of Hormuz. However, the measure has divided the 15-member Security Council, with Russia, China and France -- who each hold veto privileges -- all voicing strong objections. Italy's Foreign Minister Antonio Tajanialso, who joined the virtual talks, called for a "humanitarian corridor" for fertiliser and other essentials through the strait to avoid a food disaster in Africa. Cooper earlier slammed Iran's "recklessness" over the strait as she kicked off the virtu
-
----
-
-### 8. Important Draft Laws, Issue 63: Tax Incentives for Businesses in Kyiv, Tax Exemption for Individuals Renting Out Housing
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/important-draft-laws-issue-63-tax-incentives-for-businesses-in-kyiv-tax-exemption-for-individuals-renting-out-housing
-- **Дата:** 2026-03-24T10:16:37+00:00
-- **Почему отобрано:** Конкретные данные по законопроектам в Украине: налоговые льготы для бизнеса в Киеве, освобождение от налога для физлиц, сдающих жилье. Экономические индикаторы и политика.
-
-Important Draft Laws, Issue 63: Tax Incentives for Businesses in Kyiv, Tax Exemption for Individuals Renting Out Housing Oleh Ivanov Reforms March 24, 2026 440 Between February 2 and 15, a total of 27 draft laws were registered in the Verkhovna Rada: 2 presidential, 11 government-initiated, and 14 introduced by MPs. These include proposals to improve the handling of electronic documents, as well as several initiatives in tax and economic policy. In particular, lawmakers propose introducing a pilot fiscal regime, “Free Hryvnia,” in Kyiv, under which several taxes (corporate income tax, personal income tax, VAT, and the military levy) would be replaced by a monthly contribution. Another bill proposes introducing tax incentives for the reconstruction of enterprises damaged or destroyed by Russian attacks. In addition, MPs propose shortening timelines and simplifying bankruptcy procedures for micro and small businesses, reducing the tax on rental income from 18% to 5%, and abolishing this tax for the duration of martial law. Division of electronic documents into conventional and machine-readable formats Currently, the law defines an electronic document simply as information in the form of electronic data with mandatory details (number, issuer, date of issuance, responsible party, contact details). Bill No. 14414 proposes dividing such documents into two types: conventional (unstructured) and machine-readable (structured). Unstructured documents are familiar texts or PDF files that are read on a screen. Machine-readable documents are structured data formats designed to be processed by computer programs without human involvement. A visual form is not required for such documents. The bill defines methods for verifying the authenticity of such documents. While author identification currently requires an electronic signature, the bill would also allow the use of an electronic seal. Moreover, it would allow the creation of machine-readable documents without a signature or sea
-
----
-
-### 9. The Usual Year-End Surge Did Not Materialize: Overview of Key Changes in Q4 2025
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/the-usual-year-end-surge-did-not-materialize-overview-of-key-changes-in-q4-2025
-- **Дата:** 2026-03-24T12:09:41+00:00
-- **Почему отобрано:** Конкретные данные по реформам в Украине за 4 квартал 2025 года: 42 реформы и одно изменение с нулевой оценкой. Экономические индикаторы и политика.
-
-The Usual Year-End Surge Did Not Materialize: Overview of Key Changes in Q4 2025 Kseniia Alekankina Reforms March 24, 2026 589 The last quarter of 2025 brought a total of 42 reforms and one zero-scoring change in the socio-economic sphere to the country’s reform record. Despite a decline in the number of changes compared with the previous quarter (when there were 63), there is also good news: this time, there were no counter-reforms. After the peak in reform activity in Q3, the pace of reforms returned to a more typical level in Q4. Figure 1. Initiators of regulatory acts included in the Reform Index Source The government remains the key initiator of reforms in Ukraine. Following the recent cabinet reshuffle , when Yuliia Svyrydenko became head of the Cabinet of Ministers (previously she was the First Deputy Prime Minister—Minister of Economy), the number of government-initiated reforms increased. In Q4, the government accounted for 33 reforms (32 resolutions and 1 law). Over the same period, the Verkhovna Rada initiated only 6 reforms—the lowest quarterly figure since the start of the full-scale invasion. Positive developments Among the 42 positive changes, the highest score—2.5 points (on a scale from –5 to +5)—was awarded to a government resolution stipulating that all construction projects must now be assessed for accessibility. When uploading documents to the Unified State Electronic System in the Construction Sector (USESCS), architects are required to complete an accessibility checklist to confirm that the project complies with barrier-free access requirements. “The resolution does not change accessibility requirements established by state building codes. At the same time, it changes how compliance with these requirements is recorded in the digital system: they are now structured into a separate data block that must be completed and registered in the USESCS. This increases transparency in the system. The introduction of a standardized checklist may be useful 
-
----
-
-### 10. Russian offensive campaign Assessment
+### 2. Russian offensive campaign Assessment
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/
-- **Почему отобрано:** Новые данные ISW по оценке наступательной кампании России. Геополитика и военные действия.
+- **Почему отобрано:** ISW: Оценка наступательной кампании России. Регулярные обновления с конкретными данными о ходе войны.
 
 Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Mar 22, 2026 Russia & Ukraine Ukraine Russian Phase Zero Operations in Europe Date Range: September 9, 2025 
 
 ---
 
-### 11. russian occupation Update
+### 3. russian occupation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ 
-- **Почему отобрано:** Новые данные ISW по ситуации на оккупированных территориях России. Геополитика и военные действия.
+- **Почему отобрано:** ISW: Обновление по российской оккупации. Регулярные обновления с конкретными данными о ситуации на оккупированных территориях.
 
-Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Jan 22, 2026 Russia & Ukraine Ukraine Sample of Children’s Camps to Which Russian Occupation Officials Plan to Send 58,000 Ukrainian Children in Summer 2026 READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Update Feb 22, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Update Apr 2, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Update, April 2, 2026 READ MORE Static Map Apr 2, 2026 RUSSIA & UKRAINE UKRAINE Active ports and planned port development projects in occupied Ukraine, April 1, 2026 at 1:30 PM ET Static Map Apr 2, 2026 RUSSIA & UKRAI
+Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Jan 22, 2026 Russia & Ukraine Ukraine Sample of Children’s Camps to Which Russian Occupation Officials Plan to Send 58,000 Ukrainian Children in Summer 2026 READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Update Feb 22, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Update Apr 9, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Update, April 9, 2026 READ MORE Static Map Apr 9, 2026 RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, April 2 to April 8, 2026 Update Apr 2, 2026 RUSSIA & UKRAINE UKRAINE Russian Occupation Upd
 
 ---
 
-### 12. Russian Force generation & adaptation Update
+### 4. Russian Force generation & adaptation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/
-- **Почему отобрано:** Новые данные ISW по формированию и адаптации российских сил. Геополитика и военные действия.
+- **Почему отобрано:** ISW: Обновление по формированию и адаптации российских сил. Анализ военного потенциала и стратегии России.
 
 Home | Analysis | Russia & Ukraine | Russian Force Generation and Technological Adaptations Update Russian Force Generation and Technological Adaptations Update Jump to About this product line The Russian Force Generation and Technological Adaptations Update provides a running intelligence estimate of how Russia is adapting to battlefield realities in Ukraine and the consequences for European defense and the future of war. Each weekly update tracks Russian recruitment efforts, force generation, force reconstitution, force restructuring, and technological adaptations. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. This product line supports ISW’s Contemporary & Future of War Project which analyzes how the war in Ukraine is transforming the character of war in ways that will affect all future wars. ISW launched this product line in April 2024. Insights into Russian force generation and technological adaptation in Ukraine before April 2024 can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Offensive Campaign Update Related Map Series Russian Force Generation Russian Force Generation and Technological Adaptations Update Featured Insights Special Report Feb 23, 2026 Contemporary & Future War Russia & Ukraine Ukraine Russia’s Quest to Intensify The Theater-Wide Battlefield Air Interdiction Campaign Against Ukraine’s Logistics READ MORE Analysis Oct 13, 2025 Contemporary & Future War Russia & Ukraine Ukraine Warning: The Kremlin is Preparing to Mobilize Reservists on a Rolling Basis to Fight in Ukraine for the First Time READ MORE Special Report Jun 2, 2025 Contemporary & Future War Russia & Ukraine Ukraine The Battlefield AI Revolution Is Not Here Yet: The Status of Russian and Ukrainian AI Drone Efforts READ MORE Special Report Feb 23, 2025 Russia & Ukraine Ukraine Pu
 
 ---
 
-### 13. Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact
+### 5. Russian Offensive Campaign Assessment
 
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/oil-prices-and-the-economy-forecast-consumer-risk-and-inflation-impact
-- **Дата:** 2026-03-10T20:41:40+00:00
-- **Почему отобрано:** ITR Economics анализирует цены на нефть, их влияние на потребителей и инфляцию. Конкретные экономические индикаторы и прогнозы.
+- **Источник:** ISW (Institute for the Study of War)
+- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/
+- **Почему отобрано:** ISW: Оценка наступательной кампании России. (Повтор, но важен для отслеживания динамики).
 
-News Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact Stay informed on the economic impact of rising oil prices, consumer risks, and inflation. Learn strategies to protect your business amid uncertainties. ITR Economics Mar 10, 2026 Clients have been asking a lot of questions about oil prices and their economic impact lately. Where are prices headed? How will consumers handle the shock of higher energy costs? Is there a price point at which oil prices begin to adversely impact the economy? How should I plan for inflation? Here is what we want you to know. Executive Summary: Economic concern is less about how high oil goes and more about how we are seeing an oil price shock coincide with weak real income growth. In the meantime, there are a multitude of levers you can pull to help your business. What Does the Data Say Happens During and After Extreme Oil Price Shocks? Daily oil price data extends back to roughly 1983. Since that time, we have seen 10 events associated with at least one 20% increase in oil prices over a five-day stretch: three wars (the 1990 Gulf War, the 2022 Russia-Ukraine War, and today), three OPEC-related events, volatility surrounding two recessions (the Great Recession and COVID-19), a mid-1990s inventory imbalance, and the Exxon-Valdez oil spill. Focusing on the two previous wars, there is a degree of consensus: monthly average prices peaked within the first three to four months, then gave up most, if not all, of the gains in the ensuing three or so months. The degree of increase was substantially different — 93% in the case of 1990 and 25% in the case of 2022. That reflects differences in: Where oil prices were prior to war (low, in the case of 1990, making it easier to rise higher; prices were already elevated in the case of 2022) Dynamics of the war itself (fought in the Middle East, in or near a multitude of oil-producing nations, versus outside it) How globalized the oil market was (not as globalized in 1990 as 20
+Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Mar 22, 2026 Russia & Ukraine Ukraine Russian Phase Zero Operations in Europe Date Range: September 9, 2025 
 
 ---
 
-### 14. China calls for promoting Middle East ceasefire in talks with EU, Germany
+### 6. The Middle East war: latest developments
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/china-calls-promoting-middle-east-ceasefire-talks-eu-germany
-- **Дата:** 2026-04-02T16:36:39+00:00
-- **Почему отобрано:** Геополитическое событие: призыв Китая к прекращению огня на Ближнем Востоке в переговорах с ЕС и Германией. Геополитика и дипломатия.
+- **URL:** https://www.al-monitor.com/originals/2026/04/middle-east-war-latest-developments
+- **Дата:** 2026-04-15T09:30:25+00:00
+- **Почему отобрано:** Al-Monitor: Война на Ближнем Востоке: последние события. Регулярные обновления о конфликте с конкретными действиями сторон.
 
-China calls for promoting Middle East ceasefire in talks with EU, Germany Apr 2, 2026 FILE PHOTO: A cargo ship in the Gulf, near the Strait of Hormuz, as seen from northern Ras al-Khaimah, near the border with Oman’s Musandam governance, amid the U.S.-Israeli conflict with Iran, in United Arab Emirates, March 11, 2026. REUTERS/Stringer/File Photo — Stringer BEIJING, April 2 (Reuters) - China on Thursday repeated calls for a ceasefire in the Middle East and safe passage through the Strait of Hormuz in conversations with Western counterparts, widening its diplomatic effort to end the war that has disrupted the global energy market. China's Foreign Minister Wang Yi discussed the Middle East situation in separate phone calls with the European Union's top diplomat Kaja Kallas and Germany's Foreign Minister Johann Wadephul, appealing for joint efforts to push for a prompt end to the war. A ceasefire is the key to safe navigation through the Strait of Hormuz, Wang told Kallas, according to a Chinese foreign ministry statement. "All parties should work to build a broader consensus to this end and create the necessary conditions," Wang was quoted as telling Kallas. Separately, the Chinese diplomat told Wadephul that as responsible major countries, China and Germany should uphold an objective and impartial stance and play a constructive role in the process, according to another Chinese statement. China has called U.S.-Israeli attacks on Iran a violation of international law and demanded an end to the military action, which triggered Iranian strikes against Israel, U.S. bases and Gulf states. Wang on Thursday called for the protection of sovereignty and security of the Gulf countries, as well as the safety of civilians, non-military targets and maritime routes, adding diplomatic pressure on not just the U.S. and Israel but also Iran to come to the table for negotiations for a ceasefire. (Reporting by Shi Bu, Xiuhao Chen and Ryan Woo; Editing by Alison Williams)
+The Middle East war: latest developments Agence France-Presse Apr 15, 2026 First responders inspect the site of an Israeli strike on a vehicle in the Lebanese town of Jiyeh, south of Beirut — MAHMOUD ZAYYAT The latest developments in the Middle East war: - Hezbollah fires on Israel - Two Israeli strikes on Wednesday hit vehicles south of Beirut, state media reported, while Hezbollah launched rockets at Israel, hours after Lebanon and Israel agreed in Washington to hold direct negotiations. Israel also issued a new evacuation warning to residents in south Lebanon. Lebanon's state-run National News Agency reported separate Israeli strikes on two vehicles, one in the seafront town of Saadiyat and another on a coastal highway in neighbouring Jiyeh, around 20 kilometres (12 miles) south of Beirut and outside Iran-backed militant group Hezbollah's traditional strongholds. The Israeli military meanwhile detected "approximately 30 launches" by Hezbollah militants towards Israel since the early hours, a spokesman told AFP. - Stocks boost - Stocks mainly rose and crude oil prices dropped again Wednesday after US President Donald Trump said a second round of US-Iran talks could take place "over the next two days", fuelling hopes for a deal to reopen the Strait of Hormuz. South Korea's Kospi index jumped more than two percent and was just a few hundred points short of its all-time peak. London and Frankfurt were stable. West Texas Intermediate traded at about $90.39 a barrel and Brent North Sea Crude at $94.62 a barrel. - Pakistan shuttle diplomacy - Pakistan's Prime Minister Shehbaz Sharif embarked on a four-day diplomatic blitz to Saudi Arabia, Qatar and Turkey on Wednesday, his office said, as the country engages in feverish diplomacy ahead of potential new US-Iranian peace talks. - Iranian sailors repatriated - Sri Lanka has repatriated 238 Iranian sailors stranded in the South Asian country after their warship was torpedoed by a US submarine in the Indian Ocean on March 4,
 
 ---
 
-### 15. Polish prosecutors to investigate attack on Polish UN soldiers in Lebanon
+### 7. US shuts down Iran's maritime trade despite optimism for more talks
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/04/polish-prosecutors-investigate-attack-polish-un-soldiers-lebanon
-- **Дата:** 2026-04-02T15:36:40+00:00
-- **Почему отобрано:** Геополитическое событие: расследование нападения на польских солдат ООН в Ливане. Конкретное событие и последствия.
+- **URL:** https://www.al-monitor.com/originals/2026/04/us-shuts-down-irans-maritime-trade-despite-optimism-more-talks
+- **Дата:** 2026-04-15T05:01:42+00:00
+- **Почему отобрано:** Al-Monitor: США прекращают морскую торговлю Ирана, несмотря на оптимизм по поводу дальнейших переговоров. Санкции США против Ирана с экономическими последствиями.
 
-Polish prosecutors to investigate attack on Polish UN soldiers in Lebanon Apr 2, 2026 FILE PHOTO: UNIFIL vehicles drive on a main road in Qlayaa, amid escalating hostilities between Israel and Hezbollah, as the U.S.-Israel conflict with Iran continues, in Qlayaa, southern Lebanon, March 27, 2026. REUTERS/Karamallah Daher//File Photo — Karamallah Daher WARSAW, April 2 (Reuters) - Polish prosecutors have opened an investigation into a bomb attack that wounded a Polish soldier who was part of a U.N. peacekeeping patrol in Lebanon, the District Prosecutor's Office in Warsaw said on Thursday. The March 29 bombing was carried out in Bint Jubayl by an unidentified person using an improvised explosive device on the route of the Polish convoy, prosecutors said in a statement. The statement said the bomb attack failed due to the HMMWV, or Humvee, vehicle's security measures. The wounded soldier suffered injuries to his face and head, the office said. The U.N. Interim Force in Lebanon, or UNIFIL, was first deployed in 1978 and has remained through successive conflicts, including a 2024 war during which its positions came under fire repeatedly. (Reporting by Karol Badohal; editing by Barbara Lewis)
-
----
-
-### 16. Ukraine’s Digital Transformation: What Could Accelerate or Stall the Reform
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/ukraine-s-digital-transformation-what-could-accelerate-or-stall-the-reform
-- **Дата:** 2026-03-24T12:20:00+00:00
-- **Почему отобрано:** Анализ факторов, влияющих на цифровую трансформацию Украины (война, энергетика, безопасность). Геополитика и экономические последствия.
-
-How to sustain the pace and intensity of digital transformation amid war, terror against Ukraine’s energy infrastructure, leadership changes in state institutions, and rising security risks.
+US shuts down Iran's maritime trade despite optimism for more talks Apr 15, 2026 FILE PHOTO: Cargo ships in the Gulf, near the Strait of Hormuz, as seen from northern Ras al-Khaimah, near the border with Oman’s Musandam governance, amid the U.S.-Israeli conflict with Iran, in United Arab Emirates, March 11, 2026. REUTERS/Stringer/File Photo — Stringer DUBAI/WASHINGTON, April 15 (Reuters) - The United States said on Wednesday its military had completely halted trade going in and out of Iran by sea, even though President Donald Trump said talks with Tehran on ending the war could resume this week. Trump said negotiations between U.S. and Iranian officials could resume in Pakistan in the next two days and Vice President JD Vance, who led weekend talks that ended without a breakthrough, said he felt positive about where things stood. "I think you’re going to be watching an amazing two days ahead," Trump told ABC News reporter Jonathan Karl, adding he did not think it would be necessary to extend a two-week ceasefire that ends on April 21. "It could end either way, but I think a deal is preferable because then they can rebuild," Trump said, according to a post by Karl on X. "They really do have a different regime now. No matter what, we took out the radicals." Officials from Pakistan, Iran and the Gulf also said negotiating teams from the U.S. and Iran could return to Pakistan later this week, although one senior Iranian source said no date had been set. Despite the optimistic note, more vessels were being turned back under the U.S. blockade on Iranian ports, including a U.S.-sanctioned and Chinese-owned tanker Rich Starry that was making its way back to the Strait of Hormuz on Wednesday after exiting the Persian Gulf. Admiral Brad Cooper, the head of the U.S. Central Command, said American forces had completely halted economic trade going in and out of Iran by sea, which he said fuels 90% of Iran's economy. "In less than 36 hours since the blockade was implemented, U.S.
 
 ---
 
-### 17. More Reforms Don’t Always Mean More Progress – A 2025 Reform Review
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/more-reforms-don-t-always-mean-more-progress-a-2025-reform-review
-- **Дата:** 2026-03-24T12:52:33+00:00
-- **Почему отобрано:** Обзор реформ в Украине за 2025 год, оценка прогресса и проблем. Экономические индикаторы и политика.
-
-Which changes are truly moving the country forward, and which are raising concerns among experts – we explore these questions in this annual review of reforms.
-
----
-
-### 18. Remaking Europe’s Energy System for the Age of AI
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/remaking-europe-s-energy-system-for-the-age-of-ai
-- **Дата:** 2026-04-02T10:53:59+00:00
-- **Почему отобрано:** Анализ уязвимости европейской энергетической системы в контексте ИИ. Связь с геополитикой и экономикой.
-
-The real source of Europe’s vulnerability is an energy system that is fundamentally incompatible with economic power in the 21st century.
-
----
-
-### 19. A Supply-Constrained Economy: Implications for Monetary Policy
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/a-supply-constrained-economy-implications-for-monetary-policy
-- **Дата:** 2026-03-31T10:18:55+00:00
-- **Почему отобрано:** Анализ влияния дефицита предложения на экономику и монетарную политику, связь с инфляцией и конкуренцией. Экономические индикаторы.
-
-Globalization has only reinforced the need for sound macroeconomic policy. Unstable inflation is a sign of weak institutional maturity, which negatively affects competition for capital and talent.
-
----
-
-### 20. Preparing for the 2030s: Key Questions Leaders Are Asking
+### 8. Preparing for the 2030s: Key Questions Leaders Are Asking
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/preparing-for-the-2030s-key-questions-leaders-are-asking
 - **Дата:** 2026-03-18T13:45:28+00:00
-- **Почему отобрано:** ITR Economics обсуждает вопросы, которые лидеры задают при подготовке к 2030-м годам, что подразумевает наличие прогнозов и данных.
+- **Почему отобрано:** ITR Economics обсуждает подготовку к 2030-м годам, отвечая на вопросы лидеров о долгосрочном экономическом прогнозе. Это прямое указание на будущие циклы и риски.
+
+2030s Depression Preparing for the 2030s: Key Questions Leaders Are Asking Prepare for the 2030s with insights on economic trends, strategic asset management, and proactive measures to protect profitability amid uncertainty. ITR Economics Mar 18, 2026 We received many thoughtful questions regarding our economic outlook for the next decade during our December 2025 Executive Series webinar. As leaders think about preparing for the 2030s, many are asking the same fundamental question: What should we be doing now to prepare for the next major economic cycle? While financial decisions should be discussed with a qualified advisor, we identified several themes relevant to business leaders and investors as they determine how to navigate the years ahead. Key Themes Emerging From Leader Questions What Will Drive the 2030s Depression? Our outlook for the 2030s is not based on a single driver but rather on long-term structural pressures that have been building for decades. Demographics, healthcare costs, entitlement spending, inflation, and national debt are all contributing to a coming pullback in demand. These systemic forces — not a single shock — shape our long-term forecast. Understanding these forces now allows leaders to make smarter strategic decisions throughout the remainder of the 2020s. Why Services Often Hold Up Better During severe downturns, service sectors tend to hold up better than goods-producing industries because many services are less discretionary. While consumers may delay purchasing manufactured goods, services such as healthcare, maintenance, and professional services remain necessary. For business leaders, this distinction highlights the importance of understanding where resilience may exist within their markets. Where Investors Are Looking for Stability Many participants also asked about protecting wealth going into the 2030s. In past research we have highlighted sovereign bonds from countries such as Canada, Australia, Switzerland, and Sweden as pot
+
+---
+
+### 9. Why monetary policy hits harder after big shocks
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260413~78ef6fe470.en.html
+- **Дата:** 2026-04-13T09:00:00+00:00
+- **Почему отобрано:** ЕЦБ: Монетарная политика сильнее влияет после больших шоков. Это прямое указание на влияние системных рисков на экономику и монетарную политику.
+
+THE ECB BLOG Why monetary policy hits harder after big shocks 13 April 2026 By Alina Bobasu, Matteo Ciccarelli, Alex Grimaud, Martin Mandler and Andrejs Zlobins During the latest tightening episode, interest rate hikes were especially effective. This ECB Blog finds a strong policy transmission to inflation during 2022 and 2023, a forceful response to supply-driven shocks and a low “sacrifice ratio”. The effects of monetary policy in the euro area differ across countries, sectors and time. [ 1 ] These differences depend on prevailing economic conditions, and, crucially, on the nature of unexpected events which affect the economy. In this blog post we investigate the effects of the ECB’s interest rate increases over the period 2022-23, which curbed the inflation surge. It also compares these effects with those of previous interest rate changes. [ 2 ] Effects of monetary policy over time Monetary policy transmission in the euro area has evolved markedly over time. Recent model-based analysis reveals that while it reduced inflation, the increase in interest rates during the period July 2022 to September 2023 caused a relatively small contraction in economic activity. To illustrate this, we assess the effects of policy interest rate hikes through the lens of a structural autoregressive (SVAR) model. We use a time varying framework, meaning we apply this model to the euro area quarter by quarter over two decades. One can imagine this as a test in a model world designed as realistically as possible based on real life data. Chart 1 shows the time-varying peak responses of real gross domestic product (GDP), inflation measured through the Harmonised Index of Consumer Prices (HICP) and inflation expectations to a standard monetary policy shock normalised to +25 basis points. Such a shock is defined as an unexpected one-off increase in the interest rate at each point in time. Our model-based estimates show a pronounced strengthening of the inflation response to an interest rate
+
+---
+
+### 10. Frank Elderson: Europe’s fossil fuel dependence poses risks to price stability
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260407~dfa96b8bfc.en.html
+- **Дата:** 2026-04-07T07:00:00+00:00
+- **Почему отобрано:** ЕЦБ: Зависимость Европы от ископаемого топлива создает риски для ценовой стабильности. Это геополитический и экономический риск, влияющий на инфляцию в ЕС.
+
+THE ECB BLOG Europe’s fossil fuel dependence poses risks to price stability 7 April 2026 By Frank Elderson, Member of the Executive Board of the ECB and Vice-Chair of the Supervisory Board of the ECB Europe’s energy dependence increasingly complicates the task of maintaining price stability. Meeting the continent’s clean‑energy targets would weaken the link between volatile global markets and domestic prices. Crucially, the tools to make this transition are already within reach. Europe’s energy dependence has become one of the critical vulnerabilities of our economy. Recent energy price shocks have transferred vast resources out of Europe, prompted emergency interventions and strained public finances. These costs are real, recurring and largely wasted. Energy policy is the responsibility of elected governments, and rightly so. But Europe’s energy dependence also has profound implications for the ECB. Our primary mandate is price stability. Yet repeated energy price shocks make achieving this objective increasingly difficult. Why do central banks care? Europe remains among the advanced economies most reliant on imported fossil fuels. This vulnerability was starkly exposed following Russia’s unjustified invasion of Ukraine, when energy prices surged, pushing euro area inflation up to 10.6% in October 2022 and giving rise to what some aptly described as “fossilflation”. Recent geopolitical tensions have highlighted how little this dependence has changed, with the conflict in the Middle East triggering another surge in European energy costs. The March 2026 ECB staff macroeconomic projections outline how this external shock could increase inflation and decrease growth. This is a complex scenario for us to manage. Tightening monetary policy to contain inflation can deepen an economic slowdown, while loosening policy to support growth can entrench inflation. In theory, central banks can look through temporary supply shocks, provided they do not spill over into broader and 
+
+---
+
+### 11. Crisis of Voting in the Verkhovna Rada: Is This a New Problem?
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/crisis-of-voting-in-the-verkhovna-rada-is-this-a-new-problem
+- **Дата:** 2026-04-14T10:31:24+00:00
+- **Почему отобрано:** VoxUkraine: Кризис голосования в Верховной Раде: новая проблема? Анализ политической нестабильности в Украине.
+
+Crisis of Voting in the Verkhovna Rada: Is This a New Problem? Viktoriia Vyhovska Dariia Kolodiazhna Governance April 14, 2026 234 Recent votes in the Ukrainian Parliament have once again sparked discussion about a political crisis and the collapse of the parliamentary coalition. The inability of MPs to muster the necessary votes to pass EU integration and IMF-backed legislation appears to be a further symptom of the coalition’s disintegration. However, viewed in a broader context, MPs’ voting behavior suggests this is not a sudden shift but a gradual process that can be traced through parliamentary voting patterns since the start of the full-scale war. Servant of the People has long been unable to independently secure 226 votes for the necessary bills and has been forced to rely on ad hoc support from other factions and parliamentary groups. Between 2019 and 2024, it managed to secure sufficient votes without support from other political forces only 42 times (2%), with most occurring in the first months after the 2019 elections. In effect, this means that the mono-majority functioned as a self-sufficient decision-making mechanism only briefly. Soon thereafter, the presidential faction had to rely regularly on votes from other political forces to pass the necessary legislation. To understand the configuration of de facto coalitions in Parliament, we analyzed MPs’ behavior during votes on reform legislation since the start of the full-scale war. Figure 1. MPs’ voting on reform legislation, by session Source: roll-call votes on draft laws in the Verkhovna Rada ; Reform Index In the first months of the invasion, Parliament demonstrated unprecedented unity, with around 315 MPs voting together. This cluster included 215 MPs from Servant of the People, as well as nearly all members of the Dovira, Holos, For the Future, and Restoration of Ukraine groups, most unaffiliated MPs, and even some members of Batkivshchyna and European Solidarity. This was not a political coalitio
+
+---
+
+### 12. Investments in Ukraine: What the Numbers Show and What They Conceal
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/investments-in-ukraine-what-the-numbers-show-and-what-they-conceal
+- **Дата:** 2026-04-06T12:20:07+00:00
+- **Почему отобрано:** VoxUkraine: Инвестиции в Украину: что показывают цифры и что они скрывают. Анализ прямых иностранных инвестиций с конкретными данными.
+
+Investments in Ukraine: What the Numbers Show and What They Conceal Anastasiia Kolinko Macroeconomics April 6, 2026 539 Foreign direct investment (FDI) affects everyone, as it generates jobs, wages, and tax revenues — in other words, additional private and public income. However, investors are not philanthropists, they invest in businesses in Ukraine to earn a profit. With the onset of the full-scale war, FDI inflows to Ukraine declined significantly due to heightened risk. How much investment is flowing into Ukraine In 2021, FDI in Ukraine amounted to USD 7.32 billion. This was the highest figure in 2015-2024 and is equivalent to 2.5 times the City of Kyiv’s budget for 2026. With the onset of the full-scale war, the investment climate deteriorated sharply: in 2022, investment fell to USD 0.53 billion. Due to the war, businesses find it difficult to forecast their revenues and profits, as Russian forces may destroy an enterprise’s facilities or those of its suppliers at any time. However, in 2023, FDI rebounded nearly tenfold, to USD 4.5 billion. This results from foreign-exchange restrictions, particularly on dividend repatriation. As a result, investors must reinvest their earnings rather than distribute profits. Figure 1. Volume of foreign direct investment in Ukraine, USD million Source: National Bank of Ukraine data Figure 2. Foreign direct investment in Ukraine, excluding reinvested earnings and investment in which the ultimate controlling investor is a resident (round-tripping), USD million Source: National Bank of Ukraine data Where the investment comes from The undisputed leaders in terms of FDI inflows to Ukraine are offshore or semi-offshore jurisdictions, such as Cyprus (the leading source in 2024), the Virgin Islands, the Netherlands, and Switzerland — that is, jurisdictions with less stringent requirements for banking transparency and ultimate beneficial ownership, as well as more favorable tax regimes. Table 1. Top 5 countries by FDI in Ukraine, USD m
+
+---
+
+### 13. Remaking Europe’s Energy System for the Age of AI
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/remaking-europe-s-energy-system-for-the-age-of-ai
+- **Дата:** 2026-04-02T10:53:59+00:00
+- **Почему отобрано:** VoxUkraine: Перестройка энергетической системы Европы для эпохи ИИ. Анализ энергетической уязвимости ЕС и ее связи с новыми технологиями.
+
+Remaking Europe’s Energy System for the Age of AI Lucrezia Reichlin Economics April 2, 2026 316 The US-Israeli war on Iran is a wake-up call for the European Union: energy remains a critical strategic vulnerability. But addressing this vulnerability by weakening elements of the European Emissions Trading System, as the European Council seems to want, would do nothing to confront a challenge that extends well beyond dependence on imported fossil fuels. The real source of Europe’s vulnerability is an energy system that is fundamentally incompatible with economic power in the 21st century. Geopolitics today is increasingly shaped by two inextricably linked forces: energy and AI. Data centers convert energy into compute, which forms the basis of economic and strategic power. AI, at scale, thus amounts to critical infrastructure, with the economies that transform energy into “intelligence” most efficiently gaining a decisive advantage. The United States and China are currently fighting for the lead in this race, though their models diverge sharply. China’s model is based on a combination of system-level coordination—which recognizes the interconnections between energy, infrastructure, and digital capacity—and intense micro-level competition. Crucially, China is not only transforming its energy system; it is expanding it. Massive investment in solar, wind, storage, and grids is driving down the marginal cost of electricity, creating favorable conditions for large-scale AI deployment. This expansion is bolstered by a financial architecture that channels low-cost credit into infrastructure and industry, accelerating cost reduction and broad adoption. Chinese AI companies are already beginning to translate lower energy costs and increased system efficiency into dramatically cheaper compute. Firms like MiniMax and Moonshot reportedly charge around $2-3 per million output tokens —the basic units of AI-generated text and a standard measure of compute usage—compared with roughly
+
+---
+
+### 14. Trump says Iran talks could resume within 'days'
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/04/trump-says-iran-talks-could-resume-within-days
+- **Дата:** 2026-04-15T10:00:21+00:00
+- **Почему отобрано:** Al-Monitor: Трамп заявляет, что переговоры с Ираном могут возобновиться в течение 'дней'. Геополитическое событие с потенциальными экономическими последствиями.
+
+Trump says Iran talks could resume within 'days' by AFP teams in Tehran, Islamabad, Washington, Beirut, Jerusalem and Dubai Apr 15, 2026 US President Donald Trump told The New York Post that new talks with Iran could take place 'over the next two days' — Brendan SMIALOWSKI President Donald Trump has indicated peace talks with Tehran could resume this week, as the United States turned the screws Wednesday with a naval blockade it said had cut off maritime trade with Iran. Trump's hint came as Israel and Lebanon agreed to open direct negotiations after a rare face-to-face meeting in Washington, with Israel's war with Hezbollah ongoing despite the ceasefire with Tehran. Stocks rose and crude dropped on hopes for a deal to get oil flowing again through the Strait of Hormuz -- choked by Iranian forces since the US-Israeli offensive began in late February, and now the focus of a US blockade. But the twin diplomatic push remained fragile, with Lebanese state media reporting fresh Israeli strikes south of Beirut, while Iran-backed Hezbollah -- hostile to any negotiations -- fired dozens of rockets at Israel. Trump told the New York Post on Tuesday that a new round of talks with Iran could take place in Pakistan "over the next two days," after a marathon first negotiating session ended without a breakthrough. In a FOX Business interview due to be aired on Wednesday, the US leader declared the war "very close to being over". Senior Pakistani sources told AFP that Islamabad was working to bring the sides together for a second round of talks, as Prime Minister Shehbaz Sharif kicked off a four-day diplomatic blitz to Saudi Arabia, Qatar and Turkey. In the meantime Washington has been pressing hard for an end to the Israel-Hezbollah conflict, fearing it could jeopardise its two-week ceasefire with Iran and a broader settlement of the conflict. Lebanon was drawn into the war when Hezbollah attacked Israel in support of Iran, triggering an Israeli ground invasion and deadly campaig
+
+---
+
+### 15. Ukraine broaches 'stolen' Russian grain cargo on call with Israel
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/04/ukraine-broaches-stolen-russian-grain-cargo-call-israel
+- **Дата:** 2026-04-15T08:01:42+00:00
+- **Почему отобрано:** Al-Monitor: Украина поднимает вопрос о 'украденном' российском зерне на звонке с Израилем. Геополитический и экономический конфликт, связанный с Украиной.
+
+Ukraine broaches 'stolen' Russian grain cargo on call with Israel Apr 15, 2026 Ukraine's Foreign Minister Andrii Sybiha speaks during an interview with Reuters, amid Russia's attack on Ukraine, in Kyiv, Ukraine February 6, 2026. REUTERS/Valentyn Ogirenko — Valentyn Ogirenko April 15 (Reuters) - Ukrainian Foreign Minister Andrii Sybiha held a call with his Israeli counterpart Gideon Sa'ar to discuss a Russian vessel carrying what he described as grain stolen from Ukraine that was allowed to dock in an Israeli port. Kyiv considers all grain produced in the four regions Russia claimed as its own since invading Ukraine in 2022, and Crimea, annexed by Russia in 2014, to have been stolen by Moscow. "I stressed that the illegal export of stolen Ukrainian agricultural products is part of Russia's broader war effort," Sybiha said late on Tuesday in a post on X. "Such illegal trade with stolen goods must not be allowed." Russia refers to the four regions as its "new territories", but they are still internationally recognised as Ukrainian. Sybiha said in March that Russia moved more than 2 million tons of stolen Ukrainian grain through the Black Sea last year. Ukrainian official estimated in August that Russia has stolen 15 million tons of Ukrainian grain since the start of the full-scale war. The foreign minister added that the two also talked about security matters and the situation in the Middle East. "We reaffirmed our mutual interest in advancing the bilateral agenda and maintaining an active dialogue, including on security-related matters," he said. (Reporting by Anna Pruchnicka; Editing by Daniel Flynn and Jan Harvey)
+
+---
+
+### 16. Factbox-Oil tankers transiting Strait of Hormuz since start of Iran war
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/04/factbox-oil-tankers-transiting-strait-hormuz-start-iran-war
+- **Дата:** 2026-04-15T04:36:40+00:00
+- **Почему отобрано:** Al-Monitor: Факты: Нефтяные танкеры, проходящие через Ормузский пролив с начала войны с Ираном. Конкретные данные о морской торговле и геополитических рисках.
+
+By Ruth Chai and Florence TanApril 15 (Reuters) - The U.S. blockade on vessels entering or leaving Iranian ports adds to uncertainty over shipping through the Strait of Hormuz, which has been all-but-shut since the start of the Iran war.Ordinarily, roughly one fifth of global oil and gas exports transit the Strait of Hormuz.Here's a look at some of the non-Iranian oil tankers that have passed the strait since the start of the U.S.-Israeli war with Iran on February 28, listed by cargo destination
+
+---
+
+### 17. Battery costs have declined by 99% in the last three decades, making electrified transport a reality
+
+- **Источник:** Our World in Data
+- **URL:** https://ourworldindata.org/battery-price-decline
+- **Дата:** 2026-03-30T00:00:00+00:00
+- **Почему отобрано:** Our World in Data: Стоимость батарей снизилась на 99% за последние три десятилетия, делая электрифицированный транспорт реальностью. Технологический тренд с макроэкономическими последствиями.
+
+Batteries have become much cheaper, making energy storage far more affordable.
+
+---
+
+### 18. What the Data Shows: Limited Economic Impact From War in Iran
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/what-the-data-shows-limited-economic-impact-from-war-in-iran
+- **Дата:** 2026-04-08T19:04:30+00:00
+- **Почему отобрано:** ITR Economics анализирует экономическое влияние войны в Иране, оценивая его как краткосрочное и ограниченное. Это конкретный геополитический анализ с экономическими последствиями.
 
 
   
 
-We received many thoughtful questions regarding our economic outlook for the next decade during our December 2025 Executive Series webinar.
+Whether the ceasefire in Iran holds is a question for political analysts. From our apolitical, data-dependent standpoint as economists, our initial analysissaw the war unfolding as a short-term, primarily financial shock with some inflationary ripple effects. 
+
+---
+
+### 19. Insurance Industry Outlook: Q&A With ITR Economics
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/insurance-industry-outlook-qa-with-itr-economics
+- **Дата:** 2026-04-06T18:24:25+00:00
+- **Почему отобрано:** ITR Economics предоставляет прогноз для страховой отрасли, включая инфляцию и процентные ставки. Это конкретные экономические индикаторы.
+
+
+  
+
+ITR Economics, with a 94.7% forecast accuracy four quarters out, provides forward-looking insights into macroeconomic trends, industry performance, and key drivers such as inflation, interest rates, and consumer demand.
+
+---
+
+### 20. Don’t Miss the Cycle: Four Considerations for Capital Investment Decisions
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/dont-miss-the-cycle-four-considerations-for-capital-investment-decisions
+- **Дата:** 2026-03-26T21:41:28+00:00
+- **Почему отобрано:** ITR Economics обсуждает цикличность для принятия решений по капитальным инвестициям, учитывая прошлые сбои в цепочках поставок и волатильность спроса. Это применимо к макроэкономическим циклам.
+
+
+  
+
+After several years of supply chain disruptions, tariff uncertainty, and volatile demand patterns, skepticism toward economic momentum is understandable.
+
+---
+
+### 21. Manufacturing Momentum: Economic Trends Driving the Industry
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/manufacturing-momentum-economic-trends-driving-the-industry
+- **Дата:** 2026-03-23T16:55:01+00:00
+- **Почему отобрано:** ITR Economics анализирует экономические тенденции в производственном секторе США, отмечая возобновление импульса. Это конкретный индикатор ВВП/производства.
+
+
+  
+
+After several years of uneven recovery, the US manufacturing sector is beginning to show renewed momentum.
+
+---
+
+### 22. Real Personal Income: A Trend We Are Watching
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/real-personal-income-a-trend-we-are-watching
+- **Дата:** 2026-03-19T14:48:51+00:00
+- **Почему отобрано:** ITR Economics отслеживает тенденцию реальных личных доходов в США (исключая трансферты), важный индикатор потребительской активности и инфляции.
+
+
+  
+
+Growth in US Real Personal Income (excluding current transfer receipts), a measure of inflation-adjusted income that excludes transfer payments like workers compensation or unemployment benefits, slowed to 1.2% (annual trend) for January 2026.
+
+---
+
+### 23. Oil Prices and the Economy: Forecast, Consumer Risk, and Inflation Impact
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/oil-prices-and-the-economy-forecast-consumer-risk-and-inflation-impact
+- **Дата:** 2026-03-10T20:41:40+00:00
+- **Почему отобрано:** ITR Economics прогнозирует цены на нефть, риски для потребителей и влияние на инфляцию. Это ключевые экономические индикаторы и их взаимосвязь.
+
+
+  
+
+Clients have been asking a lot of questions about oil prices and their economic impact lately. Where are prices headed? How will consumers handle the shock of higher energy costs? Is there a price point at which oil prices begin to adversely impact the economy? How should I plan for inflation? Here is what we want you to know.
+
+---
+
+### 24. Euro adoption and price increases in Bulgaria: separating myths from facts
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260409~cc951a0d29.en.html
+- **Дата:** 2026-04-09T07:00:00+00:00
+- **Почему отобрано:** ЕЦБ: Влияние введения евро на цены в Болгарии. Анализ конкретного экономического события в ЕС.
+
+---
+
+### 25. How banks are adjusting to declining reserves
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260402~d9be74e490.en.html
+- **Дата:** 2026-04-02T09:00:00+00:00
+- **Почему отобрано:** ЕЦБ: Как банки адаптируются к снижению резервов. Анализ изменений в банковском секторе ЕС.
 
 ---
 
