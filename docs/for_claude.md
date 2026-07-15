@@ -1,4 +1,4 @@
-# Данные для саммари — 2026-06-15
+# Данные для саммари — 2026-07-15
 
 ## Краткая база знаний (ключевые тезисы экспертов)
 
@@ -25,276 +25,267 @@
 
 ---
 
-## Отфильтрованные материалы (33 шт.)
+## Отфильтрованные материалы (45 шт.)
 
-### 1. Thriving in the Next Phase of the Data Center Boom
+### 1. The Latest Jobs Report, in Context
 
 - **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/thriving-in-the-next-phase-of-the-data-center-boom
-- **Дата:** 2026-06-11T15:19:57+00:00
-- **Почему отобрано:** Содержит конкретные цифры по росту строительства дата-центров (+30% YoY), что является новым и релевантным экономическим индикатором. Упоминает AI и облачные вычисления как драйверы.
+- **URL:** https://blog.itreconomics.com/blog/the-latest-jobs-report-in-context
+- **Дата:** 2026-07-09T17:33:16+00:00
+- **Почему отобрано:** ITR Economics предоставляет конкретные данные о рынке труда (Jobs Report) и контекст к ним, что соответствует критерию новых данных и экономических индикаторов.
 
-Executive Strategy Thriving in the Next Phase of the Data Center Boom Explore the ongoing data center boom, its growth drivers, and constraints affecting profitability. How should your business navigate this evolving landscape? ITR Economics Jun 11, 2026 The data center boom continues, with US Private Data Center Construction up 30.0% on a year-over-year basis. AI, cloud computing, and the continued push toward digital infrastructure are driving a wave of investment in new facilities, power systems, cooling equipment, and the supply chains that support them. This is a real opportunity for companies tied to electrical equipment, HVAC, power transmission, backup generation, engineering, relevant nonresidential construction, automation, and industrial components. Though the economic environment is currently mixed, data centers are likely to remain a solid source of demand, as growth will likely extend through at least the rest of this year. But this is not a simple growth story. The Pain of Constraints The pressure points are becoming easier to see, and power availability is one of the biggest. Data centers need large, reliable electricity loads, and in some markets, the grid is already becoming the limiting factor. A project can be announced and funded, but if sufficient power is not available, project timelines can be delayed. This matters beyond the data center market. Higher electricity demand can put upward pressure on utility costs, which affects businesses that may have no direct exposure to data center construction. Equipment and labor are also concerns. Transformers, switchgear, generators, cooling systems, electricians, engineers, and mechanical contractors are all in high demand. Companies that can deliver on time will be in a strong position. Companies that chase the work but fail to protect price, capacity, or lead times may be ultimately disappointed by the margins. Location will matter, too. The national trend is strong, but local conditions will decide 
+Executive Strategy The Latest Jobs Report, in Context Explore the latest jobs report insights, revealing the balance between consumer spending and economic challenges for businesses navigating today's landscape. ITR Economics Jul 9, 2026 Media headlines following the Bureau of Labor Statistics June jobs report, released July 2, were generally less than enthusiastic: June jobs report: US payrolls rose by 57,000, missing expectations — Yahoo Jobs report gives labor market a yellow card — Axios US employers still reluctant to add many jobs as hiring slows in June — AP News These sentiments generally skew to the negative and diverge, to an extent, from ITR Economics’ own analysis. What the Headlines Miss There are positive points about the latest employment-related data. This is our analysis: Both the May-to-June rise and the first-quarter-to-second-quarter rise in US Private Sector Employment were normal relative to recent years. ITR Checking Points™, an analysis of the relationship between the quarterly growth rate and the annual growth rate, suggest that Phase B, Accelerating Growth, is imminent for US Private Sector Employment. Quarterly US Total Private Job Openings were above year-ago levels in both April and May (latest available data), a meaningful milestone given they were previously in long-term negative trends, below year-ago levels since September 2022. Points of Caution There are also some negative points: Labor force participation continues to decline. Following a sharp, COVID-induced decline that lasted into early 2021, the US Civilian Labor Force Participation Rate (annual average) rose into mid-2024, but it peaked below the pre-COVID level and has declined since. US Real Wages and Salaries , one measure of consumer purchasing power relative to inflation, are weakening; in May (latest available data), the quarterly average came in below year-ago levels for the first time since a brief period in late 2022 and early 2023. From a consumer standpoint, the ov
 
 ---
 
-### 2. Population Trends Will Reshape State Economies in the 2030s Depression
+### 2. Inflation: Still Here, Still Shaping Business Decisions
 
 - **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/population-trends-will-reshape-state-economies-in-the-2030s-depression
-- **Дата:** 2026-05-28T18:03:09+00:00
-- **Почему отобрано:** Содержит конкретный прогноз (депрессия 2030-х) и связывает его с демографическими трендами, которые будут формировать экономики штатов. Это новые данные о будущих экономических условиях.
+- **URL:** https://blog.itreconomics.com/blog/inflation-still-here-still-shaping-business-decisions
+- **Дата:** 2026-06-30T19:28:09+00:00
+- **Почему отобрано:** ITR Economics фокусируется на инфляции, указывая на ее продолжающееся влияние на бизнес-решения в 2026 году. Это конкретный экономический индикатор.
 
-2030s Depression Population Trends Will Reshape State Economies in the 2030s Depression Discover how state population trends will impact economic growth in the 2030s and learn strategic insights for business investments. ITR Economics May 28, 2026 The next decade is not going to favor all states equally, nor will the state-level patterns of this decade necessarily continue into the next. Businesses and investors that fail to recognize this may find themselves swimming upstream against demographic headwinds they did not anticipate. Population growth is one factor that drives future growth potential for businesses. People (or as some economists like to cold-heartedly call them, “consumption units”) are drivers of spending, and spending is fuel for economic growth. Most people think of this at the country level. For example, the news has consistently documented the struggles of the Chinese and Japanese economies as those nations face population declines. What gets less airtime — but is no less true — is that population growth matters at the state level. Population growth and the demographic composition of each state are such fundamental factors of economic potential that we include it as a primary pillar in the ITR State Opportunity Index. Low population growth translates to constrained opportunity in most cases. Looking at a snapshot of the last three years, there are three states that are population losers and many more that are growing slower than the US population growth rate of 2.1%. Based on this map, we would expect that businesses trying to grow in Vermont, West Virginia, and Hawaii will be swimming against the tide. Stronger Fundamentals in States With Higher Growth Rates Population Growth by State 2022 - 2025 Planners need to zero in on the factors that move the needle. In addition, they have to consider whether the slice of data they are using is representative of the trend that will extend into the 2030s. We created the ITR State Opportunity Index to focus 
+Solutions Inflation: Still Here, Still Shaping Business Decisions Explore strategies to navigate ongoing inflation challenges and learn how to position your business for long-term resilience in a changing economic landscape. ITR Economics Jun 30, 2026 Inflation continues to be one of the most important economic forces shaping business decisions in 2026. While recent attention has focused on oil prices and geopolitical conflict, the broader inflation story extends far beyond energy markets. Businesses are facing rising costs across labor, transportation, electricity, commodities, and other key inputs, which is creating additional pressure on profitability and strategic planning. In this webinar, we highlight several leading indicators portending that inflationary pressures are likely to persist. Treasury issuance, money supply growth, and commodity markets are all signaling higher prices ahead. While energy prices have certainly amplified recent inflation readings, the underlying trend is supported by broader structural forces that are expected to remain in place through the remainder of the decade. One area receiving particular attention is electricity. The rapid expansion of data centers, AI infrastructure, and broader electrification trends is driving increased demand for power generation and transmission capacity. As a result, electricity costs may become a growing challenge for both businesses and consumers, even after current geopolitical tensions subside. The session also examines the relationship between inflation and margin pressure. Rising producer prices, wage growth, transportation costs, and other operating expenses are forcing organizations to rethink pricing strategies and cost management practices. Businesses that clearly understand their cost structure and competitive advantages will be better positioned to preserve profitability in an environment of ongoing inflation. In challenging times, there are opportunities for organizations that proactively a
 
 ---
 
-### 3. Capital Investment Timing Strategies Ahead of 2030
+### 3. Consumer Snapshot: Savings Down, but Borrowing Power Intact
 
 - **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/capital-investment-timing-strategies-ahead-of-2030
-- **Дата:** 2026-05-21T14:54:27+00:00
-- **Почему отобрано:** Содержит прогноз о 'критическом стратегическом окне' для инвестиций перед спадом 2030 года. Это практическая рекомендация, основанная на прогнозе.
+- **URL:** https://blog.itreconomics.com/blog/consumer-snapshot-savings-down-but-borrowing-power-intact
+- **Дата:** 2026-06-25T14:43:51+00:00
+- **Почему отобрано:** ITR Economics предоставляет конкретные цифры по ставке сбережений потребителей в США (4.0%) и их снижение, что является важным экономическим индикатором.
 
-Solutions Capital Investment Timing Strategies Ahead of 2030 Discover key investment strategies to navigate economic challenges ahead of 2030, and learn how to position your business for long-term resilience. ITR Economics May 21, 2026 Businesses are entering a critical strategic window as economic conditions continue to evolve ahead of the anticipated 2030 downturn. Although investment activity remains healthy today, organizations have a limited timeframe to position themselves for long-term resilience before broader macroeconomic pressures intensify. Current capital expenditure activity continues to accelerate, with business-to-business investment spending surpassing $900 billion over the past year. Corporate profitability remains elevated, giving many organizations the financial flexibility to reinvest in equipment, technology, and operational improvements. Growth is especially strong in high-tech sectors such as information processing equipment, data center construction, software, and electrification-related infrastructure. At the same time, inflationary pressures remain persistent across the economy. Rising producer prices, wage inflation, electricity costs, and commodity volatility are creating margin risk for businesses. While some inflationary pressure is tied to geopolitical disruptions and energy markets, broader structural factors — including government debt growth and sustained Treasury issuances — suggest inflation will remain elevated through the remainder of the decade. The webinar also highlights the demographic and fiscal challenges expected to contribute to the projected 2030s economic downturn. Aging baby boomers, rising entitlement spending, elevated national debt, and increasing interest payment burdens are creating long-term structural strain on the economy. These forces are expected to place significant pressure on financial markets, borrowing costs, and overall economic stability in the years ahead. Despite these risks, meaningful opportuniti
+Industry Updates Consumer Snapshot: Savings Down, but Borrowing Power Intact Explore the current consumer landscape where savings are down but borrowing power remains intact, revealing insights for businesses to navigate economic challenges. ITR Economics Jun 25, 2026 Inflation has taken a meaningful bite out of consumers' ability to save. The annual US Personal Savings Rate has dropped to 4.0% of Disposable Personal Income, or about 1.7 percentage points below the average of the last 30 years (5.7%). While lower savings rates typically raise concerns about the consumer’s ability to sustain their spending, the consumer picture is nuanced. Many households still have access to credit and maintain their level of spending by borrowing. Further, some consumer groups are experiencing positive wealth effects of high home prices and strong stock valuations. Declining savings rates alone do not necessarily signal an immediate pullback in consumer activity. Credit Capacity Still Supports But can consumers continue to leverage their balance sheets? Current measures of liquidity and credit availability suggest there is still capacity for additional borrowing, allowing spending to remain supported even as savings rates have declined. In the first quarter of 2026, US Consumer Debt Service Payments averaged only 5.3% of Disposable Personal Income, slightly below the long-term average, and well below levels seen in the 2000s. Bifurcated Consumer Base Despite consumer debt levels, the consumer landscape is becoming increasingly bifurcated. Aggregate data can mask the growing divergence between financially resilient households and those facing mounting financial stress. On one side of the ledger, a healthy share of consumers continue to manage debt effectively. Financially resilient consumers: 36.1% of credit card users pay their balance in full each month, and that share is increasing. Financially stressed consumers: The share of consumers making only the minimum payment on their cr
 
 ---
 
-### 4. Dlouhodobá nezaměstnanost je nejvyšší od roku 2017
+### 4. Margin Pressures Are Intensifying, As We Expected
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/margin-pressures-are-intensifying-as-we-expected
+- **Дата:** 2026-06-18T14:07:56+00:00
+- **Почему отобрано:** ITR Economics анализирует давление на маржу бизнеса, связывая его с ростом затрат и чувствительностью покупателей к ценам. Это конкретный экономический индикатор.
+
+Industry Updates Margin Pressures Are Intensifying, As We Expected Explore the intensifying margin pressures facing businesses today and learn strategies to navigate cost challenges in a competitive landscape. ITR Economics Jun 18, 2026 Rising inputs costs and price-sensitive buyers are making some business owners sweat. This combination spells margin squeeze. One year ago, in our Trends Report™ Executive Summary , we warned our clients of upcoming “profitless prosperity” — where your top line grows, but cost pressures result in margin squeeze that hurts the bottom line. For many businesses, especially those exposed to commodities, margin pressure has already become a reality. The Return of Margin Pressure We can visualize margin squeeze by comparing the price changes for intermediate and final goods. Intermediate goods are split into two categories — unprocessed (e.g., petroleum) and processed (e.g., auto parts sold to a car manufacturer). This spread illustrates how much input prices have outstripped the prices final goods producers receive in recent months. Here is how that spread is calculated: If we visualize the historical trend, it shows us that margin pressure is intensifying and, outside of the post-COVID cycle, it is quite high. A Familiar and Cyclical Challenge This chart shows us that: We’ve been here before. The trend is highly cyclical. The margin squeeze from unprocessed goods (raw commodities) is much higher (about 3x as strong) than the squeeze from processed inputs. While some margin could be recovered, it is important to not get complacent. Why Margin Challenges May Persist We expect cost pressure from many sources in the coming years: higher wages from demographic tightness, higher electricity costs as datacenter demand draws on a constrained system, and higher costs stemming from a global trend towards economic nationalism. Those are all on top of a trend of sticky broad-based inflation driven by fiscal and monetary trends. At the same time, buy
+
+---
+
+### 5. The Media, the Fed, and Us: Which Inflation Metric Tells the Real Story?
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/the-media-the-fed-and-us-which-inflation-metric-tells-the-real-story
+- **Дата:** 2026-06-04T17:46:29+00:00
+- **Почему отобрано:** ITR Economics обсуждает метрики инфляции и их восприятие, что напрямую связано с ключевым экономическим индикатором.
+
+News The Media, the Fed, and Us: Which Inflation Metric Tells the Real Story? Over the years, the Fed and economists have used various inflation metrics. But which measurement provides the most accurate analysis for business planning? ITR Economics Jun 4, 2026 Last week brought a flurry of media pieces about the new Fed chair’s preferred inflation metric and whether or not it is an accurate measure of consumer pricing pressures. While we take no political position on any messaging in the pieces, we can say we are happy to see the media highlighting one of ITR Economics’ core tenets — that data matters! What Happened: At his April 21 confirmation hearing, Kevin Warsh, the new Fed chair, stated that he preferred trimmed averages as a tool to gauge inflation. Over the years, the Fed and economists have used various inflation metrics. The US Bureau of Labor Statistics’ Consumer Price Index, which we use at ITR Economics, measures a basket of consumer goods. So-called “core” price indexes exclude food and energy prices and are favored by some as measures that filter out what are historically among the most volatile of categories. The Fed, in particular, has historically preferred a Personal Consumption Expenditures-based price index that excludes food and energy. Accordingly, Chairman Warsh’s trimmed average preference represents a potential shift from the norm. The thought behind trimmed averages is that, rather than filter out historically volatile categories like food or energy, they filter out the volatility itself. The Dallas Fed Trimmed Mean PCE inflation rate is the particular metric that the media focused on last week. This metric: Looks at the monthly inflation rate (annualized) for each category of PCE (personal consumption expenditures data from the Bureau of Economic Analysis) Puts those categories in ascending order from what declined the most to what rose the most And, finally, trims off the bottom 24% of weight (declining or more-slowly rising categories) 
+
+---
+
+### 6. Zaměstnanci státu a jejich platy v roce 2025
 
 - **Источник:** IDEA CERGE-EI (Czech Think Tank)
-- **URL:** https://idea.cerge-ei.cz/zpravy/dlouhodoba-nezamestnanost-je-nejvyssi-od-roku-2017
-- **Почему отобрано:** Содержит конкретные данные по безработице в Чехии ('Dlouhodobá nezaměstnanost je nejvyšší od roku 2017' - долгосрочная безработица самая высокая с 2017 года). Это новый, конкретный экономический индикатор для Чехии.
+- **URL:** https://idea.cerge-ei.cz/zpravy/zamestnanci-statu-a-jejich-platy-v-roce-2025
+- **Почему отобрано:** IDEA CERGE-EI предоставляет конкретные прогнозы по зарплатам госслужащих в Чехии на 2025 год, что соответствует критериям новых данных, прогнозов и фокуса на Чехии.
 
-Dlouhodobá nezaměstnanost je nejvyšší od roku 2017 O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line výstupy Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Události > Aktuálně > Jak probudit ekonomiku Aktuálně Průlomový dopad studie IDEA na penzijní politiku Book of abstracts 2025-2026 Bibliometrická zpráva IKEM Dlouhodobá nezaměstnanost je nejvyšší od roku 2017 Aktuálně Dlouhodobá nezaměstnanost je nejvyšší od roku 2017 13. 5. 2026 Blesková analýza vývoje registrované nezaměstnanosti k 30. dubnu 2026 na základě dat MPSV. Celá analýza včetně grafů: STÁHNOUT PDF Autoři: Jakub Grossmann a Daniel Münich SHRNUTÍ: Registrovaná nezaměstnanost v dubnu ’26 mírně poklesla, a to zejména kvůli každoročnímu – sezónnímu poklesu v jarních a letních měsících. Rozdíl mezi počtem odchozích a příchozích na úřadech práce byl obdobný jako v dubnech posledních let (Graf 2). Nezaměstnanost v ČR je stále jednou z nejnižších v EU27 (Graf 9). Podíl nezaměstnaných na úřadech práce v populaci 15–64 let na konci dubna ’26 (4,9 %) se oproti před-covidovému dubnu ’19 zvýšil o 2,2 procentního bodu (p. b.): u mužů o 2 p. b., více u žen o 2,4 p. b. (Graf 1). Rozdíl v nezaměstnanosti mezi muži a ženami se od února ’26 opět prohlubuje (Graf 3). Dlouhodobá nezaměstnanost je z pohledu sociálního a veřejných politik mnohem důležitější fenomén než nezaměstnanost celková nebo krátkodobá. Ta od ledna ’25 roste vysokým tempem a je nejvyšší od roku 2017 (Graf 4). Nejvyšší míru nezaměstnanosti dlouhodobě vykazují Pomocní a nekvalifikovaní pracovníci s odstupem následováni Úředníky a Pracovníky ve službách a prodeji. Naopak nejlépe si dlouhodobě vedou Specialisté (Graf 5). Vyšší míru nezaměstnanosti nadále vykazují nejmladší a nejstarší věkové skupiny,
+Zaměstnanci státu a jejich platy v roce 2025 O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line výstupy Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Události > Aktuálně Aktuálně Zaměstnanci státu a jejich platy v roce 2025 Platy učitelů v roce 2025 a výhled: pád na dno? Nová ekonomická témata pro Trumpovu éru Průlomový dopad studie IDEA na penzijní politiku Aktuálně Zaměstnanci státu a jejich platy v roce 2025 2. 7. 2026 Každoročně aktualizovaná publikace a interaktivní aplikace think-tanku IDEA při CERGE-EI přináší podrobné analytické vhledy do struktury a dlouhodobých trendů počtu zaměstnanců státu, výše průměrných platů a výdajů na ně v roce 2025. Aplikace letos uživatelům nově umožňuje interaktivní analýzy dlouhodobých trendů. Aplikace a studie jsou dostupné na adrese: https://ideaapps.cerge-ei.cz/zamestnancistatu Shrnutí: Srovnávací analýza představuje každoroční aktualizaci vývoje počtu zaměstnanců státu, jejich platů a nákladů na ně v roce 2025, a to na základě údajů Státního závěrečného účtu . Počet zaměstnanců státu vzrostl o zhruba 4 000 (+0,8 %), přibylo především zaměstnanců ve školství a v armádě. Státních úředníků naopak o zhruba 300 ubylo (-0,4 %). Průměrné platy v reálném vyjádření ve skupině státních úředníků poprvé od roku 2020 vzrostly. Vývoj platů zhruba kopíroval vývoj mezd v celé ekonomice, a tedy se zastavilo delší období oslabování platové konkurenceschopnosti státních úřadů. V širším sektoru zaměstnanců státu pak vzrostla platová konkurenceschopnost v oblasti armády a příslušníků bezpečnostních sborů. Mírně naopak opět poklesla u zaměstnanců v regionálním školství. Mnoho dalších informací poskytuje on-line aplikace . Ta letos uživatelům nově nabízí interaktivní nástroj analýzy dlouh
 
 ---
 
-### 5. A tale of two energy crises – initial conditions matter
+### 7. Platy učitelů v roce 2025 a výhled: pád na dno?
+
+- **Источник:** IDEA CERGE-EI (Czech Think Tank)
+- **URL:** https://idea.cerge-ei.cz/zpravy/platy-ucitelu-v-roce-2025-a-vyhled-pad-na-dno
+- **Почему отобрано:** IDEA CERGE-EI прогнозирует ситуацию с зарплатами учителей в Чехии на 2025 год, что является новым прогнозом и касается Чехии.
+
+Platy učitelů v roce 2025 a výhled: pád na dno? O nás O nás Partneři Spolupráce Kontakt Výstupy Výstupy Studie IDEA Talks On-line výstupy Vývoj nezaměstnanosti Talent Policy Briefs a další IDEA anti COVID-19 Lidé Lidé Vedoucí projektu Výzkumníci Spolupracovníci Administrativa Události Události Aktuálně Připravujeme Média Média Tiskové zprávy Média 2026 Média 2025 Média 2024 Média 2023 Média 2022 × CZ / EN Domů > Události > Aktuálně Aktuálně Zaměstnanci státu a jejich platy v roce 2025 Platy učitelů v roce 2025 a výhled: pád na dno? Nová ekonomická témata pro Trumpovu éru Průlomový dopad studie IDEA na penzijní politiku Aktuálně Platy učitelů v roce 2025 a výhled: pád na dno? 22.6.2026 Nová studie "Platy učitelů v roce 2025 a výhled: pád na dno?" detailně mapuje vývoj a strukturu platů českých učitelů a výdaje na ně. Popisuje, jak se vyvíjí relativní platy učitelů ve srovnání s politickými přísliby, jaký je jejich výhled, jak jsou vysoké v mezinárodním srovnání a jaká je jejich struktura s ohledem na věk a odměny. STÁHNOUT STUDII Shrnutí: Výše učitelských platů v porovnání s ostatními profesemi dlouhodobě ovlivňuje kvalitu učitelského sboru, a tedy i vzdělávání. Výrazně spoluurčuje kdo do učitelské profese vstupuje, kdo v ní zůstává a kdo ji naopak opouští. Důležitá není jen aktuální výše platů, ale také důvěryhodnost a předvídatelnost jejich budoucího vývoje. Vyšší platová atraktivita školám umožňuje větší výběr mezi uchazeči o učitelské pozice a posiluje tlak na kvalitu výuky. Relativní platy učitelů – tedy jejich poměr k průměrné mzdě v ekonomice – se v zemích OECD a EU dlouhodobě pohybují okolo 130 % průměrné mzdy. V Česku se až do roku 2017 držely pouze kolem 106 %, tedy hluboko pod úrovní vyspělých zemí. V letech 2017–2021 rychle rostly a dosáhly historického maxima 125 %. Od té doby však opět výrazně klesají. V roce 2025 poklesly zpět na 108,4 %, protože tempo růstu učitelských platů v posledních letech výrazně zaostávalo za tempem růstu mezd v české ekonomice
+
+---
+
+### 8. How banks have adjusted their lending in response to trade tensions
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260715~d5c83c53ee.en.html
+- **Дата:** 2026-07-15T09:00:00+00:00
+- **Почему отобрано:** ECB Blog анализирует, как банки корректируют кредитование в ответ на торговые напряжения, что является новым экономическим анализом и индикатором.
+
+THE ECB BLOG How banks have adjusted their lending in response to trade tensions 15 July 2026 By Anastasia Allayioti, Alessandro Ferrari, Petra Köhler-Ulbrich, Matías Lamas Rodríguez and Wouter Wakker Global trade tensions have become a significant source of risk for firms with cross-border business. This post looks at corporate loans and survey data on bank lending conditions to examine how banks have adjusted their lending policies in response. Changes in global trade policies and heightened trade tensions pose a challenge for euro area firms, particularly those operating internationally. For banks, these developments increase credit risk: the firms affected can face volatile demand, supply disruptions and squeezed margins, and may find it harder to service their debts. This post looks at how euro area banks have responded to rising trade tensions since 2025, drawing on granular analyses of loan portfolios from AnaCredit and survey data from the euro area bank lending survey ( BLS ). It focuses on trade with the United States, which has been at the centre of recent policy shifts, including the broad-based tariffs imposed in 2025. [ 1 ] Our findings show that banks have responded to these risks by stepping up their monitoring of exposed borrowers. They have also adopted a more cautious stance when lending to firms. These adjustments were more pronounced among the banks most heavily exposed to trade risks, particularly where such risks compounded existing corporate vulnerabilities. For firms, higher trade risks have not only led to tighter lending conditions, they have also dampened loan demand. Uneven trade risk across euro area banks’ loan portfolios Euro area banks’ exposure to trade risk depends on both the importance of trade for their corporate borrowers and the share of affected firms or sectors in their loan portfolios. We measure this exposure in two steps. First, we calculate the share of euro area value added consumed in the United States and the share of
+
+---
+
+### 9. Still fit for purpose? Upgrading our economic models for an age of uncertainty
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260710~f3f1759bba.en.html
+- **Дата:** 2026-07-10T09:00:00+00:00
+- **Почему отобрано:** ECB Blog обсуждает необходимость обновления экономических моделей в 'эпоху неопределенности', что является новым анализом и прогнозом на будущее.
+
+THE ECB BLOG Still fit for purpose? Upgrading our economic models for an age of uncertainty 10 July 2026 By Matteo Ciccarelli and Antoine Kornprobst The ECB is upgrading its economic modelling to cope with growing uncertainty in a time of war and energy shocks. This ECB Blog highlights the limitations of the current toolkit and looks at where modelling is now heading. Galileo famously wrote that the book of nature is written in the language of mathematics. And modern physics has gone on to describe the motion of planets and particles with ever greater precision. The economy, by contrast, is made up of people. People who make their own decisions – “particles” that feel, think and anticipate, and that may not always act entirely rationally. Economists nevertheless try to find patterns in the ways households and firms make decisions and interact, and in how this all adds up to what we call “the economy”. This comes with its own very specific empirical challenges, which also matter for central banks and monetary policy. Our models were showing their limitations In macroeconomics in particular, large-scale experiments are generally not an option: you cannot run a recession twice with two different sets of interest rates. Instead, economists build macroeconomic models in which equations stand in for relationships in the economy. These models are like small laboratories in which a simulated economy can be poked, prodded and shocked, and forecasts can be confronted with the data. Which is why models are crucial in central banking: economists at the ECB maintain and use macroeconomic models to prepare forecasts, scenario analyses and policy prescriptions. But, with large shocks becoming increasingly frequent and uncertainty more prevalent, our models had begun to show their limitations. The time had come to review our modelling toolkit and practices. Economic forecasts can fail for all sorts of reasons. The culprit can usually be found hiding in the technical assumptions. Fo
+
+---
+
+### 10. Beyond energy prices: the ripple effects of Gulf supply disruptions
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260702~a6cf657ddc.en.html
+- **Дата:** 2026-07-02T09:00:00+00:00
+- **Почему отобрано:** ECB Blog анализирует 'волновые эффекты' сбоев в поставках из Персидского залива, что является новым геополитическим и экономическим анализом.
+
+THE ECB BLOG Beyond energy prices: the ripple effects of Gulf supply disruptions 2 July 2026 By Pablo Aguilar, Lukas Boeckelmann and Antoine Kornprobst How vulnerable is the global economy to trade disruption in the Strait of Hormuz? Using scenario-based analyses, this blog shows that supply shortages can affect growth and inflation beyond the impact on global energy prices. The war in the Middle East and the subsequent closure of the Strait of Hormuz have unsettled oil markets. Energy prices have surged, causing great uncertainty across the global economy. Moreover, physical disruptions to exports of energy and other non-energy goods from Gulf countries represent an additional channel that could have international macroeconomic repercussions. Disrupted imports of energy products, petrochemicals and other key intermediate goods from Gulf countries could lead to shortages in essential inputs if they cannot be replaced because domestic strategic reserves are unavailable, for instance, or inventories have been run down. Importing economies would then face difficulties with their production processes. And these, in turn, could create knock-on effects that ripple through global supply chains. This could cause growth to weaken further and inflation to rise faster. Though tensions have eased recently and immediate threats to Gulf trade flows appear to have somewhat receded, the Strait of Hormuz remains a key chokepoint for the global supply of energy. This blog illustrates how sensitivity analysis around energy prices can complement the use of scenarios to capture potential knock-on effects of trade disruption. Among other results, our estimates show that persistent input shortages of energy goods alone could put up to 3% of euro area production at risk. Exposure is concentrated in Asia and energy-intensive sectors Dependence on Gulf energy supplies varies markedly across countries. Asian economies are the most exposed. Gulf suppliers account for over 50% of total energy i
+
+---
+
+### 11. A tale of two energy crises – initial conditions matter
 
 - **Источник:** European Central Bank Blog
 - **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260603~3015f38292.en.html
 - **Дата:** 2026-06-03T09:00:00+00:00
-- **Почему отобрано:** Содержит анализ двух энергетических кризисов и их влияния на Европу. Упоминает 'initial conditions matter', что намекает на конкретные данные и сравнения. Это новый, релевантный для ЕС материал.
+- **Почему отобрано:** ECB Blog сравнивает две энергетические 'кризисные' ситуации, подчеркивая важность начальных условий, что является новым анализом текущих рисков.
 
 THE ECB BLOG A tale of two energy crises – initial conditions matter 3 June 2026 By Óscar Arce, Niccolò Battistini, Othman Bouabdallah, Eliza Lis and Matthias Mohr The current energy shock is significant and global, but it is also hitting a euro area economy that is more balanced than when Russia invaded Ukraine in early 2022. History and analysis show that context matters a lot for how shocks propagate to inflation. Energy prices have risen sharply since early 2026 when war broke out again in the Middle East and the Strait of Hormuz was closed. This big uptick in energy inflation has in turn driven up headline inflation in the euro area, to stand at 3.2% in May. This blog post takes a close look at two dimensions that are relevant for the propagation of an energy shock: (i) the nature and composition of the shock itself, and (ii) the state of the economy and the broader macro-financial condition at the outset. This shock is different The current energy shock differs in nature and composition from the episode that followed Russia’s invasion of Ukraine in February 2022. Unlike in 2022, the Middle East war has sparked more disruption in the supply of oil, rather than of natural gas, to the euro area. Indeed, the upsurge in crude oil prices has been faster and pressure on prices of some refined oil products, like diesel, has been larger in the latest episode than in 2022, while wholesale gas and electricity prices rose much more in 2022 (Chart 1). The difference in the reaction of gas and electricity prices for the most part reflects how Europe was more directly exposed to the shock in 2022 and was less prepared. Chart 1 Developments in energy prices across components (panel a: USD/Bbl, panel b: EUR/MWh, panel c: EUR/MWh) Sources: Refinitiv and ECB staff calculations. Notes: Monthly data over the months of each year. The vertical line indicates Russia’s full-scale invasion of Ukraine and the outbreak of the war in the Middle East. The latest observations are for May 20
 
 ---
 
-### 6. Piero Cipollone: Europe needs to act to strengthen the role of its currency
+### 12. Piero Cipollone: Europe needs to act to strengthen the role of its currency
 
 - **Источник:** European Central Bank Blog
 - **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260602~65ca6b0d68.en.html
 - **Дата:** 2026-06-02T10:00:00+00:00
-- **Почему отобрано:** Содержит прямое заявление от члена ЕЦБ о необходимости укрепления роли евро. Это новая, важная информация о монетарной политике ЕС и статусе евро.
+- **Почему отобрано:** ECB Blog (Piero Cipollone) подчеркивает необходимость действий для укрепления роли евро, что является новым прогнозом и практической рекомендацией для ЕС.
 
 THE ECB BLOG Europe needs to act to strengthen the role of its currency 2 June 2026 By Piero Cipollone, Member of the Executive Board of the ECB The euro’s international use has grown in recent years, but largely by circumstance rather than by design. In a more contested global monetary system, Europe needs to act deliberately to strengthen the role of its currency – building on solid foundations, keeping pace with global shifts and matching policy ambition with concrete steps. The international monetary system is becoming more contested. Major economies that once trusted the system to work on its own are now actively shaping the use of their currencies. Europe has so far been an exception. The global role of our currency has gradually gained ground in recent years, but largely by circumstance rather than by choice. This is no longer enough. In a changing global environment, the euro should serve a clearer purpose for Europe, and Europe should be willing to act to make this happen. The starting point is favourable. Since the mid-2010s the composite measure of the euro’s international role has risen by around 1.5 percentage points. The euro’s share in global reserves is around 20%, much as it has been for two decades. But international debt issued in our currency reached close to €1 trillion last year, the highest annual level since the single currency was introduced. During several episodes in 2025, when investors looked for safety they bought euros and euro-denominated assets at the same time as they sold US dollars and Treasuries. This progress rests on two foundations. The first is structural. Europe is the most open major economy in the world, with exports of close to €4 trillion last year. Our resolve to uphold the rule of law even under unprecedented pressure, the independence of our central bank, our robust fiscal framework and the openness of our single market are structural qualities no longer universally on offer. The second is that in the areas where Euro
 
 ---
 
-### 7. Geopolitical risk and scarring effects on consumer expectations: insights from the wars in Ukraine and Iran
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260529~fdd1d1e8a3.en.html
-- **Дата:** 2026-05-29T07:00:00+00:00
-- **Почему отобрано:** Содержит анализ влияния геополитических рисков (войны в Украине и на Ближнем Востоке) на потребительские ожидания в еврозоне. Это новые, релевантные данные по геополитике и экономике ЕС.
-
-THE ECB BLOG Geopolitical risk and scarring effects on consumer expectations: insights from the wars in Ukraine and Iran 29 May 2026 By Olivier Coibion, Dimitris Georgarakos, Yuriy Gorodnichenko, Geoff Kenny, Justus Meyer and Trixi Pairan Geopolitical shocks influence consumer expectations about inflation and growth. This blog explores how the wars in Ukraine and Iran affect the way households think about the economy and shows how the scars of past experiences amplify reactions to subsequent geopolitical conflicts. Recent movements in euro area consumers’ inflation and growth expectations show that geopolitical shocks influence households’ economic beliefs. Drawing on the ECB’s Consumer Expectations Survey (CES) [ 1 ] , this blog post compares households’ reactions to the 2022 invasion of Ukraine with their responses to the 2026 war in Iran. It also explores how the current shock interacts with the “scars” left by earlier periods of high inflation and geopolitical tensions. The results show that repeated geopolitical shocks reinforce fears about stagflation, with short-term expectations being especially sensitive. As consumers are highly attentive to economic news, the findings also highlight the crucial role of communication and of maintaining trust in the ECB to limit spillovers to longer-term inflation expectations. How geopolitical conflicts influence consumer expectations: insights from two wars Russia’s invasion of Ukraine triggered a sharp rise in energy prices, intensified concerns about stagflation and exacerbated the already elevated inflationary pressures of the post-pandemic recovery. In addition, the ensuing prolonged conflict and subsequent geopolitical shocks have created an environment of heightened macroeconomic uncertainty. Even if there are important differences in the economic consequences of the two conflicts, the war in Iran is likely to influence euro area households’ expectations through quite similar channels. [ 2 ] These include higher ener
-
----
-
-### 8. How the war in the Middle East is reshaping euro area firms’ expectations
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260526~dffcc782a2.en.html
-- **Дата:** 2026-05-26T09:00:00+00:00
-- **Почему отобрано:** Содержит анализ влияния войны на Ближнем Востоке на ожидания фирм в еврозоне. Это новый, релевантный геополитический и экономический материал для ЕС.
-
-THE ECB BLOG How the war in the Middle East is reshaping euro area firms’ expectations 26 May 2026 By Davide Fantino, Annalisa Ferrando, Johannes Groß, Sara Lamboglia, Laura Lebastard, Judit Rariga and Maurice Schmidt The economic shock caused by the war between the United States and Iran has quickly fed into euro area firms’ expectations. Daily responses to an ECB survey show an immediate increase in expected input costs, selling prices and short-term inflation. Firms' expectations for costs, prices and the broader macroeconomic environment are central to their decisions on wages, investment and employment. These decisions, in turn, determine how economic shocks are transmitted to the economy. When a major geopolitical event occurs, a key question for central banks is how quickly and how persistently the shock will feed into firms' expectations. For monetary policy, it is essential to understand whether the adjustment to the shock is a short-lived supply disruption or a longer-lasting change that might lead to medium-term inflationary pressures. The latest round of the ECB's Survey on the Access to Finance of Enterprises (SAFE) , offers a rare opportunity to study exactly this question. The survey for the first quarter of 2026, carried out between 19 February and 1 April, spans the period including the outbreak of the war in the Middle East on 28 February. What makes the survey results particularly interesting is the fact that the interviews with firms were carried out in different weeks throughout this period. This makes it possible to compare the answers of firms interviewed before and after the start of the conflict. Thereby, it provides evidence for the way the geopolitical shock has been transmitted to firms' expectations. [ 1 ] Most strikingly, the results indicate an immediate increase in expected input costs, selling prices and short-term inflation. Impact on costs and selling prices one year ahead Chart 1 provides a first glimpse of the impact of the war o
-
----
-
-### 9. Russian offensive campaign Assessment
+### 13. Russian offensive campaign Assessment
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign/
-- **Почему отобрано:** Предоставляет регулярные, новые данные об оценке российской наступательной кампании в Украине. Это ключевой геополитический и военный индикатор.
+- **Почему отобрано:** ISW предоставляет ежедневные оценки российских наступательных кампаний, что является новыми данными о геополитическом конфликте.
 
 Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Special Report Apr 14, 2026 Russia & Ukraine Ukraine The Importance of Ukraine’s Fortress Belt: Geospatial I
 
 ---
 
-### 10. russian occupation Update
+### 14. russian occupation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/ 
-- **Почему отобрано:** Предоставляет регулярные, новые данные об оккупации территорий Украины Россией. Это ключевой геополитический индикатор.
+- **Почему отобрано:** ISW предоставляет ежедневные обновления по российской оккупации, что является новыми данными о геополитическом конфликте.
 
-Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Special Report May 5, 2026 Russia & Ukraine Ukraine Russia’s Resettlement Strategy in Occupied Ukraine READ MORE Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Long Form Report Feb 8, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook: Coerced Russification and Ethnic Cleansing in Occupied Ukraine READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Update Jun 4, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Russian Occupation Update, June 4, 2026 READ MORE Static Map Jun 4, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, May 28 to June 3, 202
+Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Multimedia , Video Briefings Jun 29, 2026 Russia & Ukraine Ukraine Russia’s Resettlement Strategy in Occupied Ukraine READ MORE Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Long Form Report Feb 8, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook: Coerced Russification and Ethnic Cleansing in Occupied Ukraine READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Update Jul 9, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Russian Occupation Update, July 9, 2026 READ MORE Static Map Jul 9, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, July 2
 
 ---
 
-### 11. Russian Force generation & adaptation Update
+### 15. Russian Force generation & adaptation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-force-generation-and-technological-adaptations-update/
-- **Почему отобрано:** Предоставляет регулярные, новые данные о формировании российских сил и их адаптации. Это важный индикатор военного потенциала и намерений.
+- **Почему отобрано:** ISW предоставляет обновления по формированию российских сил и их адаптации, что является новыми данными о геополитическом конфликте.
 
 Home | Analysis | Russia & Ukraine | Russian Force Generation and Technological Adaptations Update Russian Force Generation and Technological Adaptations Update Jump to About this product line The Russian Force Generation and Technological Adaptations Update provides a running intelligence estimate of how Russia is adapting to battlefield realities in Ukraine and the consequences for European defense and the future of war. Each weekly update tracks Russian recruitment efforts, force generation, force reconstitution, force restructuring, and technological adaptations. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. This product line supports ISW’s Contemporary & Future of War Project which analyzes how the war in Ukraine is transforming the character of war in ways that will affect all future wars. ISW launched this product line in April 2024. Insights into Russian force generation and technological adaptation in Ukraine before April 2024 can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Offensive Campaign Update Related Map Series Russian Force Generation Russian Force Generation and Technological Adaptations Update Featured Insights Special Report Feb 23, 2026 Contemporary & Future War Russia & Ukraine Ukraine Russia’s Quest to Intensify The Theater-Wide Battlefield Air Interdiction Campaign Against Ukraine’s Logistics READ MORE Analysis Oct 13, 2025 Contemporary & Future War Russia & Ukraine Ukraine Warning: The Kremlin is Preparing to Mobilize Reservists on a Rolling Basis to Fight in Ukraine for the First Time READ MORE Special Report Jun 2, 2025 Contemporary & Future War Russia & Ukraine Ukraine The Battlefield AI Revolution Is Not Here Yet: The Status of Russian and Ukrainian AI Drone Efforts READ MORE Special Report Feb 23, 2025 Russia & Ukraine Ukraine Pu
 
 ---
 
-### 12. Russian Offensive Campaign Assessment
+### 16. Russian Offensive Campaign Assessment
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-offensive-campaign-update/
-- **Почему отобрано:** Предоставляет регулярные, новые данные об оценке российской наступательной кампании в Украине. Это ключевой геополитический и военный индикатор.
-
-Home | Analysis | Russia & Ukraine | Russian Offensive Campaign Assessment Russian Offensive Campaign Assessment Jump to About this product line ISW’s Russia and Ukraine team produces the maps and analysis of record of the war in Ukraine. The Russian Offensive Campaign Assessment provides a synthetic running intelligence estimate of Putin’s political and military objectives in Ukraine and the design, prosecution, and outcomes of Russia’s war effort. ISW has published this update daily since Russia’s full-scale invasion of Ukraine in February 2022. Each update includes an assessment of the latest battlefield changes at the operational and tactical levels of war as well as an updated strategic assessment and forecast of the war’s trajectory along with numerous supporting maps produced by ISW’s Geospatial Intelligence Team. This product line also includes prominent warning alerts. The first two years of this product line also included detailed insights into Russian supporting efforts in Ukraine including force generation efforts, technological adaptation, Russian activities in occupied Ukraine, Russian information operations, and Russian efforts to de facto annex Belarus. In April 2024, ISW launched two new product lines to explore these Russian activities in occupied Ukraine and Russian force generation efforts in greater depth. Insights into these topics since April 2024 can be found at the links below. Other Key Product Lines From Russia & Ukraine Team Russian Occupation Update Russian Force Generation & Adaptation Update Related Map Series Battle of Bakhmut Battle for Kyiv Russia's Campaign for Mariupol Russian Offensive Operations in Ukraine Ukraine's Kursk Campaign Ukraine's Belgorod Campaign Ukrainian Counteroffensive Operations Russia's Campaign for the Donbas Russian Phase Zero Operations in Europe Russian Offensive Campaign Assessment Featured Insights Special Report Apr 14, 2026 Russia & Ukraine Ukraine The Importance of Ukraine’s Fortress Belt: Geospatial I
+- **Почему отобрано:** ISW предоставляет ежедневные оценки российских наступательных кампаний, что является новыми данными о геополитическом конфликте.
 
 ---
 
-### 13. Russian Occupation Update
+### 17. Russian Occupation Update
 
 - **Источник:** ISW (Institute for the Study of War)
 - **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-occupation-update/
-- **Почему отобрано:** Предоставляет регулярные, новые данные об оккупации территорий Украины Россией. Это ключевой геополитический индикатор.
-
-Home | Analysis | Russia & Ukraine | Russian Occupation Update Russian Occupation Update Jump to About this product line ISW’s Russian Occupation Update provides a running intelligence estimate of how Russia is attempting to consolidate control and eliminate Ukrainian identity within occupied areas of Ukraine. Each biweekly update examines Russian efforts to consolidate administrative control of annexed areas and forcibly integrate Ukrainian citizens into Russian sociocultural, economic, military, and governance systems. The update includes supporting maps and geospatial intelligence products produced by ISW’s Geospatial Intelligence Team. ISW launched this product line in March 2025. Insights into Russian occupation in Ukraine before this time can be found in the Russian Offensive Campaign Update product line or in the ISW Research Library. Other Key Product Lines From Russia & Ukraine Team Russian Offensive Campaign Update Russian Force Generation & Adaptation Update Related Map Series Russian Human Rights Abuses in Occupied Ukraine Russian Occupation Update Featured Insights Special Report May 5, 2026 Russia & Ukraine Ukraine Russia’s Resettlement Strategy in Occupied Ukraine READ MORE Mar 26, 2026 Russia & Ukraine Ukraine Reuters: Welcome to ‘New Russia’: How the Kremlin is remaking occupied Ukraine READ MORE Special Report Nov 5, 2025 Russia & Ukraine Ukraine Russia Is Turning Deported Ukrainian Children Into Bargaining Chips READ MORE Long Form Report Feb 8, 2024 Russia & Ukraine Ukraine The Kremlin’s Occupation Playbook: Coerced Russification and Ethnic Cleansing in Occupied Ukraine READ MORE Russian Occupation Update Research Search Date Publication Type Map Type Map Series Browse the research library Update Jun 4, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Russian Occupation Update, June 4, 2026 READ MORE Static Map Jun 4, 2026 RUSSIAN OCCUPATION UPDATE RUSSIA & UKRAINE UKRAINE Key Developments in Russian-occupied Ukraine, May 28 to June 3, 202
+- **Почему отобрано:** ISW предоставляет ежедневные обновления по российской оккупации, что является новыми данными о геополитическом конфликте.
 
 ---
 
-### 14. Global Signals and the Ukrainian Economy: How the War in the Middle East, CBAM, and Energy Risks Affect Ukraine
+### 18. Russian Preparations for War
+
+- **Источник:** ISW (Institute for the Study of War)
+- **URL:** https://www.understandingwar.org/analysis/russia-ukraine/russian-preparations-for-war/
+- **Почему отобрано:** ISW предоставляет информацию о российских приготовлениях к войне, что является новыми данными о геополитическом конфликте.
+
+---
+
+### 19. Not Just Bread, But Childhood: What Russia Steals from Children of Ukraine
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/global-signals-and-the-ukrainian-economy-how-the-war-in-the-middle-east-cbam-and-energy-risks-affect-ukraine
-- **Дата:** 2026-06-12T12:39:46+00:00
-- **Почему отобрано:** Содержит анализ влияния войны на Ближнем Востоке, CBAM и энергетических рисков на экономику Украины. Это новые, релевантные геополитические и экономические данные для Украины.
+- **URL:** https://voxukraine.org/en/not-just-bread-but-childhood-what-russia-steals-from-children-of-ukraine
+- **Дата:** 2026-07-15T10:23:20+00:00
+- **Почему отобрано:** VoxUkraine предоставляет конкретные данные (2,619 домохозяйств) о влиянии боевых действий на детей в Украине, что является новыми данными и фокусом на Украине.
 
-Global Signals and the Ukrainian Economy: How the War in the Middle East, CBAM, and Energy Risks Affect Ukraine Anastasia Sosnova Macroeconomics June 12, 2026 Facebook X Telegram 66 The war in the Middle East, which has led to the blockade of the Strait of Hormuz and a new energy shock, together with the tightening of EU trade barriers, represents external factors that are already having a direct and measurable impact on Ukraine. During the discussion “Global Signals — Implications for Ukraine: Economic Outlook for 2026,” held to present Vox Ukraine’s study of the same name, representatives of the National Bank of Ukraine and the Ministry of Economy, along with experts from the agricultural and energy sectors — UCAB and the Green Transition Office — discussed how global developments are forcing a reassessment of this year’s GDP growth outlook, raising expectations of accelerating inflation, and requiring producers to rapidly adjust their export plans. The global economy is shifting from a trade policy shock to a commodity-market supply shock Viktoriia Ahapova, author of the study , noted that the global economy entered a new phase of instability in 2026, as the very nature of the shocks changed. While U.S. trade policy was considered the primary source of risk just six months ago, the U.S.-Israeli war against Iran and the de facto blockade of the Strait of Hormuz have triggered a new supply shock: Brent crude prices surged from $70 to more than $110 per barrel within a matter of weeks, while gas prices in Europe nearly doubled. The IMF revised its global growth forecast from 3.4% to 3.1% and to 2% under an escalation scenario, which is already close to a global recession. Even if the Strait of Hormuz reopens, oil prices are unlikely to return to prewar levels, with analysts already speaking of a “new reality” in the $80–90 per barrel range. At the same time, countries are increasingly embracing friend-shoring and near-shoring models, redirecting trade toward politic
+This study examines how exposure to ground fighting during the early phase of Russia's 2022 invasion is associated with child deprivation in Ukraine, using the data on 2,619 households with children from the nationally representative UNICEF Ukraine's 2023–2024 Socio-Economic Status of Households Survey.
 
 ---
 
-### 15. Primary Healthcare Use During the Full-Scale War in Ukraine
+### 20. Fake Citations: How Artificial Intelligence Is Changing Scientific Publications
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/primary-healthcare-use-during-the-full-scale-war-in-ukraine
-- **Дата:** 2026-06-03T09:45:23+00:00
-- **Почему отобрано:** Содержит данные национального опроса об использовании первичной медико-санитарной помощи в Украине в мае 2025 года. Это новые, конкретные данные по Украине.
+- **URL:** https://voxukraine.org/en/fake-citations-how-artificial-intelligence-is-changing-scientific-publications
+- **Дата:** 2026-07-10T13:20:11+00:00
+- **Почему отобрано:** VoxUkraine приводит конкретные цифры (4,046 фальшивых цитат в 2,810 статьях) о влиянии ИИ на научные публикации, что является новым анализом.
 
-Primary Healthcare Use During the Full-Scale War in Ukraine Geir Godager Maksym Obrizan Analytics Society June 3, 2026 Facebook X Telegram 64 A nationally representative survey of two thousand Ukrainians implemented in May 2025 reveals experiences of using public primary health care during the fourth year of the full-scale invasion. Among the 1,306 respondents who had used public healthcare in the previous 12 months, half (52%) reported no problems with their local clinic or hospital. However, notable concerns remained: nearly one-quarter (23.7%) cited long waiting times, 16% reported unofficial or inappropriate payments, and about one in ten experienced disrespectful treatment (10.5%) or absent physicians (9.2%). Issues such as drug shortages (8.6%) and unclean facilities (2.1%) were less common but still visible. The analysis also identifies particularly vulnerable groups that are significantly less likely to have accessed public healthcare facilities in the last 12 months, including unemployed individuals (by 19.8 percentage points), internally displaced persons (by 9.3 percentage points), and respondents from Eastern Ukraine (by 6.9 percentage points). Overall, the results suggest that while most patients view their encounters as satisfactory, significant minorities continue to face administrative inefficiencies, poor service culture, and inequitable payment practices within the public healthcare system. Healthcare use during the war What factors affect people’s experiences with primary healthcare during war? The determinants of healthcare access and satisfaction in conflict-affected populations remain insufficiently understood, particularly the relative influence of violence compared with socioeconomic vulnerability. To examine patient experiences with healthcare access and quality during wartime, we commissioned a dedicated module within the May 2025 Omnibus survey conducted by the Kyiv International Institute of Sociology (KIIS). The dataset captures comprehe
-
----
-
-### 16. Israeli fire kills four in Gaza, mediators hold more ceasefire talks
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/israeli-fire-kills-four-gaza-mediators-hold-more-ceasefire-talks
-- **Дата:** 2026-06-15T14:36:53+00:00
-- **Почему отобрано:** Содержит конкретные цифры по жертвам в Газе (четверо убитых) и упоминает переговоры о прекращении огня. Это новый, релевантный геополитический индикатор для Ближнего Востока.
-
-By Nidal al-MughrabiCAIRO, June 15 (Reuters) - Israeli strikes and gunfire killed at least four Palestinians in Gaza on Monday, health officials said, as mediators prepared for further ceasefire talks in Cairo to safeguard a U.S.-brokered peace plan for the tiny war-ravaged Palestinian enclave.Medics said an Israeli airstrike killed a woman in the town of Zawayda in the central Gaza Strip, while another strike killed one person in the nearby Nuseirat refugee camp.
+The researchers identified 4,046 fabricated references in 2,810 scholarly articles.
 
 ---
 
-### 17. Explainer-Middle East oil and gas output will take months to fully recover
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/explainer-middle-east-oil-and-gas-output-will-take-months-fully-recover
-- **Дата:** 2026-06-15T14:36:53+00:00
-- **Почему отобрано:** Содержит прогноз о сроках восстановления нефтегазовой добычи на Ближнем Востоке ('месяцы') после соглашения США-Иран. Это новый, релевантный экономический и геополитический индикатор.
-
-LONDON, June 15 - A framework agreement between the U.S. and Iran on terms to end their war and reopen the Strait of Hormuz sent oil prices tumbling, as traders anticipated the return of flows.But industry officials say a full return to pre-war production and refining levels is likely to take weeks, months or even years.The following explores the main energy implications of the tentative deal.WHAT DOES THE DEAL CHANGE IMMEDIATELY?
-
----
-
-### 18. Explainer-Key issues the US and Iran must address in nuclear talks
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/explainer-key-issues-us-and-iran-must-address-nuclear-talks
-- **Дата:** 2026-06-15T14:36:53+00:00
-- **Почему отобрано:** Содержит анализ ключевых вопросов для ядерных переговоров между США и Ираном. Это новый, релевантный геополитический материал для Ближнего Востока.
-
-By Francois MurphyVIENNA, June 15 (Reuters) - Iran and the United States say they have reached a deal to end their war, which is expected to pave the way for talks on Iran's nuclear programme. Below is an outline of the key issues they face in those talks.WHY THE CONCERN?Iran's uranium-enrichment programme has long caused the U.S. and its allies to worry that Tehran is at least keeping the option open of one day producing nuclear weapons, since enriched uranium can be used to fuel power plants o
-
----
-
-### 19. Israeli strike kills one in south Lebanon, first deadly attack since US-Iran deal announcement
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/israeli-strike-kills-one-south-lebanon-first-deadly-attack-us-iran-deal
-- **Дата:** 2026-06-15T14:36:53+00:00
-- **Почему отобрано:** Содержит конкретные данные о жертвах в Ливане (один убитый) после объявления сделки США-Иран. Это новый, релевантный геополитический индикатор для Ближнего Востока.
-
-June 15 (Reuters) - An Israeli drone strike targeted a car in southern Lebanon, killing its driver, Lebanese security sources and state media reported on Monday.The strike was the first reported deadly Israeli attack in Lebanon since the announcement of the U.S.-Iran agreement. (Reporting by Maya Gebeily; Writing by Tala RamadanEditing by Ros Russell)
-
----
-
-### 20. Vance says he hopes to release text of agreement to halt war in Iran this week
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/vance-says-he-hopes-release-text-agreement-halt-war-iran-week
-- **Дата:** 2026-06-15T13:36:49+00:00
-- **Почему отобрано:** Содержит заявление о надежде на публикацию текста соглашения о прекращении войны в Иране на этой неделе. Это новый, релевантный геополитический индикатор для Ближнего Востока.
-
-WASHINGTON, June 15 (Reuters) - U.S. Vice President JD Vance said on Monday that he hopes text of an agreement to halt the war in Iran and open the Strait of Hormuz will be released this week, as further negotiations over the deal's details were set to continue.In an interview on CNBC, Vance also said the United States expects the economically vital waterway would be open without tolls on a long-term basis."Our expectation is that the Strait is going to be opened in a toll-free way for the long-
-
----
-
-### 21. Analysis-Netanyahu and Trump on collision course as US, Iran agree to halt war
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/analysis-netanyahu-and-trump-collision-course-us-iran-agree-halt-war
-- **Дата:** 2026-06-15T13:36:49+00:00
-- **Почему отобрано:** Анализирует потенциальный конфликт между Нетаньяху и Трампом на фоне соглашения США-Иран о прекращении войны. Это новый, релевантный геополитический анализ для Ближнего Востока.
-
-By Rami Ayyub and Maayan LubellJERUSALEM, June 15 (Reuters) - Benjamin Netanyahu bet that his joint war alongside Donald Trump would topple Iran's clerical rulers and bolster himself ahead of elections at home, as the architect of a U.S.-Israeli alliance that would reshape the Middle East. Instead, Israel's longest-serving prime minister is on a collision course with Trump as the U.S. president seeks to extricate himself from the war, with both men's goals unmet and Israeli military operations t
-
----
-
-### 22. Trump says ships carrying oil are moving out of Strait of Hormuz
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/06/trump-says-ships-carrying-oil-are-moving-out-strait-hormuz
-- **Дата:** 2026-06-15T13:36:49+00:00
-- **Почему отобрано:** Содержит заявление Трампа о том, что корабли с нефтью начинают движение из Ормузского пролива. Это новый, релевантный геополитический и экономический индикатор для Ближнего Востока.
-
-June 15 (Reuters) - U.S. President Donald Trump said on Monday that many ships loaded with oil are starting to move out of the Strait of Hormuz."Ships are starting to move, many loaded up with Oil, out of the Strait of Hormuz. They are going along the Southern 'Highway,' which is totally safe, secure, and pristine," he wrote in a Truth Social post.  (Reporting by Susan Heavey and Katharine Jackson)
-
----
-
-### 23. Forecast Accuracy Report Card: Tariff Edition
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/forecast-accuracy-report-card-tariff-edition
-- **Дата:** 2026-05-14T18:18:54+00:00
-- **Почему отобрано:** Содержит информацию о точности прогнозов ITR Economics (94.7% с 1985 года) и упоминает влияние тарифов (хотя и в контексте прошлого прогноза). Это косвенно подтверждает методологию и актуальность.
-
-
-  
-
-“Are you going to change your macroeconomic outlook due to the tariffs?”
-We were asked this often starting in the first half of 2025, when the Trump administration announced tariffs of greater scope and intensity — and with fewer loopholes — than those of his first term.   
-
----
-
-### 24. How cross-border flows via non-bank financial institutions constrain financing for euro area firms
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260515~969ddfcf06.en.html
-- **Дата:** 2026-05-15T09:00:00+00:00
-- **Почему отобрано:** Анализирует, как трансграничные потоки через небанковские финансовые учреждения влияют на финансирование фирм в еврозоне. Это новый, специфический экономический индикатор для ЕС.
-
----
-
-### 25. Reform Index 284: Housing Policy Reform
+### 21. Reformist Start: Key Changes in Q1 2026
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/reform-index-284-housing-policy-reform
-- **Дата:** 2026-06-15T11:10:10+00:00
-- **Почему отобрано:** Содержит конкретные цифры по индексу реформ в Украине (6 пунктов, оценка 0.8 против 1.3 в предыдущем выпуске). Это новый, релевантный индикатор для Украины.
+- **URL:** https://voxukraine.org/en/reformist-start-key-changes-in-q1-2026
+- **Дата:** 2026-07-09T09:16:07+00:00
+- **Почему отобрано:** VoxUkraine предоставляет данные о количестве реформ (49) и их средней оценке (+1) в Q1 2026, что является новым экономическим анализом для Украины.
 
-The 284th issue of the Reform Index, covering the period from February 9 to 22, includes six regulations, with the Index scoring 0.8 points. In the previous issue, the Index stood at 1.3 points.
+In the first quarter of 2026, Reform Index experts identified 49 reforms (15 laws, 33 Cabinet of Ministers resolutions, and one Cabinet of Ministers order), with an average score of +1.
+
+---
+
+### 22. Ukraine’s Students Don’t Fail Under Fire – They Just Don’t Show Up
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/ukraine-s-students-don-t-fail-under-fire-they-just-don-t-show-up
+- **Дата:** 2026-07-01T11:08:54+00:00
+- **Почему отобрано:** VoxUkraine оценивает влияние войны на студентов в Украине, что является новыми данными и фокусом на Украине.
+
+Despite their importance, we know little about how exposure to war affects students once they are enrolled in higher education. To help fill this gap, my research estimates the impact of war exposure on Ukrainian BA students.
+
+---
+
+### 23. Next Israel government must halt rise in debt burden, central bank  chief says
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/07/next-israel-government-must-halt-rise-debt-burden-central-bank-chief-says
+- **Дата:** 2026-07-15T09:46:49+00:00
+- **Почему отобрано:** Al-Monitor цитирует главу центробанка Израиля о необходимости остановить рост госдолга и увеличить инвестиции в образование. Это новые данные и прогноз по Ближнему Востоку.
+
+By Steven ScheerJERUSALEM, July 15 (Reuters) - Whoever wins the election in Israel later this year must rein in defence-led state spending that has grown in recent years and invest more in education, infrastructure and other growth engines, Bank of Israel Governor Amir Yaron said on Wednesday.Israel is slated to hold a general election on October 27. Polls show Prime Minister Benjamin Netanyahu's current ruling coalition losing.
+
+---
+
+### 24. Iran reports fresh US strikes in return to war
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/07/iran-reports-fresh-us-strikes-return-war
+- **Дата:** 2026-07-15T09:30:32+00:00
+- **Почему отобрано:** Al-Monitor сообщает о новых ударах США по Ирану и возобновлении блокады, что является новыми геополитическими событиями и санкциями.
+
+Iran reported fresh US strikes Wednesday on a port city that is home to the country's only civilian nuclear plant, as Washington reimposed a naval blockade in a return to war between the foes.
+It later said fresh US strikes hit the southern port city of Bushehr, home to the country's only civilian nuclear plant.
+
+---
+
+### 25. G7 urges halt to attacks in Sudan's El-Obeid, calls for wider arms embargo
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/07/g7-urges-halt-attacks-sudans-el-obeid-calls-wider-arms-embargo
+- **Дата:** 2026-07-15T07:46:41+00:00
+- **Почему отобрано:** Al-Monitor сообщает о призыве G7 остановить атаки в Судане и ввести эмбарго, что является новыми геополитическими событиями.
+
+BERLIN, July 15 (Reuters) - G7 foreign ministers and the European Union's foreign policy chief on Wednesday urged Sudan's Rapid Support Forces and allied armed groups to stop all actions that could lead to further atrocities or endanger civilians in El-Obeid.They also called on all parties, including the Sudanese army, to cease hostilities, allow aid access and engage in good-faith talks.
 
 ---
 
