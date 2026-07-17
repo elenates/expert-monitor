@@ -24,6 +24,70 @@
         }
       ]
     },
+    ,
+{
+  "name": "Robin Brooks",
+  "topics": ["FX", "trade flows", "sanctions", "oil price cap", "euro"],
+  "sources": [
+    {
+      "type": "substack",
+      "name": "Robin Brooks Substack",
+      "url": "https://robinjbrooks.substack.com",
+      "rss": "https://robinjbrooks.substack.com/feed"
+    }
+  ]
+},
+{
+  "name": "Brad Setser",
+  "topics": ["capital flows", "reserves", "balance of payments", "sanctions", "dollar"],
+  "sources": [
+    {
+      "type": "blog",
+      "name": "Follow the Money (CFR)",
+      "url": "https://www.cfr.org/blog/brad-setser",
+      "rss": "https://www.cfr.org/blog-feed/brad-setser"
+    }
+  ]
+},
+{
+  "name": "Michael Pettis",
+  "topics": ["China imbalances", "balance of payments", "dollar system", "trade"],
+  "sources": [
+    {
+      "type": "blog",
+      "name": "China Financial Markets",
+      "url": "https://carnegieendowment.org/people/michael-pettis",
+      "rss": null,
+      "scrape_url": "https://carnegieendowment.org/people/michael-pettis?lang=en"
+    }
+  ]
+},
+{
+  "name": "George Friedman",
+  "topics": ["geopolitics", "structural forecast", "US power", "Europe security"],
+  "sources": [
+    {
+      "type": "blog",
+      "name": "Geopolitical Futures",
+      "url": "https://geopoliticalfutures.com",
+      "rss": null,
+      "scrape_url": "https://geopoliticalfutures.com/category/articles/"
+    }
+  ]
+},
+{
+  "name": "GIS Reports",
+  "topics": ["geopolitics", "energy security", "Europe", "global order"],
+  "sources": [
+    {
+      "type": "blog",
+      "name": "GIS Reports Online",
+      "url": "https://www.gisreportsonline.com",
+      "rss": null,
+      "scrape_url": "https://www.gisreportsonline.com/reports.html"
+    }
+  ]
+}
     {
       "name": "Adam Tooze",
       "topics": ["global economy", "polycrisis", "fiscal policy", "geopolitics", "financial crisis"],
