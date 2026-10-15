@@ -1,4 +1,4 @@
-# Данные для саммари — 2026-09-15
+# Данные для саммари — 2026-10-15
 
 ## Краткая база знаний (ключевые тезисы экспертов)
 
@@ -25,225 +25,292 @@
 
 ---
 
-## Отфильтрованные материалы (20 шт.)
+## Отфильтрованные материалы (34 шт.)
 
-### 1. Bond Sell-Off Pushes Interest Rates Higher: What It Means for Your Business
+### 1. The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/the-2030s-action-plan-7-decisions-that-cant-wait-until-2030
+- **Дата:** 2026-10-14T16:54:24+00:00
+- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, длительностью ~6 лет. Указывает на конкретные мегатренды (демография, расходы на здравоохранение/соц. программы, гос. долг, инфляция), ведущие к этому. Это конкретный прогноз с указанием временных рамок и факторов.
+
+2030s Depression The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030 Prepare for the economic changes of the 2030s with key decisions for success. Join our webinar for insights on navigating the upcoming challenges and opportunities. ITR Economics Oct 14, 2026 For years, ITR Economics has been helping business leaders understand why the 2030s are likely to bring a period of significant economic disruption. As the decade draws closer, however, understanding this outlook is no longer enough. The question is becoming increasingly practical: What should you do with that information? The decisions made in the remaining years of the 2020s could have an outsized influence on how businesses and individuals enter the next decade. Some choices may call for action sooner rather than later. Others may require advance preparation but careful patience. In still other cases, preserving flexibility could be more valuable than committing too early. That distinction is at the center of ITR Economics’ upcoming Executive Series webinar, The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030. Economists Connor Lokar and Lauren Saidel-Baker will translate ITR Economics’ 2030s outlook into seven major decisions: Translate inflation expectations into margin-protecting actions. Determine how to respond to the likely path of interest rates. Evaluate your commercial real estate exposure. Pivot from recession-prone markets toward recession-resistant markets. Determine which capital expenditures to pursue — and which to avoid. Align your M&A strategy with economic expectations. Weigh personal housing considerations. Over the years, we have outlined the economic forces that will result in the depression. This session’s objective is to focus on the implications of that outlook so that you can act. Which decisions deserve your attention today? Which of these require preparation now but execution later? What conditions should you be monitoring? And what developments could change th
+
+---
+
+### 2. GovTech Reform Index. Volume 4
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/govtech-reform-index-volume-4
+- **Дата:** 2026-10-15T12:59:27+00:00
+- **Почему отобрано:** Индекс реформ GovTech в Украине за Q2 2026. Указывает на стагнацию (+2.00 пункта), что важно для оценки эффективности управления и реформ в условиях войны.
+
+GovTech Reform Index. Volume 4 Vox Ukraine Team Global Government Technology Centre (GGTC) Kyiv Reforms Photo: unsplash.com / Shubham Dhage October 15, 2026 Facebook X Telegram 3 VoxUkraine, together with the Global Government Technology Centre Kyiv, is releasing the fourth volume of the GovTech Reform Index — a tool that tracks digital reforms in Ukraine on a quarterly basis. This volume covers an analysis of regulatory changes adopted between April and June 2026. In the second quarter of 2026, the analytical team selected 73 regulatory acts in the field of digitalization across 15 policy areas. The GovTech Reform Index stood at 2.00 points — virtually unchanged from the previous quarter and notably higher than at the end of 2025 (1.84). Figure 1. GovTech Reform Index and Number of Regulatory Acts Key Trends The Index remained high. The value of 2.00 was virtually unchanged from the previous quarter’s record high of 2.01, while the number of regulatory acts increased from 59 to 73. Second consecutive quarter with no regulatory acts scoring 1.0 or below. As in the previous quarter, no regulatory act received a score 1.0 or below. By comparison, there were 5 and 6 such acts in Q3 and Q4 2025, respectively. At the same time, more than one-third of the acts received scores above 2 points on a scale from 0 to 3. Higher implementation feasibility scores. Compared to the first quarter, the average implementation feasibility score increased from 2.22 to 2.30 points, while the scores for digital innovativeness and sustainability of impact declined slightly. Among the most highly rated changes are the creation of a state register of cyber incidents, updated information-security rules for the financial sector, a web portal for studying enemy military equipment, a procedure for ranking researchers, and more. For a detailed analysis of sector-by-sector changes, the expert council’s assessments across three criteria (digital innovativeness, feasibility of implementation, and sus
+
+---
+
+### 3. Can War Rebuild an Economy? What Ukraine’s Wartime Restructuring Tells Us?
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/can-war-rebuild-an-economy-what-ukraines-wartime-restructuring-tells-us
+- **Дата:** 2026-10-13T16:01:32+00:00
+- **Почему отобрано:** Анализ того, как война в Украине влияет на реструктуризацию экономики. Задает вопрос, может ли война восстановить экономику, и почему одни сектора перестраиваются, а другие нет. Крайне релевантно для Украины.
+
+Can War Rebuild an Economy? What Ukraine’s Wartime Restructuring Tells Us? Raul Misirkhanov Analytics Macroeconomics Photo: unsplash.com / Oleksii Holovachko October 13, 2026 Facebook X Telegram 2 Why are some sectors reinventing themselves under fire while others stay stuck? What does this mean for Ukraine’s reconstruction? There is an uncomfortable question sitting underneath every conversation about Ukraine’s reconstruction: is the war, alongside the devastation, also clearing space for a better economy to emerge? It sounds like a very strange question to ask. But it is not a new question. Mancur Olson asked a version of it about Germany and Japan after 1945, and found that their rapid post-war growth owed something to the fact that occupation and defeat had smashed the cartels and interest groups that had spent decades entrenching themselves (figure 1). Destruction, in other words, can sometimes do what reform cannot. The puzzle is whether the same logic applies to Ukraine. Our recent research tried to find an answer to that puzzle drawing on case studies and semi-structured interviews that were conducted between March and April 2026 with Ukrainian professionals (government officials, international donor-side programme specialists, civil society representatives, and academic researchers) across energy, IT, Defence, and civil society. The answer turned out to be more interesting than a simple yes or no. Figure 1. Institutional sclerosis: how much of the old world order survived WWII Source: published by Internationales Verzeichnis der Wirtschaftsverbände (International Directory of Business Associations), 1973. Note that countries under total wartime defeat and occupation retained far fewer pre-war order than the UK, which experienced neither The problem before the war Ukraine’s pre-war economy before 2014 was not short of talent or ambition. What it had, instead, was a case of what Mancur Olson called “institutional sclerosis” – a small number of entrenched inte
+
+---
+
+### 4. Analysis-How the Houthis are helping Iran turn Saudi Arabia into a pressure point
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/10/analysis-how-houthis-are-helping-iran-turn-saudi-arabia-pressure-point
+- **Дата:** 2026-10-15T13:46:28+00:00
+- **Почему отобрано:** Анализ того, как атаки хуситов помогают Ирану превратить Саудовскую Аравию в 'точку давления'. Связывает геополитику на Ближнем Востоке с экономическими последствиями (инвестиции).
+
+Analysis-How the Houthis are helping Iran turn Saudi Arabia into a pressure point By Samia Nakhoul Oct 15, 2026 Add AL-MONITOR on Google A Saudi man walks past a banner of Saudi Crown Prince Mohammed bin Salman displayed on a commercial building in Riyadh — Reuters By Samia Nakhoul DUBAI, Oct 15 (Reuters) - The Houthi attacks on Saudi Arabia are about more than Yemen. By targeting infrastructure and disrupting investment events central to Saudi Arabia's economic ambitions, they aim to pressure Saudi Crown Prince Mohammed bin Salman to both meet Houthi demands in Yemen and persuade US President Donald Trump to ease the US blockade choking Iran's economy, according to Saudi, Iranian and regional sources. The campaign reflects a calculation by Iran and the Houthis that Saudi Arabia's prosperity, investment ambitions and exposure to disruption make it a vulnerable pressure point in a confrontation stretching from the Strait of Hormuz at the mouth of the Gulf to Bab el-Mandeb in the Red Sea. Iran, under mounting economic and military pressure following the war launched by the US and Israel on February 28, is seeking to raise the cost of Washington's strategy by targeting its regional partners, said Michael Knights of strategic advisory Horizon Engage. “The Iranians are in a chokehold,” he said. Unable to force Washington to change course directly, Tehran and the Houthis are “hammering Saudi Arabia, they’re hammering the weak point,” he added, exploiting the kingdom’s economic vulnerability and desire for stability. The Houthis have a direct interest in easing the US blockade on Iran, their principal regional backer. A relaxation of pressure on Tehran would likely strengthen its ability to sustain the political, financial and military support and flow of weapons and cash on which the US says the movement depends. But the Houthis also have their own demands, said two Saudi sources and three regional sources familiar with Saudi thinking: an end to Saudi military operations 
+
+---
+
+### 5. Sisi says Egypt has no ‘territorial ambitions’ after Israel’s Smotrich threatens Sinai
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/10/sisi-says-egypt-has-no-territorial-ambitions-after-israels-smotrich-threatens
+- **Дата:** 2026-10-15T11:47:05+00:00
+- **Почему отобрано:** Президент Египта Сиси заявляет об отсутствии 'территориальных амбиций' после угроз израильского министра по поводу Синая. Высокая геополитическая напряженность на Ближнем Востоке с потенциальными экономическими последствиями.
+
+Sisi says Egypt has no ‘territorial ambitions’ after Israel’s Smotrich threatens Sinai The Egyptian president’s remarks follow a warning from Israeli Finance Minister Bezalel Smotrich that Israel would seize the Sinai Peninsula if Egypt attacks. Beatrice Farhat Egyptian President Abdel Fattah al-Sisi attends a joint statements and agreements during the EU and Egypt summit in Brussels, on Oct. 22, 2025. — Magali Cohen / Hans Lucas / AFP via Getty Images Egyptian President Abdel Fattah al-Sisi stressed Wednesday that his country has no “hidden agendas” or “territorial ambitions,” responding to recent threats by an Israeli official that Israel would seize the Sinai Peninsula if Egypt attacks Israel. “Egypt’s primary and ultimate objective is to safeguard its own security and stability,” Sisi said in a speech delivered at the Egyptian Military Academy, in the New Administrative Capital, to mark the 53rd anniversary of the October 1973 war. “The Egyptian state harbors no hidden agendas. Its core priority remains the protection of its borders and national security within a framework of peace and stability,” he stressed. Referring to the 1979 peace treaty between Egypt and Israel, Sisi said that it remains the sole “governing framework” for relations between the two countries.
+
+---
+
+### 6. Is Consumer Spending Running Out of Fuel?
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/is-consumer-spending-running-out-of-fuel
+- **Дата:** 2026-10-08T17:53:40+00:00
+- **Почему отобрано:** Обсуждает состояние потребительских расходов в США на фоне высоких цен и процентных ставок. Хотя нет конкретных цифр, это важный индикатор, связанный с прогнозами ITR.
+
+Industry Updates Is Consumer Spending Running Out of Fuel? Consumer spending remains resilient, but weakening income growth paired with less supportive savings and credit conditions point to slower activity in 2027. ITR Economics Oct 8, 2026 Consumer spending remains one of the more dependable sources of US economic growth. Even as households face higher prices, elevated interest rates, and growing financial pressure, retail sales continue to expand. However, that resilience appears to be softening as the underlying sources that allow consumers to spend are losing momentum. Real personal income growth is weakening, while savings and credit conditions are becoming less supportive. These trends portend more noticeable slowing in consumer activity next year. Income Growth Is Losing Momentum Consumer spending ultimately depends on the ability and willingness of households to spend. Income is, of course, a critical part of that equation. Recent data shows that real personal income (excluding current transfer receipts) growth is slowing, rising only 0.2% over the past 12 months, while the shorter-term quarterly rate-of-change is –0.3%. A negative quarterly growth rate shows that incomes are tentatively declining on an inflation-adjusted basis, even though the longer-term measure remains slightly positive. Figure 1: Real personal income excluding current transfer receipts shows weakening cyclical momentum. These metrics indicate that consumers have less income growth available to support additional spending, which typically results in households reducing their discretionary purchases or relying more heavily on savings or credit to maintain their current consumption patterns. Savings and Credit Conditions Point to Slower Activity The ITR Indicator for Consumer Access to Savings & Credit provides another perspective. This indicator leads retail sales by approximately 12 months, making it useful for evaluating the direction of future consumer activity. With the current annual
+
+---
+
+### 7. Planning with Precision: Aligning Strategy, Budget, and Action
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/planning-with-precision-aligning-strategy-budget-and-action
+- **Дата:** 2026-09-30T13:26:19+00:00
+- **Почему отобрано:** Прогноз ITR Economics о росте экономики США до конца 2028 года, но с замедлением. Указывает на необходимость более точного планирования, что косвенно связано с будущими циклами.
+
+Solutions Planning with Precision: Aligning Strategy, Budget, and Action Discover our economic outlook for 2027, 2028, and 2029 and how businesses can align budgets, market strategies, and capital priorities while preparing for the 2030s. ITR Economics Sep 30, 2026 Planning for 2027 requires more precision than a single national forecast can provide. ITR Economics expects the US economy to expand through at least the end of 2028, but growth is likely to slow in 2027 and vary sharply by industry, region, and customer base. Business leaders should use the remaining growth of the 2020s to protect margins, improve productivity, and strengthen their financial position before the projected 2030–2036 downturn. Economic Growth Will Continue at a Slower Pace Industrial activity, business-to-business spending, and AI-related data center investment are supporting the current expansion. At the same time, elevated interest rates, persistent inflation, and affordability pressures will constrain growth. ITR Economics forecasts consumer inflation of 2.7% in 2027, down from 3.4% in 2026, before it rises to 3.9% in 2028. Slower inflation means that prices increase at a more moderate rate; it does not mean business costs or consumer prices return to earlier levels. Market-Specific Forecasts Matter More Than Headlines The economy is K-shaped. Technology, electrical equipment, communications, and electronics connected to data center investment are outperforming, while automotive, recreational vehicles, marine, and other interest-rate-sensitive markets face weaker conditions. Most nonresidential construction segments are expected to grow in 2027, because projects started during the 2026 expansion will continue generating spending. Multifamily starts, however, are forecast to decline 11.5%. Manufacturing is also mixed: aerospace is forecast to grow 8.6%, heavy truck production is expected to rebound 16.7% from depressed levels, and chemicals are projected to finish the year nearly flat. S
+
+---
+
+### 8. Bond Sell-Off Pushes Interest Rates Higher: What It Means for Your Business
 
 - **Источник:** ITR Economics
 - **URL:** https://blog.itreconomics.com/blog/bond-sell-off-pushes-interest-rates-higher-what-it-means-for-your-business
 - **Дата:** 2026-09-03T14:56:30+00:00
-- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, длительностью ~6 лет. Указываются 5 мегатрендов, ведущих к ней (демография, расходы на здравоохранение, соц. программы, гос. долг, инфляция). Это конкретный прогноз с указанием временных рамок и причин.
+- **Почему отобрано:** Отмечает распродажу гособлигаций и рост долгосрочных процентных ставок. Это прямое указание на изменение финансовых условий, влияющее на долг и инвестиции.
 
 Executive Strategy Bond Sell-Off Pushes Interest Rates Higher: What It Means for Your Business Discover how rising interest rates from a global bond sell-off impact businesses and explore strategies to navigate the evolving financial landscape. ITR Economics Sep 3, 2026 The global government-bond sell-off has spread across major markets, including the United States, and it’s sending a strong message: long-term borrowing costs are under renewed upward pressure. The 10-year Treasury Yield started the year around 4.2% and has climbed to around 4.8% as of September 1, the highest level since January 2025. What Is Driving the Recent Bond Sell-Off? The bond market is balancing several forces at once. The US economy is still growing, but much of the strength remains concentrated in the technology sector. At the same time, inflation is proving persistent amid escalating Middle East conflict and high global oil prices. Concerns over government debt loads — not just in the US but also in Japan, the UK, and France — are also a contributing factor. Investors are being asked to absorb a large supply of government debt to fund deficits and refinance maturing obligations. Higher yields reflect more than expectations for the Federal Reserve’s next decision. Treasury yields influence the rates businesses pay on corporate bonds, commercial loans, and other forms of long-term credit. Our forecast for US Government Long-Term Bond Yields, which is available in our Trends Report subscription, has been calling for gradual interest rate rise ahead. While others were distracted earlier this year by the prospect of a more dovish incoming Fed Chair, we warned our clients about the higher long-term interest rates coming. The US Treasury Is Taking Steps to Support Market Liquidity In direct response to pressure in the long end of the Treasury market, the US Treasury doubled the maximum size of its liquidity-support buybacks for 10-to-30-year securities. The purchases are intended to improve tra
 
 ---
 
-### 2. Reforms on Pause. Why is Ukraine Dragging its Feet on Ukraine Facility Indicators, and What is the Cost of the Delay?
+### 9. Data center expansion and the AI backlash
 
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/reforms-on-pause-why-is-ukraine-dragging-its-feet-on-ukraine-facility-indicators-and-what-is-the-cost-of-the-delay
-- **Дата:** 2026-09-04T12:05:25+00:00
-- **Почему отобрано:** VoxUkraine: Анализ задержек Украины с выполнением индикаторов для получения финансирования (Украинский фонд). Указывает на сумму риска (€700 млн) и необходимые шаги. Конкретные цифры и фокус на Украине.
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/data-center-expansion-and-the-ai-backlash/?utm_source=rss&utm_medium=rss&utm_campaign=data-center-expansion-and-the-ai-backlash
+- **Дата:** 2026-10-14T19:51:17+00:00
+- **Почему отобрано:** Обсуждает 'разрыв в модернизации' (modernization gap) в США и использование штатами фондов для модернизации. Связано с фискальным ослаблением и эффективностью гос. расходов.
 
-Reforms on Pause. Why is Ukraine Dragging its Feet on Ukraine Facility Indicators, and What is the Cost of the Delay? Karyna Skalova Reforms September 4, 2026 Facebook X Telegram 170 Ukraine’s economy continues to adapt to the challenges caused by Russia’s full-scale invasion. However, the budget deficit for the first five months of 2026 reached UAH 408 billion (the planned deficit for 2026, as in previous years, is around 20% of GDP). To finance defense and support the economy, Ukraine needs external assistance, which depends directly on the speed and quality of reform implementation. At the beginning of the summer, nearly €700 million was at risk because of delays in adopting the necessary decisions. What does Ukraine need to do to receive the planned funding? One of the key financial support programs for Ukraine is the Ukraine Facility , with more than 70% of its funds allocated to “civilian” expenditures (salaries of public-sector employees, civil servants, etc.). Funding received under this program depends on the implementation of reforms. In June 2026, Ukraine received the seventh payment under the Ukraine Facility. Nearly €2.8 billion was transferred to the state budget for successfully meeting 11 indicators for Q4 2025, as well as four indicators for Q1 and Q2 2026. In addition, Ukraine “cleared its backlog” on three indicators that were due to be met in Q2–Q3 2025 (Figure 1). The reforms covered public administration, the rule of law, energy, the regulatory environment, strategic resource management, and housing and climate policy. Figure 1. List of Ukraine Plan indicators met to receive the seventh Ukraine Facility payment Source: Ministry of Economy and Environment of Ukraine Which indicators has Ukraine not met? As of July 2026 , eight indicators for 2025 and 16 indicators for Q1 and Q2 2026 remained unmet (Figure 2). In the recent update to the Ukraine Plan , the total number of indicators increased from 146 to 173. Specifically, two indicators were add
-
----
-
-### 3. Ukraine’s Banking Regulatory System Is 82% Equivalent to EU Requirements: What Still Needs to Change
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/ukraine-s-banking-regulatory-system-is-82-equivalent-to-eu-requirements-what-still-needs-to-change
-- **Дата:** 2026-09-04T11:59:18+00:00
-- **Почему отобрано:** VoxUkraine: Оценка эквивалентности банковской системы Украины требованиям ЕС (82%). Указывает на прогресс (с 49% до 81.7%) и необходимые дальнейшие шаги. Конкретные цифры и фокус на Украине/ЕС.
-
-Ukraine’s Banking Regulatory System Is 82% Equivalent to EU Requirements: What Still Needs to Change Mariia Balytska Economic policy Photo: flickr.com / Operating room, National Bank of Ukraine September 4, 2026 Facebook X Telegram 106 According to the latest assessment, the level of equivalence of Ukraine’s banking regulatory and supervisory system with EU requirements is 81.7% . In 2022, it stood at 49%. We explain what this indicator means and what changes Ukraine still needs to make. Ukrainian banks continued to operate effectively even amid the full-scale war. According to the NBU, in 2025 they remained profitable , had a sufficient capital cushion to cover potential losses, and provided uninterrupted services to clients . For individuals and businesses, this meant being able to use their accounts, make payments, and access banking services despite wartime risks. At the same time, Ukraine continued to bring its banking regulation and supervision closer to EU requirements. Between 2022 and 2026, their level of equivalence to EU standards increased from 49% to 81.7% , and by the end of 2027, the NBU plans to bring it to 100% . This indicator does not mean that Ukrainian rules must replicate EU rules word for word. Rather, it reflects whether Ukraine’s regulatory and supervisory system delivers broadly the same outcome: whether it sufficiently limits banks’ risks; requires adequate capital, liquidity, and disclosure; and ensures effective supervision. Thus, 81.7% is not the share of EU rules that Ukraine has already copied into national law, but an assessment of the extent to which the Ukrainian system meets these requirements. Changes to banking regulation are part of the EU accession negotiations. Financial services constitute a separate negotiating Chapter 9, which is part of Cluster 2, “Internal Market” . It covers the rules governing banks and financial groups, payment and market infrastructure, insurance, and other financial services. The same cluster includ
+Opposition to AI data centers has become the hot 2026 campaign issue. But many data centers are already being built, especially in places with less capacity to object. Will this moment be the start of feasible AI regulation or just empower some to shift development out of their area? Vasundhara Kaul finds that data centers tend to be built in minority communities and places hurting for economic development. Daniel Schiff joins us to discuss the broader implications of the backlash for AI governance. They both say better regulation is possible but does run up against a traditional political constraint: that the powerful tend to offload harms to those without the power to object. Niskanen Center – The Science of Politics · Data center expansion and the AI backlash Guest: Vasundhara Kaul , Purdue; Daniel Schiff , Purdue Study: “Digital Footprints” Transcript Matt Grossmann: Data center expansion and the AI backlash this week on the science of politics. For the Niskanen Center, I’m Matt Grossmann. Opposition to AI data centers has become the hot 2026 campaign issue, but many data centers are already being built, especially in places with less capacity to object. Is the backlash a case of typically hyped not in my backyard objections or now part of broader AI worries? And will this moment produce feasible regulation or just empower those with the power to shift development out of their area? This week I talked to Vasu Kaul of Purdue University about her co-authored paper, Digital Footprints. She finds that data centers are more often built in minority communities and places hurting for economic development. Her co-author, Daniel Schiff, also of Purdue, joins us to discuss the broader implications of the backlash for AI governance. They both say better regulation is possible, but does run up against a traditional political constraint, that the powerful tend to offload harms to those without power. We also talk about parallels to housing development politics, environmental
 
 ---
 
-### 4. Will Ukraine Receive €70 Billion from NATO?
+### 10. The modernization gap
 
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/will-ukraine-receive-70-billion-from-nato
-- **Дата:** 2026-08-24T12:04:36+00:00
-- **Почему отобрано:** VoxUkraine: Информация о pledged €70 млрд военной поддержки от НАТО Украине на 2026-2027 гг. Конкретные цифры, прогноз и фокус на Украине/НАТО.
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/the-modernization-gap/?utm_source=rss&utm_medium=rss&utm_campaign=the-modernization-gap
+- **Дата:** 2026-10-13T17:26:14+00:00
+- **Почему отобрано:** Анализ использования штатами фондов модернизации и их дальнейшей судьбы. Связано с фискальной политикой и эффективностью гос. управления.
 
-Will Ukraine Receive €70 Billion from NATO? Oleksii Sverbyvus Public finance August 24, 2026 Facebook X Telegram 185 On July 8, 2026, in Ankara, the 32 NATO countries pledged €70 billion in military support to Ukraine for 2026 and at least the same amount in 2027. The Summit Declaration states that this support should be “equitable, predictable, and sustainable”. But will NATO deliver on this pledge? Data from the Kiel Institute show that the donor base is shrinking every year (Figure 1). In 2025, Germany and the UK accounted for 43% of all European military aid, while in the first four months of 2026, their share reached 63% — nearly two-thirds. The €70 billion pledge does not specify how the amount will be allocated among individual countries. This raises the question: whose €70 billion is it? Which countries will it come from? Figure 1. Military aid to Ukraine by country, € billion Source: Kiel Institute, Ukraine Support Tracker (Release 29, data through April 30, 2026), “Allocations per Month Military” sheet; author’s calculations. Military allocations, € billion. Note: Here and below, “military aid” refers to allocations for weapons, equipment, and related services under the Kiel Institute’s methodology, including procurement through PURL and funding for Ukraine’s defense industry under the “Danish model,” but excluding multilateral instruments such as the EU Support Loan. Data for 2026 covers January-April. Europe replaced the US, but not entirely A few years ago, when then-presidential candidate Donald Trump threatened to cut aid to Ukraine, Kyiv rightly viewed such a move as an existential threat, since Europe’s military support was significantly lower than the United States’. Since then, the situation has changed considerably (Figure 2). Figure 2. Military and budget support from the EU and the US, € billion Source: Kiel Institute, Ukraine Support Tracker (Release 29, data through April 30, 2026), “Allocations per Month Military” and “Allocations per Month 
+Bridging the space between temporary technology funding and continuous public services States often find it easier to secure millions of dollars to replace an aging IT system than a few thousand to understand why it no longer works. They can pay a vendor to build a new website, but struggle to hire the staff who decide what to do next. These problems run deeper than budgeting. The processes that states use to procure and manage technology are largely designed for projects with defined scopes and clear endpoints. That works reasonably well when the work has a clear finish line, but less well for services that need to keep changing after launch, which is the case with most digital services. If technology cannot evolve, it becomes another legacy system. As discussed in an earlier paper, this is the “Legacy IT trap”: governments defer improvements because aging systems are difficult and expensive to change. The longer they wait, the harder change becomes, increasing the likelihood of another large, risky modernization project. Without a way to sustain improvement after that project ends, states risk repeating the same costly cycle. 1 The shift from projects to products is an attempt to solve this mismatch. Rather than treating software as a one-time investment, the product operating model calls for stable and multidisciplinary teams that improve services over time. 2 , 3 The challenge, though, is how to make that way of working survive inside institutions largely built around projects. This paper examines how states use dedicated modernization funds and what happens after that funding ends. It reviews all 50 states and reflects interviews with 20 state technology, program, procurement, and budget leaders. The review counts statewide funds or programs created specifically to support technology modernization, including competitive grants, revolving investment funds, capital accounts, or other centralized approaches. It excludes ordinary technology budgets, federal funding
 
 ---
 
-### 5. Why Europeans save differently — and how to put those savings to work
+### 11. Why should the ECB care about the unequal effects of climate change?
 
 - **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260915~dacebb4a6f.en.html
-- **Дата:** 2026-09-15T09:00:00+00:00
-- **Почему отобрано:** Статья от ЕЦБ, посвященная сбережениям европейцев и их инвестированию. Содержит анализ причин различий в сберегательном поведении и потенциальные пути для более эффективного использования капитала. Актуально для ЕС.
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html
+- **Дата:** 2026-10-08T09:00:00+00:00
+- **Почему отобрано:** Статья блога ЕЦБ о том, почему ЕЦБ должен заботиться о неравных последствиях изменения климата. Связывает климатические риски с монетарной политикой и экономикой ЕС.
 
-THE ECB BLOG Why Europeans save differently — and how to put those savings to work 15 September 2026 By Andrei Dumitrescu, Zakaria Gati, Justus Meyer, Laura Parisi and Alessandro Spolaore Around 80% of euro area households do not own stocks or any other market-based financial instruments, unlike their counterparts in the United States. This blog post examines the barriers that keep many Europeans from investing and explores ways to broaden capital market participation. Euro area households hold substantial savings, yet around a third – nearly €10 trillion – remains concentrated in cash and low-yield bank deposits. [ 1 ] Meanwhile, 80% of households do not own stocks or any other market-based financial instruments. [ 2 ] Population survey data reveal a striking gap in capital market participation between euro area and US households. Perhaps even more strikingly, this gap widens when comparing wealthier households. Even well-off Europeans invest significantly less in capital markets than their US counterparts. [ 3 ] This matters because household savings invested in capital markets can play an important role in financing innovation, productivity and long-term growth, helping to close the investment gap highlighted in the Draghi report. [ 4 ] Participating in capital markets can also help households achieve higher long-term returns, supporting wealth accumulation over time. To understand why so much potential remains untapped, we look beyond the aggregate figures and identify four distinct household archetypes based on how they allocate their wealth. The results show that barriers to capital market investment vary significantly across households. Unlocking more of the euro area’s savings potential will require targeted policy measures, tailored to the different characteristics, preferences and constraints of households. The investment gap between European and US households Before we zoom in on euro area households, let’s compare capital market participation on both sid
+THE ECB BLOG Why should the ECB care about the unequal effects of climate change? 8 October 2026 By Daniela Arlia and Rachele Rizzo Climate change and the transition to a carbon-neutral economy do not affect everyone equally. This blog explores how the distributional effects of climate change and the transition can become relevant for price and financial stability. The consequences of climate change and the transition to a carbon-neutral economy are not the same for all households, sectors and regions. Droughts, for example, can drive up food prices. This hits low-income households harder than others, as they spend a larger share of their income on essentials like food. Owners of energy-efficient homes may see the value of their properties increase, but homes in flood-prone areas may lose value. [ 1 ] These unequal effects matter for the ECB and other central banks because, if nothing is done to mitigate them, they can amplify and prolong economic shocks. To illustrate this, think of a region dependent on coal mining: if coal is phased out as a source of energy, many firms and workers could be affected at the same time. If local employment opportunities are reduced, this could further weaken businesses, services and housing markets in the area. These cumulative effects may make it harder for the region to adapt . In more diversified regions, on the other hand, workers may find alternative employment opportunities more easily, which would help the local economy to recover after a transition shock. While the effects of climate-related shocks may initially be concentrated in specific regions, they can spill over to the wider economy through labour, product and financial market linkages, with implications for economic activity, inflation and financial stability. Additionally, if transition policies are perceived as unfair, public support for them may weaken. This can result in policy uncertainty and stop-and-go dynamics that increase the risk of a disorderly transition,
 
 ---
 
-### 6. Why the drivers of inflation matter for monetary policy
+### 12. Funding the AI revolution: evidence from euro area sectors
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html
+- **Дата:** 2026-10-06T09:00:00+00:00
+- **Почему отобрано:** Анализ финансирования 'революции ИИ' в еврозоне. Важный технологический тренд с макроэкономическими последствиями.
+
+THE ECB BLOG Funding the AI revolution: evidence from euro area sectors 6 October 2026 By Ana Sofia Cianfarani, Paola Di Casola, José Ramos and Dennis Zander AI has the potential to reshape the euro area economy. This ECB Blog post explores how AI investments are being financed, focusing on the current financing mix of the most AI-intensive sectors and the consequences for monetary policy. Euro area firms are taking part in the artificial intelligence (AI) revolution. And, as discussed in a previous ECB Blog post , those operating in the most AI-intensive sectors often rely more on internal funds. Firm balance sheet data reveal that AI-intensive firms have recently started to turn more towards market-based financing as a source of debt financing, rather than relying on traditional bank lending . A deeper and more integrated European capital market could support this development and help euro area firms to harness the full benefits of the AI revolution. Adopting AI versus developing AI Rapid advances in AI are prompting firms to invest more heavily in digital technologies in the euro area, and even more so in the United States. [ 1 ] Between 2023 and 2025 the share of euro area firms using at least one form of AI technology more than doubled. Technologies for generating and analysing written and spoken language and, more recently, images and videos have been driving this development. Firms engage with AI in different ways: some mainly adopt AI by using existing tools to enhance their operations, while others develop AI by building new models, applications or technologies, and protecting their innovations through patents. This distinction matters because adoption and development involve different types of investments, risks and financing needs. Adopting AI often requires investments in software, data systems and staff skills. By contrast, developing AI typically demands larger and riskier investments in research, computing capacity and specialised talent. For our anal
+
+---
+
+### 13. How firms are planning to finance AI adoption
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html
+- **Дата:** 2026-10-02T09:00:00+00:00
+- **Почему отобрано:** Исследование того, как компании планируют финансировать внедрение ИИ. Связано с инвестициями и технологическим развитием в ЕС.
+
+THE ECB BLOG How firms are planning to finance AI adoption 2 October 2026 By Annalisa Ferrando, Sara Lamboglia, Judit Rariga, and Maurice Schmidt AI can reshape our economies. The ECB Blog explores the financing of AI investment in two posts. In this one we show that firms expect to rely overwhelmingly on their own resources to finance the transition. Based on the Survey on the Access to Finance of Enterprises, 72% of firms planning to invest in AI expect to use internal funds such as cash flow or retained earnings. What types of Artificial Intelligence (AI) investment are businesses planning for the year ahead? That was a central question posed in the latest Survey on the Access to Finance of Enterprises (SAFE). The answers paint a revealing picture of where firms see the greatest value in this rapidly evolving technology. We asked about 5,000 firms from across the euro area about their plans to invest in AI technologies and tools, data infrastructure, AI specialists and employee training over the next 12 months. AI is increasingly part of firms’ investment plans Nearly half of the firms surveyed (49%) expect to allocate their AI budgets to AI technologies and tools, accounting for the largest share of planned investment. Following closely behind, 46% of businesses are prioritising training for their employees, highlighting the fact that successful AI adoption depends on skills as well as technology. Data infrastructure was the focus for 40% of the firms surveyed, while just 12% are targeting the hiring of AI specialists. Meanwhile, 38% of firms did not select any of these categories. Larger firms, perhaps unsurprisingly, are more likely than their smaller counterparts to invest across all categories, though the overall trends remain consistent regardless of size. These findings offer a glimpse into how companies are preparing to navigate the AI revolution – and where they believe the opportunities lie. Chart 1 Types of expected AI investment (percentage of respond
+
+---
+
+### 14. Why the drivers of inflation matter for monetary policy
 
 - **Источник:** European Central Bank Blog
 - **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260901~8d48e51f14.en.html
 - **Дата:** 2026-09-01T09:00:00+00:00
-- **Почему отобрано:** Статья от ЕЦБ, анализирующая драйверы инфляции и их значение для монетарной политики. Важно для понимания текущей экономической ситуации в ЕС и действий центрального банка.
+- **Почему отобрано:** Объяснение, почему движущие силы инфляции важны для монетарной политики ЕЦБ. Прямое отношение к макроэкономическим индикаторам.
 
 THE ECB BLOG Why the drivers of inflation matter for monetary policy 1 September 2026 By Kristina Barauskaitė Griškevičienė and Claus Brand The drivers of the recent rise in inflation are different from those of the pandemic-era surge. This time the energy supply shock dominates, while demand and public policy stimulus have minor roles. These differences are key to explaining why monetary policy responses differ. Inflation has risen again in 2026, partly because the war in the Middle East has pushed up energy prices. At first glance, this may look similar to the inflation surge of 2021-22, which also started with higher energy prices, but the causes are different. In 2021-22 several powerful forces came together: pandemic-related supply shortages, strong demand after lockdowns, higher energy costs and public policy support. In 2026, by contrast, the rise in inflation has so far been driven almost entirely by higher energy costs. Thus, the two episodes differ fundamentally in the nature and magnitude of the inflation drivers. These differences in inflation dynamics carry important implications for monetary policy. While the ECB raised interest rates forcefully and persistently in response to the 2021-22 surge, the monetary policy response to the current episode has been more gradual. This blog post examines both inflation episodes and explains why the difference in inflation drivers calls for two distinct policy approaches. Two inflation episodes – two different stories To compare the two inflation episodes, we use a comprehensive time-series model. It identifies supply and demand imbalances as key inflation drivers – whether linked to energy, public policy or other factors. Our main tool is a Bayesian vector autoregression (BVAR) model which looks at euro area data from January 2007 to May 2026. The model incorporates a comprehensive set of macroeconomic variables, enabling us to identify key drivers of headline HICP inflation and HICP energy inflation. [ 1 ] These 
 
 ---
 
-### 7. Big tech, big debt: when US tech giants tap the euro area bond market
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260831~dac6a37e73.en.html
-- **Дата:** 2026-08-31T09:00:00+00:00
-- **Почему отобрано:** Анализ ЕЦБ о привлечении крупными американскими технологическими компаниями долга на рынке еврозоны. Отражает взаимосвязь финансовых рынков и влияние крупных игроков.
-
-THE ECB BLOG Big tech, big debt: when US tech giants tap the euro area bond market 31 August 2026 By Anne Duquerroy, Oana Furtuna, Imène Rahmouni-Rousseau and Lia Vaz Cruz US tech giants are increasingly tapping the euro area bond market to fund their investments. The ECB Blog investigates the consequences for this market and the potential for these developments to reshape it. The infrastructure for artificial intelligence (AI) requires huge investments. Think of the gigantic data centres and the massive electricity consumption to power them. US tech giants, including Google, Amazon and Microsoft, operate massive cloud and AI infrastructure. That is why these companies, known as hyperscalers [ 1 ] , are tapping into all corners of global financial markets to fund their expansion. And increasingly they are turning to the euro area corporate bond market for some of that funding. The growing presence of hyperscalers in the euro area corporate bond market has several consequences. For one, it could increase concentration and raise investor exposure to the technology sector and the US economy, similar to trends already felt in equity markets, where hyperscalers have become dominant. Furthermore, the surge in big tech borrowing could make it harder for other companies and other economic sectors to access finance by reshaping investors’ asset allocations. It also raises a key market-functioning question: can euro area financial markets smoothly handle such large and concentrated debt inflows? The AI investment boom has reached euro area credit markets Hyperscalers are projected to need more than USD 1 trillion for capital expenditure in total by 2028. [ 2 ] That equals a stunning 3% of current annual US GDP. Planned investments are becoming too large to be financed solely through internally generated cash flows. Consequently, big tech companies are shifting away from self-funding towards external sources of finance, including bond issuance. First, hyperscalers tapped the U
-
----
-
-### 8. AI adoption and the productivity promise: what workers report
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260826~e1c1a89999.en.html
-- **Дата:** 2026-08-26T09:00:00+00:00
-- **Почему отобрано:** Статья от ЕЦБ, исследующая влияние внедрения ИИ на производительность труда на основе опросов работников. Содержит данные о восприятии работниками ИИ.
-
-THE ECB BLOG AI adoption and the productivity promise: what workers report 26 August 2026 By António Dias da Silva, Laura Lebastard and David Sondermann Use of artificial intelligence at work has doubled over the last two years and people report significant time-savings. But an ECB survey shows that perceived productivity gains vary widely and there are still barriers preventing many from adopting this new technology. How will AI affect employment and productivity? That is one of the most pressing questions given AI’s potential to profoundly alter the way we work, and therefore to fundamentally reshape economies and societies. In this post we take stock of how workers use this new technology and how swiftly it is spreading in workplaces. We also examine the time people save using AI and consider the obstacles to further uptake. Our work draws on the ECB’s Consumer Expectations Survey , which every month captures the views of roughly 20,000 people across 11 euro area countries. AI adoption continues to increase in the workplace First, let’s look at AI’s footprint in Europe’s workplaces. There is an unmistakable trend. In just two years, the share of workers using AI on the job has doubled from 26% of survey respondents in 2024 to 41% in 2025, reaching 52% in 2026. A majority of workers now report using AI for work and, on average, they use it around three days per week. Unsurprisingly, AI adoption varies across demographic groups (Chart 1). Younger workers and those with a university degree remain the most likely to use AI. For the education levels, we see a sizeable gap: adoption among highly educated people reached 61%, compared with 37% among those with lower levels of education. Similarly, younger workers are around 20 percentage points more likely to use AI than their older colleagues. Men also report slightly higher usage than women, though age and education remain the primary drivers of adoption. This pattern has remained consistent over the last three years. 
-
----
-
-### 9. The AI boom: rational enthusiasm or the next dot-com bubble?
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html
-- **Дата:** 2026-08-17T09:00:00+00:00
-- **Почему отобрано:** Анализ ЕЦБ о буме ИИ: рациональный энтузиазм или следующая 'дотком' пузырь. Содержит оценку рисков и перспектив развития ИИ.
-
-THE ECB BLOG The AI boom: rational enthusiasm or the next dot-com bubble? 17 August 2026 By Malin Andersson, Johannes Breckenfelder, Stefano Corradin, Kalin Nikolov and Maria Antonietta Viola The rise of AI has driven a blistering rally in the tech sector, bringing stock market valuations to levels last seen during the dot-com bubble. Although AI is reshaping the economy, do today’s high valuations bear the risk of an abrupt and painful setback in the euro area? Valuations on the US stock market, as measured by the CAPE ratio, are currently close to their historical peak. [ 1 ] Euro area equity valuations have also risen, albeit to a lesser extent (Chart 1). Markets on both sides of the Atlantic reflect investors’ enthusiasm about artificial intelligence (AI) shaping the economy and driving profits. The extremely optimistic valuations raise questions: do today’s stock market prices reflect a rational bet on the transformative technology? Or are we seeing a remake of the dot-com bubble? We argue that economic research on past technological revolutions points to a worrisome conclusion: a correction of current stock market valuations is likely. A sharp stock market correction would have severe consequences for the euro area, through two channels. One is euro area investors’ direct exposure to the Magnificent Seven stocks (hereafter Mag7) and the other is the degree of overexuberance in euro area stock markets themselves. [ 2 ] This post explains why a correction should be expected even if current valuations are rational, why that matters not only to the shareholders who would take the direct hit, and what it implies for the euro area specifically. Chart 1 US and euro area stock market valuations a) S&P 500 Index (cyclically adjusted price-to-earnings ratio) b) Euro area Market Equity Index (cyclically adjusted price-to-earnings ratio) (Index) (Index) Source: Datastream Notes: Price-earnings ratio (monthly) from 1980 to 2026. Numerator: real (inflation-corrected) S&P Co
-
----
-
-### 10. Do government subsidies drive global imbalances?
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260814~643c5332fe.en.html
-- **Дата:** 2026-08-14T09:00:00+00:00
-- **Почему отобрано:** Статья ЕЦБ, исследующая, влияют ли государственные субсидии на глобальные дисбалансы. Важно для понимания международной торговли и фискальной политики.
-
-THE ECB BLOG Do government subsidies drive global imbalances? 14 August 2026 By Maria Grazia Attinasi, Lukas Boeckelmann, Isabella Moder, Til Pommer and Tajda Spital [The euro area figures in Chart 1 were revised on 21 August 2026 at 13:00 CEST to correct the composition of the current account balance.] Widening global imbalances draw attention to policies shaping international trade. Using firm-level data, the ECB blog compares government support in China, the United States and the euro area. We find that subsidies drive Chinese exports in strategically important sectors. Concerns about imbalances in the flow of goods and money have recently resurfaced. [ 1 ] The main cause of global imbalances is still the gap between how much countries save and invest. [ 2 ] But the debate has also turned to policies that shape trade flows, including the growing use of industrial subsidies. [ 3 ] To examine this issue, we use the fresh OECD dataset on Manufacturing Groups and Industrial Corporations (MAGIC), which provides internationally comparable firm-level data on government support. We compare the public support received by large firms in the United States, China and the euro area. We also examine how subsidies relate to firms’ export performance and the potential implications this has for global trade imbalances. [ 4 ] These imbalances raise concerns as they can fuel trade tensions and protectionist responses, as well as create financial vulnerabilities. Here are our findings in a nutshell: Government support for large firms is rising globally. Chinese firms, however, stand out for both the amount of support they receive and the number of sectors receiving support – with those receiving more support also tending to export more. This link is much weaker in the United States and the euro area. And while subsidies may not explain a country’s overall trade surplus or deficit, they can influence trade imbalances in key industries. Yet further research is needed to establish a ro
-
----
-
-### 11. From oil to electrons: lessons from the 1970s energy crises
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260807~b7ab24866e.en.html
-- **Дата:** 2026-08-07T09:00:00+00:00
-- **Почему отобрано:** Статья ЕЦБ, проводящая параллели между текущей ситуацией и энергетическими кризисами 1970-х. Анализирует уроки прошлого для текущей энергетической политики.
-
-THE ECB BLOG From oil to electrons: lessons from the 1970s energy crises 7 August 2026 By Daniela Arlia and John Hutchinson Europe’s electricity mix has become cleaner and less exposed to fossil fuel price swings. The challenge now is to extend electrification to transport, heating and industry. The lesson from the 1970s is that we must not just diversify energy supply but push for structural change too. Europe is once again confronting the macroeconomic consequences of its dependence on imported energy. This is not a new challenge. Much of the history of inflation since the 1970s has been shaped by large swings in oil and, more recently, gas prices. But the enduring lesson from the 1970s is not only that energy shocks are economically damaging – we have also learned that major shocks can trigger lasting structural change when policy, investment and technology move in the same direction. [ 1 ] Chart 1 Historical trends in energy mix, 1971-2024 (Percentages) Sources: IEA and ECB calculations. Notes: The chart shows the shares of total energy supply by product. Grey shaded areas correspond to periods of large oil shocks during the 1970s (1973-74 and 1979-80). Large oil shocks are defined as episodes involving a cumulative change in the (log) price of oil of above 50%, sustained for more than four quarters (see Blanchard and Galì, 2007). Chart 1 shows how significantly the energy mix of Europe’s large economies changed after the 1970s oil shocks. The weight of coal and oil declined markedly over time in most countries, while nuclear energy gained ground in several. At the same time, the share of natural gas and, later, of renewables in total energy supply increased overall. That diversification mattered. It reduced the high exposure that existed when oil dominated the energy system. [ 2 ] But it also had notable limitations. While overall Europe’s economy became less dependent on oil and coal, fossil fuels remained deeply embedded in specific sectors such as transport,
-
----
-
-### 12. Building resilience: how energy prices boost home efficiency
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260805~cdb927b992.en.html
-- **Дата:** 2026-08-05T09:00:00+00:00
-- **Почему отобрано:** Статья ЕЦБ о повышении энергоэффективности жилья под влиянием цен на энергию. Связывает энергетическую политику с экономическими стимулами.
-
-THE ECB BLOG Building resilience: how energy prices boost home efficiency 5 August 2026 By Desislava Rusinova and Marco Weissler High energy prices have sparked new interest in energy-related renovations and non-fossil heating systems. This blog post argues that such investments cushion the impact of energy shocks on the building and construction sector. When energy prices skyrocket, that often comes as a heavy blow to the real estate and construction sector. Construction and building maintenance costs rise, and mortgages often become harder to arrange and come with higher rates. But for many people, it’s also a moment to rethink, renovate and invest in energy efficiency. So while energy shocks may slow new construction, they can simultaneously drive a wave of renovation activity. We argue that the energy price surges in 2022 and 2026 have been driving demand for investment in energy efficiency. The recent wave of renovation has also been supported by declining equipment costs and government subsidies. In the shorter term the additional renovation spending can cushion the negative impact of higher energy prices on housing investment. In the longer term it reduces the dependence of the building sector on fossil fuels, increasing its resilience to energy-driven price and confidence shocks. Renovation wave drives building production Investment in housing involves not only the construction of new buildings, but also finishing and installation work – so-called specialised construction activities (SCAs). In fact, SCAs represent 75% of construction activity. Energy-related renovations are a large part of SCAs. [ 1 ] Electrical, plumbing, heating and air conditioning installations alone accounted for 40% of value added in the five largest euro area countries in 2023. Recently, renovations of existing buildings have been a main driver of the recovery in construction activity. Meanwhile, the construction of new buildings continues to decline – potentially also due to the stro
-
----
-
-### 13. Europe Is “Veering Right”: Why the Electoral Shift in the West Poses a Threat to Ukraine
+### 15. Lessons Under Air-Raid Sirens: An Analysis of PISA 2025 Result
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/europe-is-veering-right-why-the-electoral-shift-in-the-west-poses-a-threat-to-ukraine
-- **Дата:** 2026-09-01T12:48:47+00:00
-- **Почему отобрано:** VoxUkraine: Анализ влияния роста правых партий в Европе на поддержку Украины. Указывает, что 'почти каждый четвертый европеец голосовал за ультраправые партии'. Геополитика и ЕС/Украина.
+- **URL:** https://voxukraine.org/en/lessons-under-air-raid-sirens-an-analysis-of-pisa-2025-result
+- **Дата:** 2026-10-09T10:03:45+00:00
+- **Почему отобрано:** Анализ результатов PISA 2025 для Украины. Указывает на ухудшение результатов по сравнению с предыдущими годами из-за войны. Важный индикатор состояния образования и долгосрочного человеческого капитала.
 
-Europe Is “Veering Right”: Why the Electoral Shift in the West Poses a Threat to Ukraine Aliia Khasan Society September 1, 2026 Facebook X Telegram 179 In recent years, almost one in four Europeans has voted for far-right parties in national elections. Compared with the mid-1990s, when the share of such voters was around 5%, this figure has increased fivefold. Just ten years ago, it stood at 10%, but over the past three years, the trend has changed sharply. This “surge” came in response to a series of shocks, ranging from the migration crisis, driven in part by the war in Syria, and inflation, which was significantly affected by the pandemic, to Russia’s war against Ukraine and its hybrid war against Europe. Will this make it more difficult for Ukraine to secure weapons and funding and advance toward EU membership? Electoral storm in numbers Far-right parties today form the core of the Europe-wide protest vote, accounting for around 23% of the nearly 30% of “protest” voters. Another roughly 7% vote for far-left and populist parties such as France’s La France Insoumise or Germany’s Sahra Wagenknecht Alliance. These parties also challenge “traditional” politicians, but from the opposite side. The main players on the far right — National Rally in France, AfD in Germany, and Fidesz in Hungary — have long ceased to be marginal forces. Over the past thirty years, they have moved from the political fringes to power or to the status of the main opposition in the EU’s largest countries. However, this trend is not irreversible: in some countries, the far right is losing ground (Figures 1 and 2). Figure 1. Far-right parties’ results in the most recent and previous elections Data source: Electoral commissions of the respective countries, parliamentary election results. Note: In countries above the line, support for far-right parties increased; in those below the line, it declined. The tooltips show the names of far-right parties and their results in the most recent and previous
+Lessons Under Air-Raid Sirens: An Analysis of PISA 2025 Result Alisa Dzhuhostran Society Photo: unsplash.com / zehua chen October 9, 2026 Facebook X Telegram 2 In the recently published PISA 2025 study, Ukrainian students performed slightly worse than in 2022 and considerably worse than in 2018. A similar pattern can be observed in many countries; however, Ukrainian students’ results are below the OECD average. PISA (Programme for International Student Assessment) is an international study launched by the Organisation for Economic Co-operation and Development in 1999 to assess how well students can apply the knowledge they acquire at school. A distinctive feature of the study is that it not only assesses learning outcomes but also examines the broader context, such as students’ socioeconomic status, educational environment, and other factors. The ninth cycle of PISA took place in 2025, with students from 91 countries participating. Each cycle assesses students’ competencies in three core domains: reading, mathematics, and science, with one designated as the major domain and given particular focus. In 2025, the major domain was science. PISA 2025 also introduced a new domain, “Learning in the Digital World” (LDW), aimed at assessing the use of technology for learning, inquiry, and problem-solving. In 2025, Ukraine participated in PISA for the third time: 9,000 fifteen-year-old students from 298 educational institutions across 17 regions took the test. Ukrainian students scored below the OECD average in all three domains. They scored 448 points in science, compared with the OECD average of 486, 431 in mathematics (469 in the OECD), and 418 in reading (466 in the OECD) (Figure 1). Estonia and Poland significantly outperform Ukraine across all three domains, while Ukraine outperforms Bulgaria, Moldova, and Georgia. In the “Learning in the Digital World” domain, Ukrainian teenagers scored an average of 478 points, 26 points below the OECD average. However, scores in Ukra
 
 ---
 
-### 14. Analysis of the Implementation of the Demographic Development Strategy: Mission Impossible?
+### 16. From Exports to Imports: How Electricity Flows Between Ukraine and Its Neighbors Have Changed
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/analysis-of-the-implementation-of-the-demographic-development-strategy-mission-impossible
-- **Дата:** 2026-09-01T12:45:53+00:00
-- **Почему отобрано:** VoxUkraine: Анализ реализации стратегии демографического развития Украины. Обозначает демографический кризис как одну из главных долгосрочных проблем. Фокус на Украине.
+- **URL:** https://voxukraine.org/en/from-exports-to-imports-how-electricity-flows-between-ukraine-and-its-neighbors-have-changed
+- **Дата:** 2026-10-09T09:08:19+00:00
+- **Почему отобрано:** Анализ изменения потоков электроэнергии между Украиной и соседями. Важно для энергетической безопасности и восстановления инфраструктуры.
 
-Analysis of the Implementation of the Demographic Development Strategy: Mission Impossible? Olha Lialka Serafima Melnychuk Oleksandr Mekhedok Reforms September 1, 2026 Facebook X Telegram 155 The demographic crisis remains one of Ukraine’s greatest long-term challenges. In response, on September 30, 2024, the Cabinet of Ministers of Ukraine approved the Demographic Development Strategy of Ukraine until 2040 and the Operational Plan for its implementation for 2024–2027. The document sets out six strategic objectives, ten key indicators, and 148 measures aimed at improving the demographic situation in Ukraine. The Strategy provides for two demographic development scenarios. Under the inertial scenario, Ukraine’s population could decline to 28.9 million by 2041, whereas implementing a comprehensive state policy would create the conditions to achieve the change scenario, with a projected population of 33.9 million. To implement the second scenario, the document sets out six interconnected strategic public policy objectives: Creating conditions for population growth through migration and reducing the emigration of Ukrainians Creating conditions for increasing the birth rate and supporting families Reducing premature mortality Maximizing the labor market participation of people who are able to work Adapting society to population aging and creating conditions for active longevity Expanding opportunities for a high quality of life In addition to the strategic objectives, the document contains 10 indicators to assess progress in their implementation (Table 1). Table 1. Indicators to be achieved through the implementation of the Demographic Strategy Indicators Actual values, 2021 Expected values, 2024 2030 forecast inertial scenario change scenario 1. Permanent population (estimated), million people, including: 41 3.1 31.6 33.5 men/women 19 / 22 14.9 / 16.2 14.8 / 16.8 16 / 17.5 urban/rural population 28.5 / 12.5 21.8 / 9.3 22.2 / 9.4 23.4 / 10.1 2. Total population increase 
+In this article, we analyze physical electricity flows — the actual movement of electricity across cross-border lines.
 
 ---
 
-### 15. The Allocative Cost of Russia’s War Against Ukraine
+### 17. Integration of the Ukrainian Electricity Market into the EU Market: Rules, Procedures, and Regulatory Challenges
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/the-allocative-cost-of-russia-s-war-against-ukraine
-- **Дата:** 2026-09-01T09:35:52+00:00
-- **Почему отобрано:** VoxUkraine: Оценка аллокативных издержек войны России против Украины. Анализирует, как война разрушает связи (цепочки поставок, отношения с клиентами и т.д.). Фокус на Украине/России.
+- **URL:** https://voxukraine.org/en/integration-of-the-ukrainian-electricity-market-into-the-eu-market-rules-procedures-and-regulatory-challenges
+- **Дата:** 2026-10-05T08:35:04+00:00
+- **Почему отобрано:** Интеграция украинского рынка электроэнергии в рынок ЕС: правила, процедуры и регуляторные вызовы. Важно для восстановления и европейской интеграции Украины.
 
-The Allocative Cost of Russia’s War Against Ukraine Marvin Amann Yuriy Gorodnichenko Oleksandr Talavera Macroeconomics September 1, 2026 Facebook X Telegram 152 The full-scale Russian invasion has inflicted enormous physical damage on the Ukrainian economy. The World Bank estimates reconstruction needs at almost $600 billion. But physical destruction is not the only way war reduces output. Even where factories, equipment, and workers survive, the connections between them such as supply chains, customer relationships, labor matching, and logistics networks can be severed. When that happens, the economy produces less than its surviving resources should allow. In a new paper ( Amann et al. 2026 ), we measure this “allocative” channel of wartime output loss using firm-level data covering nearly the entire Ukrainian private sector. Framework Our analysis is motivated by the misallocation framework of Hsieh and Klenow (2009). The core idea is simple. In an efficient economy, the marginal product of labor and capital is equalized across firms: no output could be gained by moving a worker or a machine from one firm to another. In practice, taxes, regulations, credit frictions, and adjustment costs prevent full equalization. The gap between actual output and what the economy could produce if resources were allocated efficiently is the allocative TFP loss. We compute this index using firm-level financial statements from ORBIS, which covers approximately the universe of registered Ukrainian firms. Ukraine’s statistical infrastructure continued operating throughout the full-scale invasion. We weigh firms by their employment so that the index captures the allocation of resources that matters for aggregate output. We benchmark Ukraine against five Eastern European peer economies (Romania, Poland, Croatia, Bulgaria, and Estonia) to separate war-specific effects from common regional shocks such as the energy crisis and post-COVID adjustment. Aggregate results Figure 1 presents the 
-
----
-
-### 16. Ukraine’s Agricultural Sector on the Road to the EU: What Changes Does Ukraine Need?
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/ukraine-s-agricultural-sector-on-the-road-to-the-eu-what-changes-does-ukraine-need
-- **Дата:** 2026-08-27T09:36:47+00:00
-- **Почему отобрано:** VoxUkraine: Анализ подготовки аграрного сектора Украины к вступлению в ЕС. Указывает на необходимость выполнения ключевых показателей для начала переговоров. Фокус на Украине/ЕС.
-
-Ukraine has entered the practical stage of preparations for accession to the European Union. For the agricultural sector, this means meeting the key benchmarks required to open and complete negotiations on the "Agriculture and Rural Development" chapter.
+The role of EU-wide, regional, and national rules
 
 ---
 
-### 17. Yemen conflict displaces over 100,000 people, UN says
+### 18. Hezbollah says it owned confiscated explosives, meant to attack Israel
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/09/yemen-conflict-displaces-over-100000-people-un-says
-- **Дата:** 2026-09-15T13:46:33+00:00
-- **Почему отобрано:** Al-Monitor: Более 100 000 человек перемещены из-за возобновления конфликта в Йемене, тысячи бежали в Джибути. Конкретные цифры и геополитика Ближнего Востока.
+- **URL:** https://www.al-monitor.com/originals/2026/10/hezbollah-says-it-owned-confiscated-explosives-meant-attack-israel
+- **Дата:** 2026-10-15T12:46:28+00:00
+- **Почему отобрано:** Хезболла заявляет о владении конфискованными взрывчаткой, предназначенной для атаки на Израиль. Геополитическая напряженность на Ближнем Востоке.
 
-GENEVA, Sept 15 (Reuters) - The U.N. refugee agency said on Tuesday that over 100,000 people have been internally displaced by the renewed Yemen conflict and thousands more have fled by sea to Djibouti."Humanitarian access remains a major challenge. Insecurity, damaged roads, telecommunications disruptions and movement restrictions are affecting operations," UNHCR said in a statement.
+BEIRUT, Oct 15 (Reuters) - A Hezbollah lawmaker said on Thursday that hundreds of kilograms of explosives seized last week by Lebanese security forces belonged to his group, as tensions persist over the government's push to disarm the Iran-backed movement.Lebanese authorities stopped the explosives-laden vehicleat a checkpoint in the easternBekaa region last week  and arrested two people in the car. 
 
 ---
 
-### 18. Saudi Arabia’s MBS visits Egypt as Red Sea crisis with Houthis escalates
+### 19. EU and Gulf states postpone summit due in Saudi Arabia
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/09/saudi-arabias-mbs-visits-egypt-red-sea-crisis-houthis-escalates
-- **Дата:** 2026-09-15T11:18:56+00:00
-- **Почему отобрано:** Al-Monitor: Визит наследного принца Саудовской Аравии в Египет на фоне эскалации кризиса в Красном море с хуситами. Указывает на угрозу морской навигации. Геополитика Ближнего Востока.
+- **URL:** https://www.al-monitor.com/originals/2026/10/eu-and-gulf-states-postpone-summit-due-saudi-arabia
+- **Дата:** 2026-10-15T10:46:30+00:00
+- **Почему отобрано:** ЕС и страны Персидского залива откладывают саммит в Саудовской Аравии из-за продолжающихся атак Ирана. Геополитическое событие, влияющее на региональные отношения и экономическое сотрудничество.
 
-Saudi Arabia's Crown Prince Mohammed bin Salman visits Egypt at a time the kingdom faces repeated Houthi attacks, while the Iranian-backed rebels close in on the Bab al-Mandeb Strait, threatening maritime security.
-
----
-
-### 19. UN rights chief says uncovered remains in Gaza raise concerns of war crimes
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/09/un-rights-chief-says-uncovered-remains-gaza-raise-concerns-war-crimes
-- **Дата:** 2026-09-15T10:46:28+00:00
-- **Почему отобрано:** Al-Monitor: Глава ООН по правам человека заявляет, что найденные останки в Газе вызывают опасения по поводу военных преступлений. Конкретное событие и геополитика Ближнего Востока.
-
-By Olivia Le PoidevinGENEVA, Sept 15 (Reuters) - The recovery of hundreds of bodies from the rubble of buildings destroyed by Israeli strikes in Gaza during the war that began nearly three years ago has raised fresh concerns about possible war crimes, theU.N. human rights chief said on Tuesday.Volker Turk said the remains of what appeared to be entire families were being unearthed from sites destroyed during Israeli attacks, adding that many victims were women and children.
+By Timour AzhariRIYADH/BRUSSELS, Oct 15 (Reuters) - The European Union and Gulf states on Thursday postponed a joint summit due to be held in Saudi Arabia next week, as sustained attacks by the Iran-aligned Houthis fuel concerns about air travel to and from the kingdom.The Gulf Cooperation Council cited continued Houthi threats against Saudi Arabia and an extended suspension of operations at King Khalid International Airport when announcing the postponement of the summit scheduled for October 24
 
 ---
 
-### 20. Which countries have already passed peak population, and when will the rest do so?
+### 20. The Labor Market: More Cautious Than Weak
 
-- **Источник:** Our World in Data
-- **URL:** https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so
-- **Дата:** 2026-08-17T00:00:00+00:00
-- **Почему отобрано:** Our World in Data: Анализ стран, прошедших пик рождаемости, и прогнозирование для остальных. Указывает на структурное сокращение населения во многих странах из-за падения рождаемости. Демографический тренд.
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/the-labor-market-more-cautious-than-weak
+- **Дата:** 2026-09-24T19:27:20+00:00
+- **Почему отобрано:** Анализ рынка труда США, который 'охладился', но не обязательно слаб. Это важный опережающий индикатор, влияющий на потребительские расходы и экономический рост.
 
-Falling fertility rates have created a unique scenario in human history: many countries are experiencing structural population decline.
+
+  
+
+The US labor market has clearly cooled. What is less clear is whether that cooling signals meaningful weakness or simply a more cautious approach from both employers and workers. 
+
+---
+
+### 21. Power Is the New Bottleneck: What Rising Electricity Demand Means for Business Planning
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/power-is-the-new-bottleneck-what-rising-electricity-demand-means-for-business-planning
+- **Дата:** 2026-09-18T18:10:49+00:00
+- **Почему отобрано:** Указывает на растущий спрос на электроэнергию как на 'узкое место' для бизнеса. Это новый фактор, который может влиять на экономическую активность и инфляцию, косвенно связан с долгосрочными прогнозами.
+
+
+  
+
+For many organizations, power has historically been treated as a utility expense: important, but rarely central to strategic planning. That assumption is becoming less reliable. 
+
+---
+
+### 22. Build, Buy, or Wait? The 2027 CapEx Playbook
+
+- **Источник:** ITR Economics
+- **URL:** https://blog.itreconomics.com/blog/build-buy-or-wait-the-2027-capex-playbook
+- **Дата:** 2026-09-01T11:43:24+00:00
+- **Почему отобрано:** Обсуждает спрос на капитальное оборудование и неопределенность для планирования CAPEX. Связано с экономическим циклом и инвестиционной активностью.
+
+
+  
+
+Businesses entering the fall planning season face strong capital equipment demand and significant long-range uncertainty.   
+
+---
+
+### 23. The Bipartisan American Affordability and Jobs Act of 2026: 4 ways the new permitting package gets transmission policy right
+
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/the-bipartisan-american-affordability-and-jobs-act-of-2026-4-ways-the-new-permitting-package-gets-transmission-policy-right/?utm_source=rss&utm_medium=rss&utm_campaign=the-bipartisan-american-affordability-and-jobs-act-of-2026-4-ways-the-new-permitting-package-gets-transmission-policy-right
+- **Дата:** 2026-10-02T18:31:32+00:00
+- **Почему отобрано:** Поддержка 'Bipartisan American Affordability and Jobs Act of 2026', касающегося политики передачи электроэнергии. Указывает на законодательные инициативы, влияющие на энергетику и инфраструктуру.
+
+Passing the Bipartisan American Affordability and Jobs Act is critical to ensuring affordable and reliable power for all.
+The post The Bipartisan American Affordability and Jobs Act of 2026: 4 ways the new permitting package gets transmission policy right appeared first on Niskanen Center.
+
+---
+
+### 24. Niskanen Center supports introduction of the Bipartisan American Affordability and Jobs Act of 2026
+
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/niskanen-center-supports-introduction-of-the-bipartisan-american-affordability-and-jobs-act-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=niskanen-center-supports-introduction-of-the-bipartisan-american-affordability-and-jobs-act-of-2026
+- **Дата:** 2026-09-30T20:09:19+00:00
+- **Почему отобрано:** Поддержка 'Bipartisan American Affordability and Jobs Act of 2026', фокусируется на политике передачи электроэнергии. Важно для инфраструктурных изменений.
+
+The Niskanen Center strongly supports the introduction of the Bipartisan American Affordability and Jobs Act of 2026. This legislation includes the most consequential congressional transmission policies proposed in two decades, addressing longstanding barriers to planning, siting, and building the interstate grid. 
+The post Niskanen Center supports introduction of the Bipartisan American Affordability and Jobs Act of 2026 appeared first on Niskanen Center.
+
+---
+
+### 25. Public comment: Proposed $103k fee for H-1B petitions 2026
+
+- **Источник:** Niskanen Center
+- **URL:** https://www.niskanencenter.org/public-comment-proposed-103k-fee-for-h-1b-petitions-2026/?utm_source=rss&utm_medium=rss&utm_campaign=public-comment-proposed-103k-fee-for-h-1b-petitions-2026
+- **Дата:** 2026-09-30T17:02:10+00:00
+- **Почему отобрано:** Публичный комментарий к предложению о сборе $103k за петиции H-1B в 2026 году. Касается иммиграционной политики и рынка труда.
+
+In the public comment below, Niskanen's Senior Policy Analyst Cecilia Esterline highlights the shortcomings of the proposal and offers alternative recommendations for addressing the issues raised in the proposal. 
+The post Public comment: Proposed $103k fee for H-1B petitions 2026 appeared first on Niskanen Center.
 
 ---
 
