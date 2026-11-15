@@ -1,4 +1,4 @@
-# Данные для саммари — 2026-10-15
+# Данные для саммари — 2026-11-15
 
 ## Краткая база знаний (ключевые тезисы экспертов)
 
@@ -25,292 +25,214 @@
 
 ---
 
-## Отфильтрованные материалы (34 шт.)
+## Отфильтрованные материалы (20 шт.)
 
-### 1. The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030
+### 1. November 9, 2026In the First Nine Months of 2026, Municipalities’ Own Revenues Grew by 11.1%, While Russian Attacks Increased by 44.4% Year-on-Year — KSE Institute Municipal Review
 
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/the-2030s-action-plan-7-decisions-that-cant-wait-until-2030
-- **Дата:** 2026-10-14T16:54:24+00:00
-- **Почему отобрано:** ITR Economics прогнозирует глобальную депрессию в начале 2030-х, длительностью ~6 лет. Указывает на конкретные мегатренды (демография, расходы на здравоохранение/соц. программы, гос. долг, инфляция), ведущие к этому. Это конкретный прогноз с указанием временных рамок и факторов.
+- **Источник:** KSE Institute (Kyiv School of Economics)
+- **URL:** https://kse.ua/en/news/in-the-first-nine-months-of-2026-municipalities-own-revenues-grew-by-11-1-while-russian-attacks-increased-by-44-4-year-on-year-kse-institute-municipal-review/
+- **Почему отобрано:** Содержит конкретные цифры по росту доходов муниципалитетов Украины (11.1%) и увеличению российских атак (44.4%) за 9 месяцев 2026 года. Это прямые экономические и геополитические данные, релевантные для Украины и контекста конфликта.
 
-2030s Depression The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030 Prepare for the economic changes of the 2030s with key decisions for success. Join our webinar for insights on navigating the upcoming challenges and opportunities. ITR Economics Oct 14, 2026 For years, ITR Economics has been helping business leaders understand why the 2030s are likely to bring a period of significant economic disruption. As the decade draws closer, however, understanding this outlook is no longer enough. The question is becoming increasingly practical: What should you do with that information? The decisions made in the remaining years of the 2020s could have an outsized influence on how businesses and individuals enter the next decade. Some choices may call for action sooner rather than later. Others may require advance preparation but careful patience. In still other cases, preserving flexibility could be more valuable than committing too early. That distinction is at the center of ITR Economics’ upcoming Executive Series webinar, The 2030s Action Plan: 7 Decisions That Can’t Wait Until 2030. Economists Connor Lokar and Lauren Saidel-Baker will translate ITR Economics’ 2030s outlook into seven major decisions: Translate inflation expectations into margin-protecting actions. Determine how to respond to the likely path of interest rates. Evaluate your commercial real estate exposure. Pivot from recession-prone markets toward recession-resistant markets. Determine which capital expenditures to pursue — and which to avoid. Align your M&A strategy with economic expectations. Weigh personal housing considerations. Over the years, we have outlined the economic forces that will result in the depression. This session’s objective is to focus on the implications of that outlook so that you can act. Which decisions deserve your attention today? Which of these require preparation now but execution later? What conditions should you be monitoring? And what developments could change th
+News Дата публікації: November 9, 2026 In the First Nine Months of 2026, Municipalities’ Own Revenues Grew by 11.1%, While Russian Attacks Increased by 44.4% Year-on-Year — KSE Institute Municipal Review Published: November 9, 2026 Read the full material Analytical product KSE Institute Read the full material In the first nine months of 2026, municipalities’ own general fund revenues, excluding transfers, reached $7.4 billion, up 11.1% in US dollar terms and 17.7% in hryvnia compared with the same period last year. However, significant regional disparities persisted. Revenues declined by 24.1% in Donetsk Oblast and 4.2% in Zaporizhzhia Oblast, while most other regions recorded growth. Despite rising revenues, municipalities reduced capital spending and faced an increasing number of Russian attacks. These findings are presented in the Municipal Review for the first nine months of 2026, prepared by the Center for Public Finance and Governance Analysis at KSE Institute together with KSE University. Personal income tax (PIT) remained the largest source of municipalities’ own revenues. It generated $4 billion, up 14.3% year-on-year, and accounted for 54.2% of total revenues. Unified tax receipts reached $1.1 billion (+5.3%), although the number of registered individual entrepreneurs exceeded 2.2 million. Land fee revenues amounted to $740.5 million (+6.8%), excise tax revenues to $608.6 million (+11.2%), and real estate tax revenues to $193.5 million (+7.6%). Revenue growth from several sources slowed compared with the first half of the year. The situation remained particularly difficult for municipalities losing residents, businesses and land due to the war. Transfers from the state budget increased by 34.1%, largely reflecting additional funding for responsibilities already assigned to municipalities. The education subvention rose by 31% following increases in teachers’ salaries, while the basic equalisation grant grew by 14.4%. At the same time, the additional grant f
 
 ---
 
-### 2. GovTech Reform Index. Volume 4
+### 2. November 6, 2026Russian LNG Tracker – Q3 2026: Sanctioned tankers carried more than a quarter of Russia’s LNG exports
+
+- **Источник:** KSE Institute (Kyiv School of Economics)
+- **URL:** https://kse.ua/en/news/russian-lng-tracker-q3-2026-sanctioned-tankers-carried-more-than-a-quarter-of-russias-lng-exports/
+- **Почему отобрано:** Предоставляет конкретные данные по экспорту российского СПГ в 3 квартале 2026 года, указывая на долю санкционированных танкеров (более четверти). Это важная экономическая и геополитическая информация, касающаяся России и санкций.
+
+News Дата публікації: November 6, 2026 Russian LNG Tracker – Q3 2026: Sanctioned tankers carried more than a quarter of Russia’s LNG exports Published: November 6, 2026 Download the full report Analytical product KSE Institute Download the full report In Q3 2026, 22 sanctioned LNG tankers transported 2.1 million tonnes of Russian LNG. That is more than 26% of Russia’s total seaborne LNG exports for the quarter and 37% of the active LNG tanker fleet loading in Russia. The findings come from the new edition of KSE Institute’s Russian LNG Tracker. Global seaborne LNG exports reached 33.8 million tonnes in September. The United States remained the largest exporter with a 31% share, while Russia ranked third with 10%. Russia’s seaborne LNG exports rose 51% month-on-month to 3.4 million tonnes, driven by higher shipments from the Yamal LNG and Sakhalin 2 terminals. Both likely returned to normal operations after maintenance. Yamal LNG continues to dominate Russian LNG exports, accounting for 46% of volumes in September. Between January and September 2026, Russia exported 12.0 million tonnes of LNG to the EU, up 7.8% year-on-year. The EU received 47% of Russia’s total LNG exports, with France accounting for 40% of EU-bound volumes. In September, China and France together imported 60% of Russian LNG. In September, tankers linked exclusively to companies outside EU/G7 jurisdictions carried 59% of Russian LNG. These vessels mainly supplied China (55%) and South Korea (13%). Ship managers based in Japan and Russia handled 47% of Russian LNG shipments in September. The same share was carried by tankers whose registered owners are based in these two countries. ISM managers from Singapore and Russia oversaw vessels that carried 67% of total volumes. The share of Russia-flagged tankers in Russia’s total seaborne LNG exports rose from 3% in March to 26% in September 2026. In September, 44 unique tankers transported Russian LNG, up from 30 in August. During July-September, the top t
+
+---
+
+### 3. November 4, 2026Net Support to Ukrainian Farmers Averaged Just 0.1% of Gross Farm Receipts in 2023-2025, Compared with 14.3% Across OECD Countries — KSE Institute
+
+- **Источник:** KSE Institute (Kyiv School of Economics)
+- **URL:** https://kse.ua/en/news/net-support-to-ukrainian-farmers-averaged-just-0-1-of-gross-farm-receipts-in-2023-2025-compared-with-14-3-across-oecd-countries-kse-institute/
+- **Почему отобрано:** Сравнивает уровень поддержки украинских фермеров (0.1% от валовых поступлений в 2023-2025 гг.) со средним показателем по странам ОЭСР (14.3%). Это конкретные экономические данные, релевантные для Украины и сельского хозяйства.
+
+News Дата публікації: November 4, 2026 Net Support to Ukrainian Farmers Averaged Just 0.1% of Gross Farm Receipts in 2023-2025, Compared with 14.3% Across OECD Countries — KSE Institute Published: November 4, 2026 Read the full report Research KSE Institute Read the full report Support to agricultural producers in Ukraine averaged 0.1% of gross farm receipts in 2023–2025, compared with 14.3% across countries of the Organisation for Economic Co-operation and Development (OECD). The figures are presented in the new report, “Agricultural Policy Monitoring and Evaluation 2026: Enhancing Resilience in a World of Interconnected Risks”, which examines agricultural policies in 56 countries. Analysts from the Center for Food and Land Use Research (KSE Agrocenter) contributed data and analytical material to the Ukraine chapter. Agricultural producer support reflects government payments, tax concessions, and the effects of agricultural policies on producer prices. In Ukraine, this indicator has remained close to zero in recent years. It stood at −1.16% of gross farm receipts in 2023, increased to 0.62% in 2024, and reached 0.64% in 2025. Export restrictions affect these figures by reducing the prices farmers can receive for their products relative to international markets. Over the past decade, domestic prices for oats, rye, sunflower, and milk in Ukraine have generally remained below international reference prices. Export restrictions have been an important factor for oats, rye, and sunflower, while market conditions have played a greater role in milk prices. Import tariffs on sugar and pig meat, by contrast, have helped maintain domestic prices above international levels. In 2023–2025, market price support and subsidies for the use of variable inputs without restrictions accounted for 40% of transfers to farmers. The OECD identifies these measures as among those with the greatest potential to distort agricultural production and trade. The gap between Ukraine and other countr
+
+---
+
+### 4. November 3, 2026Russia Chartbook by KSE Institute: Oil Revenues Rebound as Prices Soar; Seasonal Budget Surplus Reduces Fiscal Pressures; Inflation Halts Rate Cuts
+
+- **Источник:** KSE Institute (Kyiv School of Economics)
+- **URL:** https://kse.ua/en/news/russia-chartbook-by-kse-institute-oil-revenues-rebound-as-prices-soar-seasonal-budget-surplus-reduces-fiscal-pressures-inflation-halts-rate-cuts/
+- **Почему отобрано:** Содержит конкретные экономические индикаторы по России: рост цен на нефть, сезонный профицит бюджета, замедление инфляции и прекращение снижения ставок. Это актуальные макроэкономические данные.
+
+News Дата публікації: November 3, 2026 Russia Chartbook by KSE Institute: Oil Revenues Rebound as Prices Soar; Seasonal Budget Surplus Reduces Fiscal Pressures; Inflation Halts Rate Cuts Published: November 3, 2026 Analytical product KSE Institute KSE Institute has published the October edition of its Russia Chartbook, “Oil Revenues Rebound as Prices Soar; Seasonal Budget Surplus Reduces Fiscal Pressures; Inflation Halts Rate Cuts.” A sharp increase in oil prices boosted Russia’s export earnings in September, even as physical export volumes remained at their lowest level since the start of the full-scale invasion. Two consecutive monthly budget surpluses helped narrow the cumulative deficit, although fiscal pressures remain significant. Meanwhile, persistent inflation and rising inflation expectations prompted the Central Bank of Russia (CBR) to pause interest rate cuts in October. Russia’s oil export earnings rose from $14.1 billion in August to $17.7 billion in September, driven by higher prices. The average Russian oil export price climbed from $68.4 to $93.3 per barrel, while the discount to global benchmarks widened slightly to $23.6 per barrel. Total crude oil and petroleum product exports remained at 6.5 million barrels per day, their lowest level since the start of the full-scale invasion. Following the reopening of ports, crude shipments edged up from 5.2 to 5.3 million barrels per day, while petroleum product exports shrunk to a new record low of 1.2 million barrels per day due to continued refinery strikes and export bans. According to KSE Institute’s forecast, renewed tensions in the Middle East are expected to push Brent prices to a peak of around $116 per barrel in Q4 2026, while Urals is projected to average approximately $76 per barrel in 2026 and $64 in 2027. As a result, Russia’s oil export earnings are forecast to reach $200 billion in 2026, up $42 billion from 2025, before declining to $159 billion in 2027. Russia recorded a second consecutive mo
+
+---
+
+### 5. November 3, 2026Russia Expands Seizures of European Business Assets to Pressure EU Governments over Sanctions – Joint Statement by KSE Institute and B4Ukraine
+
+- **Источник:** KSE Institute (Kyiv School of Economics)
+- **URL:** https://kse.ua/en/news/russia-expands-seizures-of-european-business-assets-to-pressure-eu-governments-over-sanctions-joint-statement-by-kse-institute-and-b4ukraine/
+- **Почему отобрано:** Указывает на расширение Россией конфискации европейских активов для давления на ЕС из-за санкций. Это прямое геополитическое событие с экономическими последствиями.
+
+News Дата публікації: November 3, 2026 Russia Expands Seizures of European Business Assets to Pressure EU Governments over Sanctions – Joint Statement by KSE Institute and B4Ukraine Published: November 3, 2026 News KSE Institute The recent €11 million donation by the Russian subsidiary of Germany’s largest retailer, METRO AG, to help equip Russian troops fighting in Ukraine is a stark illustration of how Russia is increasingly weaponising the presence of Western companies in the country to exert pressure on their home governments and undermine their foreign policy objectives. KSE Institute and the global B4Ukraine Coalition call on EU and G7 governments to incentivise companies to exit Russia swiftly and responsibly, and on businesses to leave the country without further delay. Nezir Sinani, Executive Director of the B4Ukraine Coalition, said: “Russia’s systematic expropriation of EU companies and contributions to the Russian military underscore a fundamental miscalculation by both businesses and policymakers: the belief that business as usual was possible and that Russia would not weaponise their continued presence in the country. By seizing the assets of major Western businesses, the Kremlin is seeking to hold them hostage and use their exposure to undermine European unity on sanctions.” Andrii Onopriienko, Deputy Director for Development at KSE and Head of the LeaveRussia Project, said : “Foreign companies cannot assume that staying in Russia will protect their investments. The Kremlin can transfer control of their businesses to Russian entities, leaving the owners with little say over what happens next. METRO is a clear example. The German parent still owns the subsidiary on paper, but its Russian operations have now financed a fund supporting Russian troops. Companies must weigh the cost of leaving against the risk of losing control of their assets altogether.” On September 28, Vladimir Putin signed a decree placing METRO’s Russian business under temporary forc
+
+---
+
+### 6. Genuine Social Inclusion Instead of Cash Benefits: What Ukraine Needs to Do on Its Path to the EU
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/govtech-reform-index-volume-4
-- **Дата:** 2026-10-15T12:59:27+00:00
-- **Почему отобрано:** Индекс реформ GovTech в Украине за Q2 2026. Указывает на стагнацию (+2.00 пункта), что важно для оценки эффективности управления и реформ в условиях войны.
+- **URL:** https://voxukraine.org/en/genuine-social-inclusion-instead-of-cash-benefits-what-ukraine-needs-to-do-on-its-path-to-the-eu
+- **Дата:** 2026-11-09T10:02:16+00:00
+- **Почему отобрано:** Указывает на то, что ЕС считает уровень социальной поддержки в Украине недостаточным, особенно для уязвимых групп. Это важный аспект интеграции Украины в ЕС и реформ.
 
-GovTech Reform Index. Volume 4 Vox Ukraine Team Global Government Technology Centre (GGTC) Kyiv Reforms Photo: unsplash.com / Shubham Dhage October 15, 2026 Facebook X Telegram 3 VoxUkraine, together with the Global Government Technology Centre Kyiv, is releasing the fourth volume of the GovTech Reform Index — a tool that tracks digital reforms in Ukraine on a quarterly basis. This volume covers an analysis of regulatory changes adopted between April and June 2026. In the second quarter of 2026, the analytical team selected 73 regulatory acts in the field of digitalization across 15 policy areas. The GovTech Reform Index stood at 2.00 points — virtually unchanged from the previous quarter and notably higher than at the end of 2025 (1.84). Figure 1. GovTech Reform Index and Number of Regulatory Acts Key Trends The Index remained high. The value of 2.00 was virtually unchanged from the previous quarter’s record high of 2.01, while the number of regulatory acts increased from 59 to 73. Second consecutive quarter with no regulatory acts scoring 1.0 or below. As in the previous quarter, no regulatory act received a score 1.0 or below. By comparison, there were 5 and 6 such acts in Q3 and Q4 2025, respectively. At the same time, more than one-third of the acts received scores above 2 points on a scale from 0 to 3. Higher implementation feasibility scores. Compared to the first quarter, the average implementation feasibility score increased from 2.22 to 2.30 points, while the scores for digital innovativeness and sustainability of impact declined slightly. Among the most highly rated changes are the creation of a state register of cyber incidents, updated information-security rules for the financial sector, a web portal for studying enemy military equipment, a procedure for ranking researchers, and more. For a detailed analysis of sector-by-sector changes, the expert council’s assessments across three criteria (digital innovativeness, feasibility of implementation, and sus
+Reforms November 9, 2026 Genuine Social Inclusion Instead of Cash Benefits: What Ukraine Needs to Do on Its Path to the EU Mariia Balytska Reforms Photo: unsplash.com / Guillaume Périgois November 9, 2026 Facebook X Telegram 6 The main idea behind the EU’s approach to social policy is simple: helping people is not just about providing money. Above all, it is about enabling them to become self-reliant. This is the logic of social inclusion: the state not only compensates people for insufficient income but also seeks to remove the barriers that prevent them from working, living independently, raising a child in a family, or remaining part of their community. This is the approach Ukraine must gradually adopt as part of its negotiations to join the European Union. This article explains what this means in practice, where Ukraine stands today, and what steps still need to be taken. The accession negotiations are divided into 33 thematic chapters. Social policy and employment fall under Chapter 19. In October 2026, the EU opened negotiations with Ukraine on this chapter and set out the conditions Ukraine must meet in this area . One of these conditions is that Ukraine must align its social protection and social inclusion system with EU rules and approaches and demonstrate that national and local authorities have the capacity to implement it in practice. This involves not only adopting legislation but also establishing mechanisms to implement it, including sufficient qualified personnel, capable institutions, and effective oversight. In its 2025 report , the European Commission assessed Ukraine as being at an early stage of preparation under Chapter 19. Among the specific tasks it identified were further reform of social benefits and the introduction of a new system for procuring social services. The assessment remained unchanged a year later: according to its 2026 report , Ukraine is still at an early stage of preparation, although the Commission notes some progress, parti
 
 ---
 
-### 3. Can War Rebuild an Economy? What Ukraine’s Wartime Restructuring Tells Us?
+### 7. Municipal Review – September 2026
 
 - **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/can-war-rebuild-an-economy-what-ukraines-wartime-restructuring-tells-us
-- **Дата:** 2026-10-13T16:01:32+00:00
-- **Почему отобрано:** Анализ того, как война в Украине влияет на реструктуризацию экономики. Задает вопрос, может ли война восстановить экономику, и почему одни сектора перестраиваются, а другие нет. Крайне релевантно для Украины.
+- **URL:** https://voxukraine.org/en/municipal-review-september-2026
+- **Дата:** 2026-11-05T10:46:56+00:00
+- **Почему отобрано:** Задает вопрос о достаточности финансовых ресурсов муниципалитетов Украины для выполнения их основных функций в сентябре 2026 года. Это прямое указание на экономические проблемы на местном уровне.
 
-Can War Rebuild an Economy? What Ukraine’s Wartime Restructuring Tells Us? Raul Misirkhanov Analytics Macroeconomics Photo: unsplash.com / Oleksii Holovachko October 13, 2026 Facebook X Telegram 2 Why are some sectors reinventing themselves under fire while others stay stuck? What does this mean for Ukraine’s reconstruction? There is an uncomfortable question sitting underneath every conversation about Ukraine’s reconstruction: is the war, alongside the devastation, also clearing space for a better economy to emerge? It sounds like a very strange question to ask. But it is not a new question. Mancur Olson asked a version of it about Germany and Japan after 1945, and found that their rapid post-war growth owed something to the fact that occupation and defeat had smashed the cartels and interest groups that had spent decades entrenching themselves (figure 1). Destruction, in other words, can sometimes do what reform cannot. The puzzle is whether the same logic applies to Ukraine. Our recent research tried to find an answer to that puzzle drawing on case studies and semi-structured interviews that were conducted between March and April 2026 with Ukrainian professionals (government officials, international donor-side programme specialists, civil society representatives, and academic researchers) across energy, IT, Defence, and civil society. The answer turned out to be more interesting than a simple yes or no. Figure 1. Institutional sclerosis: how much of the old world order survived WWII Source: published by Internationales Verzeichnis der Wirtschaftsverbände (International Directory of Business Associations), 1973. Note that countries under total wartime defeat and occupation retained far fewer pre-war order than the UK, which experienced neither The problem before the war Ukraine’s pre-war economy before 2014 was not short of talent or ambition. What it had, instead, was a case of what Mancur Olson called “institutional sclerosis” – a small number of entrenched inte
+Governance November 5, 2026 Municipal Review – September 2026 Yuliia Markuts Andrii Darkovich Vladyslav Shymanskyi Governance Photo: unsplash.com / Daniel Shapiro November 5, 2026 Facebook X Telegram 14 How is the situation changing in Ukraine’s municipalities? How do regional security conditions affect their capacity, and what do recent legislative changes mean for local development? Do municipalities have sufficient financial resources to perform their core functions? The September 2026 Municipal Review explores these and other questions. Key findings In September, some rules for strategic planning, local council operations, education funding and the preparation of public investment projects changed for local communities. Amendments to the State Regional Development Strategy provide for more differentiated support for municipalities, depending on whether they are classified as recovery territories, territories with special development conditions, growth poles or sustainable development territories. Parliament is considering draft laws to keep local councils operational under martial law and clarify the recall and replacement of councillors, reducing the risk of local government paralysis. Municipalities face higher education spending following the second stage of teacher pay increases and a change in the pay system away from the unified salary scale, new requirements for small schools, and the extension of free school meals to all pupils. Public investment increasingly requires projects to align with strategic priorities, meet climate and social criteria, be prepared for submission through DREAM, and comply with grant funding rules. These changes come amid a suspension of capital expenditure payments linked to a shortage of funds in the single treasury account. Local budgets’ own revenues again grew much faster than inflation, but payment restrictions mean that municipalities may not be able to use these resources when needed. General fund revenues excluding trans
 
 ---
 
-### 4. Analysis-How the Houthis are helping Iran turn Saudi Arabia into a pressure point
+### 8. Government Spending on Education in 2022–2026
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/government-spending-on-education-in-2022-2026
+- **Дата:** 2026-10-30T10:47:02+00:00
+- **Почему отобрано:** Анализирует государственные расходы на образование в Украине в 2022-2026 гг., в частности, необходимость дополнительного финансирования укрытий. Это конкретные данные по бюджетным расходам и безопасности.
+
+Public finance October 30, 2026 Government Spending on Education in 2022–2026 Veronika Overchenko Public finance October 30, 2026 Facebook X Telegram 42 Because of the war, defense spending is a priority. However, as warfare becomes increasingly technology-driven, funding for education is also critically important. To maintain in-person education, or at least a hybrid format, educational institutions need additional funding for shelters. How has the government addressed these challenges? How much has education funding changed since the start of the full-scale invasion? Since 2022, Ukraine has received substantial international assistance, enabling it to finance civilian spending and some military expenditures. As Russia continues to devastate our economy, domestic revenues are declining, while the need for external support is growing. At the same time, the government is forced to curb civilian spending to finance defense. So how much funding has education received over these years? Planned state budget spending on education for 2022, including the educational subvention, amounted to UAH 171.9 billion (of which UAH 6.5 billion, or nearly 4%, was allocated to capital expenditures). However, due to the full-scale war and cuts to civilian programs, actual state budget spending on education amounted to UAH 142.7 billion . In 2023, state budget spending on education remained at nearly the same level, at UAH 143.4 billion (including UAH 1.3 billion, or 0.9%, in capital expenditures). In subsequent years, education spending increased thanks to foreign assistance (Figure 1). Local authorities fund approximately half of education spending. Figure 1. Education spending by budget level (UAH billion) Source: OpenBudget, State Statistics Service of Ukraine. Note: 2022–2025 figures reflect actual spending and GDP; 2026 figures reflect planned spending and projected GDP. Local budget spending includes the educational subvention and several other education-related subventions, as th
+
+---
+
+### 9. How Can We Help Local Communities Finance Reconstruction?
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/how-can-we-help-local-communities-finance-reconstruction
+- **Дата:** 2026-10-29T09:59:15+00:00
+- **Почему отобрано:** Обсуждает возможность финансирования восстановления Украины через муниципальные облигации и ОВДП. Это конкретные финансовые инструменты и их потенциал.
+
+Public finance October 29, 2026 How Can We Help Local Communities Finance Reconstruction? Illia Kyselov Public finance October 29, 2026 Facebook X Telegram 39 According to UN and World Bank estimates as of the end of 2025, rebuilding Ukraine will require at least $588 billion. Clearly, the state budget alone cannot cover such an amount. Meanwhile, Ukrainians currently hold approximately UAH 926 billion in cash outside the banking system and the equivalent of $117.6 billion in foreign currency cash. For comparison, individuals currently hold UAH 1.5 trillion in bank deposits and have invested UAH 159.3 billion in domestic government bonds (OVDPs). This suggests that substantial domestic funds are available for borrowing by both the central government, through OVDPs, and local communities, through municipal bonds. This financing instrument is widely used internationally but remains largely untapped in Ukraine. This article explores how local communities could make use of municipal bonds. How much do local communities borrow, and how? Ukrainian municipalities began issuing their own securities as early as the mid-1990s, but this financing instrument failed to gain widespread trust and, consequently, popularity. The unsuccessful experiences of Odesa and Kyiv likely undermined confidence in municipal bonds. In 1997, Odesa became the first city in Ukraine to issue bonds , raising UAH 60 million at an annual interest rate of 50%. In 1998, the newly elected mayor declared a default on those bonds, even though funds were available in the city’s accounts. The debt was not repaid until 2005. The problem, then, was more political than financial. No municipal bonds were issued after that until 2003. From that year onward, new bond issues required approval from the Ministry of Finance. In 2015, Kyiv suspended payments on Eurobonds issued in 2005 and 2011 worth more than $500 million and deferred payments on domestic bonds worth more than UAH 5 billion . This was due to the diffic
+
+---
+
+### 10. Why Is It Harder for Internally Displaced People to Find a Job and How to Help Them?
+
+- **Источник:** VoxUkraine
+- **URL:** https://voxukraine.org/en/why-is-it-harder-for-internally-displaced-people-to-find-a-job-and-how-to-help-them
+- **Дата:** 2026-10-22T09:47:50+00:00
+- **Почему отобрано:** Поднимает вопрос о трудностях трудоустройства внутренне перемещенных лиц в Украине и способах их решения. Это социальный и экономический аспект, связанный с последствиями конфликта.
+
+Labor market October 22, 2026 Why Is It Harder for Internally Displaced People to Find a Job and How to Help Them? Karyna Skalova Mariia Holubieva Yehor Varlamov Labor market Photo: unsplash.com / Christin Hume October 22, 2026 Facebook X Telegram 54 Integration into the local labor market is one of the key components of successful adaptation for internally displaced persons (IDPs). However, IDPs cannot always quickly find jobs that match their experience and qualifications. How can we help IDPs find employment and thus adapt faster to their new environment? The full-scale war forced millions of Ukrainians to leave their homes. According to the International Organization for Migration (IOM), a United Nations agency, the number of IDPs in Ukraine was estimated at 7.1 million in April 2022. Later, some of them returned home or moved abroad, and by June 2026, approximately 3.9 million IDPs were living in Ukraine, or roughly 13% of the population (according to the Institute for Demography, the population in Ukrainian government-controlled territory is estimated at approximately 29 million). Some 83% of IDPs have been displaced for more than a year, and 67% for more than two years. Some people were forced to flee their homes as early as 2014 or in subsequent years before the full-scale invasion. Internal displacement in Ukraine is therefore a long-term challenge. Therefore, a long-term solution is needed. The primary policy objective should be not merely to provide temporary housing and humanitarian assistance, but to integrate IDPs into their new communities, particularly through economic integration. This approach faces several challenges: regional differences in labor market structures, a shortage of affordable housing, and a lack of vacancies with flexible working hours. Differences in regional labor markets According to an IOM survey (June 2026), 72% of IDPs had moved outside their home oblast, while 27% had relocated within the same oblast. Meanwhile, 27% of IDPs h
+
+---
+
+### 11. 'Inside Gaza' wins best documentary at Montreal's Cinemania film festival
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/10/analysis-how-houthis-are-helping-iran-turn-saudi-arabia-pressure-point
-- **Дата:** 2026-10-15T13:46:28+00:00
-- **Почему отобрано:** Анализ того, как атаки хуситов помогают Ирану превратить Саудовскую Аравию в 'точку давления'. Связывает геополитику на Ближнем Востоке с экономическими последствиями (инвестиции).
+- **URL:** https://www.al-monitor.com/originals/2026/11/inside-gaza-wins-best-documentary-montreals-cinemania-film-festival
+- **Дата:** 2026-11-15T13:30:22+00:00
+- **Почему отобрано:** Сообщает о победе документального фильма 'Inside Gaza' на кинофестивале, который освещает события после 7 октября 2023 года. Это косвенное указание на продолжающееся внимание к конфликту на Ближнем Востоке.
 
-Analysis-How the Houthis are helping Iran turn Saudi Arabia into a pressure point By Samia Nakhoul Oct 15, 2026 Add AL-MONITOR on Google A Saudi man walks past a banner of Saudi Crown Prince Mohammed bin Salman displayed on a commercial building in Riyadh — Reuters By Samia Nakhoul DUBAI, Oct 15 (Reuters) - The Houthi attacks on Saudi Arabia are about more than Yemen. By targeting infrastructure and disrupting investment events central to Saudi Arabia's economic ambitions, they aim to pressure Saudi Crown Prince Mohammed bin Salman to both meet Houthi demands in Yemen and persuade US President Donald Trump to ease the US blockade choking Iran's economy, according to Saudi, Iranian and regional sources. The campaign reflects a calculation by Iran and the Houthis that Saudi Arabia's prosperity, investment ambitions and exposure to disruption make it a vulnerable pressure point in a confrontation stretching from the Strait of Hormuz at the mouth of the Gulf to Bab el-Mandeb in the Red Sea. Iran, under mounting economic and military pressure following the war launched by the US and Israel on February 28, is seeking to raise the cost of Washington's strategy by targeting its regional partners, said Michael Knights of strategic advisory Horizon Engage. “The Iranians are in a chokehold,” he said. Unable to force Washington to change course directly, Tehran and the Houthis are “hammering Saudi Arabia, they’re hammering the weak point,” he added, exploiting the kingdom’s economic vulnerability and desire for stability. The Houthis have a direct interest in easing the US blockade on Iran, their principal regional backer. A relaxation of pressure on Tehran would likely strengthen its ability to sustain the political, financial and military support and flow of weapons and cash on which the US says the movement depends. But the Houthis also have their own demands, said two Saudi sources and three regional sources familiar with Saudi thinking: an end to Saudi military operations 
+'Inside Gaza' wins best documentary at Montreal's Cinemania film festival Agence France-Presse Nov 15, 2026 Add AL-MONITOR on Google Adel Zaanoun was part of the team of AFP journalists that reported on events in Gaza — LOU BENOIST "Inside Gaza," a documentary that follows journalists from global news agency AFP after the October 7, 2023 attack, received the Best Documentary Film award at Montreal's Cinemania Film Festival on Saturday. Directed by Helene Lam Trong, the 72-minute film follows the daily lives of four AFP journalists who bear witness to the difficulties of reporting in a war-torn territory largely closed off to international media. The film is compiled from material produced by the team on the ground, as well as from interviews conducted after they left. Hamas's October 7 attack on Israel killed more than 1,200 people, the vast majority of them civilians. Armed men also took more than 200 people hostage. Israel launched an enormous military response, pulverizing swathes of Gaza in attacks that have left 73,000 people dead, according to the Hamas-run Gaza Health Ministry, whose figures are considered reliable by the United Nations. Adel Zaanoun, AFP's Gaza bureau chief and one of the film's four protagonists, accepted the award in Montreal. He dedicated the win to all the journalists "killed in this crazy and dirty war in Gaza" and to those "who still work on the ground without food, without water, without internet, without anything." He called on people worldwide to "continue to support journalists not only in Gaza," but "everywhere for media freedom." The film has won multiple international awards and is eligible for Oscar contention. mg/lkd/hol This one's on us. The story doesn't end here. Our correspondents are already on the next chapter. Read everything they file, from $2/week. See Offers
 
 ---
 
-### 5. Sisi says Egypt has no ‘territorial ambitions’ after Israel’s Smotrich threatens Sinai
+### 12. Three men sentenced to death over Jordan church attack
 
 - **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/10/sisi-says-egypt-has-no-territorial-ambitions-after-israels-smotrich-threatens
-- **Дата:** 2026-10-15T11:47:05+00:00
-- **Почему отобрано:** Президент Египта Сиси заявляет об отсутствии 'территориальных амбиций' после угроз израильского министра по поводу Синая. Высокая геополитическая напряженность на Ближнем Востоке с потенциальными экономическими последствиями.
+- **URL:** https://www.al-monitor.com/originals/2026/11/three-men-sentenced-death-over-jordan-church-attack
+- **Дата:** 2026-11-15T12:30:36+00:00
+- **Почему отобрано:** Сообщает о приговоре трем мужчинам к смертной казни за нападение на церковь в Иордании. Это конкретное геополитическое и правовое событие на Ближнем Востоке.
 
-Sisi says Egypt has no ‘territorial ambitions’ after Israel’s Smotrich threatens Sinai The Egyptian president’s remarks follow a warning from Israeli Finance Minister Bezalel Smotrich that Israel would seize the Sinai Peninsula if Egypt attacks. Beatrice Farhat Egyptian President Abdel Fattah al-Sisi attends a joint statements and agreements during the EU and Egypt summit in Brussels, on Oct. 22, 2025. — Magali Cohen / Hans Lucas / AFP via Getty Images Egyptian President Abdel Fattah al-Sisi stressed Wednesday that his country has no “hidden agendas” or “territorial ambitions,” responding to recent threats by an Israeli official that Israel would seize the Sinai Peninsula if Egypt attacks Israel. “Egypt’s primary and ultimate objective is to safeguard its own security and stability,” Sisi said in a speech delivered at the Egyptian Military Academy, in the New Administrative Capital, to mark the 53rd anniversary of the October 1973 war. “The Egyptian state harbors no hidden agendas. Its core priority remains the protection of its borders and national security within a framework of peace and stability,” he stressed. Referring to the 1979 peace treaty between Egypt and Israel, Sisi said that it remains the sole “governing framework” for relations between the two countries.
-
----
-
-### 6. Is Consumer Spending Running Out of Fuel?
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/is-consumer-spending-running-out-of-fuel
-- **Дата:** 2026-10-08T17:53:40+00:00
-- **Почему отобрано:** Обсуждает состояние потребительских расходов в США на фоне высоких цен и процентных ставок. Хотя нет конкретных цифр, это важный индикатор, связанный с прогнозами ITR.
-
-Industry Updates Is Consumer Spending Running Out of Fuel? Consumer spending remains resilient, but weakening income growth paired with less supportive savings and credit conditions point to slower activity in 2027. ITR Economics Oct 8, 2026 Consumer spending remains one of the more dependable sources of US economic growth. Even as households face higher prices, elevated interest rates, and growing financial pressure, retail sales continue to expand. However, that resilience appears to be softening as the underlying sources that allow consumers to spend are losing momentum. Real personal income growth is weakening, while savings and credit conditions are becoming less supportive. These trends portend more noticeable slowing in consumer activity next year. Income Growth Is Losing Momentum Consumer spending ultimately depends on the ability and willingness of households to spend. Income is, of course, a critical part of that equation. Recent data shows that real personal income (excluding current transfer receipts) growth is slowing, rising only 0.2% over the past 12 months, while the shorter-term quarterly rate-of-change is –0.3%. A negative quarterly growth rate shows that incomes are tentatively declining on an inflation-adjusted basis, even though the longer-term measure remains slightly positive. Figure 1: Real personal income excluding current transfer receipts shows weakening cyclical momentum. These metrics indicate that consumers have less income growth available to support additional spending, which typically results in households reducing their discretionary purchases or relying more heavily on savings or credit to maintain their current consumption patterns. Savings and Credit Conditions Point to Slower Activity The ITR Indicator for Consumer Access to Savings & Credit provides another perspective. This indicator leads retail sales by approximately 12 months, making it useful for evaluating the direction of future consumer activity. With the current annual
+Three men sentenced to death over Jordan church attack Agence France-Presse Nov 15, 2026 Add AL-MONITOR on Google The defendants appeared remotely from detention amid tight security around the courthouse and restricted media access — Ahmad SHOURA A Jordanian court on Sunday sentenced three men to death by hanging over a deadly church shooting, as the kingdom's Christmas celebrations were cancelled in solidarity with the victims' families. Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in southern Hammoud village, Karak governorate, on October 23. Authorities said three men, two Jordanian brothers and their relative by marriage, had fled after the attack and were arrested three days later. They described them as followers of a hardline Islamist ideology. In a statement Sunday, the Jordanian military said the "State Security Court issued its ruling, sentencing to death the three criminals who carried out the terrorist attack" at the church. The court found them guilty of "terrorist attacks" resulting in death, as well as weapons offences, "conspiracy to commit terrorist acts" and "promoting the ideas of a terrorist organisation". The defendants attended the closed hearing by video link from detention. Tight security guarded the courthouse nevertheless. The attack shocked Jordan, a Muslim-majority kingdom where Christians make up around three percent of the population. Jordan's Council of Church leaders announced Sunday the "cancellation of all Christmas celebrations" as the community mourns the attack. They encouraged churches to make their Christmas trees "a symbol of hope, unity and peace" and to "light candles in memory of the souls of the martyrs". Amer Halaseh, a lawyer representing the victims' families, said the ruling "reflects the scale of the disaster and the terrorist crime that took place". The court also sentenced two other men to six years in prison for selling weapons to the attackers, according to
 
 ---
 
-### 7. Planning with Precision: Aligning Strategy, Budget, and Action
+### 13. Jordan sentences three men to death over deadly church attack
 
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/planning-with-precision-aligning-strategy-budget-and-action
-- **Дата:** 2026-09-30T13:26:19+00:00
-- **Почему отобрано:** Прогноз ITR Economics о росте экономики США до конца 2028 года, но с замедлением. Указывает на необходимость более точного планирования, что косвенно связано с будущими циклами.
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/11/jordan-sentences-three-men-death-over-deadly-church-attack
+- **Дата:** 2026-11-15T11:46:27+00:00
+- **Почему отобрано:** Повторяет информацию о приговоре трем мужчинам к смертной казни за нападение на церковь в Иордании, уточняя дату и место. Это подтверждение геополитического события.
 
-Solutions Planning with Precision: Aligning Strategy, Budget, and Action Discover our economic outlook for 2027, 2028, and 2029 and how businesses can align budgets, market strategies, and capital priorities while preparing for the 2030s. ITR Economics Sep 30, 2026 Planning for 2027 requires more precision than a single national forecast can provide. ITR Economics expects the US economy to expand through at least the end of 2028, but growth is likely to slow in 2027 and vary sharply by industry, region, and customer base. Business leaders should use the remaining growth of the 2020s to protect margins, improve productivity, and strengthen their financial position before the projected 2030–2036 downturn. Economic Growth Will Continue at a Slower Pace Industrial activity, business-to-business spending, and AI-related data center investment are supporting the current expansion. At the same time, elevated interest rates, persistent inflation, and affordability pressures will constrain growth. ITR Economics forecasts consumer inflation of 2.7% in 2027, down from 3.4% in 2026, before it rises to 3.9% in 2028. Slower inflation means that prices increase at a more moderate rate; it does not mean business costs or consumer prices return to earlier levels. Market-Specific Forecasts Matter More Than Headlines The economy is K-shaped. Technology, electrical equipment, communications, and electronics connected to data center investment are outperforming, while automotive, recreational vehicles, marine, and other interest-rate-sensitive markets face weaker conditions. Most nonresidential construction segments are expected to grow in 2027, because projects started during the 2026 expansion will continue generating spending. Multifamily starts, however, are forecast to decline 11.5%. Manufacturing is also mixed: aerospace is forecast to grow 8.6%, heavy truck production is expected to rebound 16.7% from depressed levels, and chemicals are projected to finish the year nearly flat. S
-
----
-
-### 8. Bond Sell-Off Pushes Interest Rates Higher: What It Means for Your Business
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/bond-sell-off-pushes-interest-rates-higher-what-it-means-for-your-business
-- **Дата:** 2026-09-03T14:56:30+00:00
-- **Почему отобрано:** Отмечает распродажу гособлигаций и рост долгосрочных процентных ставок. Это прямое указание на изменение финансовых условий, влияющее на долг и инвестиции.
-
-Executive Strategy Bond Sell-Off Pushes Interest Rates Higher: What It Means for Your Business Discover how rising interest rates from a global bond sell-off impact businesses and explore strategies to navigate the evolving financial landscape. ITR Economics Sep 3, 2026 The global government-bond sell-off has spread across major markets, including the United States, and it’s sending a strong message: long-term borrowing costs are under renewed upward pressure. The 10-year Treasury Yield started the year around 4.2% and has climbed to around 4.8% as of September 1, the highest level since January 2025. What Is Driving the Recent Bond Sell-Off? The bond market is balancing several forces at once. The US economy is still growing, but much of the strength remains concentrated in the technology sector. At the same time, inflation is proving persistent amid escalating Middle East conflict and high global oil prices. Concerns over government debt loads — not just in the US but also in Japan, the UK, and France — are also a contributing factor. Investors are being asked to absorb a large supply of government debt to fund deficits and refinance maturing obligations. Higher yields reflect more than expectations for the Federal Reserve’s next decision. Treasury yields influence the rates businesses pay on corporate bonds, commercial loans, and other forms of long-term credit. Our forecast for US Government Long-Term Bond Yields, which is available in our Trends Report subscription, has been calling for gradual interest rate rise ahead. While others were distracted earlier this year by the prospect of a more dovish incoming Fed Chair, we warned our clients about the higher long-term interest rates coming. The US Treasury Is Taking Steps to Support Market Liquidity In direct response to pressure in the long end of the Treasury market, the US Treasury doubled the maximum size of its liquidity-support buybacks for 10-to-30-year securities. The purchases are intended to improve tra
+Jordan sentences three men to death over deadly church attack Nov 15, 2026 Add AL-MONITOR on Google Jordan's State Security Court, is expected to deliver verdict in the trial of suspects accused of carrying out the October 23 attack on a church in Karak Governorate, in Amman — Jehad Shelbak AMMAN, Nov 15 (Reuters) - Jordan’s State Security Court sentenced three men to death on Sunday for carrying out an attack on a church in the southern governorate of Karak last month that killed nine people, the state news agency Petra reported. The court convicted the men of offences including carrying out terrorist acts resulting in death, possessing weapons and ammunition for terrorist purposes and promoting the ideology of a terrorist group. The ruling is subject to appeal and automatic review by the Court of Cassation, Petra said. Gunmen opened fire during a funeral at a Greek Orthodox church in the village of Hamoud on October 23, in a rare attack on Jordan’s Christian minority. Authorities said 34 people were also wounded. Security forces arrested the three men on October 26 after a shootout at an abandoned house in Karak. All three were wounded, while no security personnel were injured, according to the Public Security Directorate. Jordan, a US partner in the fight against extremism, later that day launched airstrikeson southern Syria against groups it linked to the church attack. Syrian authorities said seven people, including three children and a woman, were killed. Jordan later acknowledged that its airstrikes had killed civilians in Syria and the two countries agreed to form a joint security committee to review the incident and its consequences. (Writing by Feras Dalatey in DamascusEditing by Gareth Jones) This one's on us. The story doesn't end here. Our correspondents are already on the next chapter. Read everything they file, from $2/week. See Offers
 
 ---
 
-### 9. Data center expansion and the AI backlash
+### 14. Senior Hamas commander killed in Israeli strike in Gaza
 
-- **Источник:** Niskanen Center
-- **URL:** https://www.niskanencenter.org/data-center-expansion-and-the-ai-backlash/?utm_source=rss&utm_medium=rss&utm_campaign=data-center-expansion-and-the-ai-backlash
-- **Дата:** 2026-10-14T19:51:17+00:00
-- **Почему отобрано:** Обсуждает 'разрыв в модернизации' (modernization gap) в США и использование штатами фондов для модернизации. Связано с фискальным ослаблением и эффективностью гос. расходов.
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/11/senior-hamas-commander-killed-israeli-strike-gaza
+- **Дата:** 2026-11-15T09:46:29+00:00
+- **Почему отобрано:** Сообщает об убийстве старшего командира ХАМАС в результате израильского удара в Газе. Это прямое геополитическое событие, связанное с конфликтом на Ближнем Востоке.
 
-Opposition to AI data centers has become the hot 2026 campaign issue. But many data centers are already being built, especially in places with less capacity to object. Will this moment be the start of feasible AI regulation or just empower some to shift development out of their area? Vasundhara Kaul finds that data centers tend to be built in minority communities and places hurting for economic development. Daniel Schiff joins us to discuss the broader implications of the backlash for AI governance. They both say better regulation is possible but does run up against a traditional political constraint: that the powerful tend to offload harms to those without the power to object. Niskanen Center – The Science of Politics · Data center expansion and the AI backlash Guest: Vasundhara Kaul , Purdue; Daniel Schiff , Purdue Study: “Digital Footprints” Transcript Matt Grossmann: Data center expansion and the AI backlash this week on the science of politics. For the Niskanen Center, I’m Matt Grossmann. Opposition to AI data centers has become the hot 2026 campaign issue, but many data centers are already being built, especially in places with less capacity to object. Is the backlash a case of typically hyped not in my backyard objections or now part of broader AI worries? And will this moment produce feasible regulation or just empower those with the power to shift development out of their area? This week I talked to Vasu Kaul of Purdue University about her co-authored paper, Digital Footprints. She finds that data centers are more often built in minority communities and places hurting for economic development. Her co-author, Daniel Schiff, also of Purdue, joins us to discuss the broader implications of the backlash for AI governance. They both say better regulation is possible, but does run up against a traditional political constraint, that the powerful tend to offload harms to those without power. We also talk about parallels to housing development politics, environmental
-
----
-
-### 10. The modernization gap
-
-- **Источник:** Niskanen Center
-- **URL:** https://www.niskanencenter.org/the-modernization-gap/?utm_source=rss&utm_medium=rss&utm_campaign=the-modernization-gap
-- **Дата:** 2026-10-13T17:26:14+00:00
-- **Почему отобрано:** Анализ использования штатами фондов модернизации и их дальнейшей судьбы. Связано с фискальной политикой и эффективностью гос. управления.
-
-Bridging the space between temporary technology funding and continuous public services States often find it easier to secure millions of dollars to replace an aging IT system than a few thousand to understand why it no longer works. They can pay a vendor to build a new website, but struggle to hire the staff who decide what to do next. These problems run deeper than budgeting. The processes that states use to procure and manage technology are largely designed for projects with defined scopes and clear endpoints. That works reasonably well when the work has a clear finish line, but less well for services that need to keep changing after launch, which is the case with most digital services. If technology cannot evolve, it becomes another legacy system. As discussed in an earlier paper, this is the “Legacy IT trap”: governments defer improvements because aging systems are difficult and expensive to change. The longer they wait, the harder change becomes, increasing the likelihood of another large, risky modernization project. Without a way to sustain improvement after that project ends, states risk repeating the same costly cycle. 1 The shift from projects to products is an attempt to solve this mismatch. Rather than treating software as a one-time investment, the product operating model calls for stable and multidisciplinary teams that improve services over time. 2 , 3 The challenge, though, is how to make that way of working survive inside institutions largely built around projects. This paper examines how states use dedicated modernization funds and what happens after that funding ends. It reviews all 50 states and reflects interviews with 20 state technology, program, procurement, and budget leaders. The review counts statewide funds or programs created specifically to support technology modernization, including competitive grants, revolving investment funds, capital accounts, or other centralized approaches. It excludes ordinary technology budgets, federal funding
+Senior Hamas commander killed in Israeli strike in Gaza By Nidal al-Mughrabi and Yomna Ehab Nov 15, 2026 Add AL-MONITOR on Google Funeral of Samir Abu Younis in Khan Younis — Haseeb Alwazeer By Nidal al-Mughrabi and Yomna Ehab Nov 15 (Reuters) - Hamas said on Sunday that a senior commander who helped plan and oversee the October 7, 2023, attack on Israel had been killed in an Israeli airstrike, with the Israeli military confirming his death. Samir Abu Younis, 53, the commander of the Rafah brigade, was killed on Saturday, said the Palestinian militant group's armed wing, the Al-Qassam Brigades. The Israeli military said it had killed Abu Younis in a strike in the southern Gaza Strip overnight, adding that he had led the Rafah brigade since his predecessor, Nael Abu Obeid, was killed on September 15. Medics said Abu Younis was killed and others were wounded in an airstrike that targeted him in a street in the Mawasi area of Khan Younis in the southern Gaza Strip. Hamas said Abu Younis joined Hamas' armed wing in 1991 and had held several senior operational roles in Rafah before becoming commander of the brigade. His funeral will be held on Sunday afternoon in Khan Younis, Hamas said. An October ​2025 ceasefire halted major fighting in the Israel-Gaza war but has not stopped Israeli attacks or secured Hamas' disarmament. Gaza health authorities say atleast 1,600 Palestinians have been killed since the ceasefire went into effect, while 5 Israeli soldiers have been killed. Palestinian authorities say more than 74,000 people have been killed in the military campaign that Israel launched against Gaza after Hamas-led fighters killed about 1,200 people in southern Israel in the October 7 attack. (Reporting by Nidal al-Mughrabi and Yomna Ehab; Additional reporting by Jana Choukeir; Editing by Nick Zieminski, Sanjeev Miglani, Rod Nickel and William Mallard) This one's on us. The story doesn't end here. Our correspondents are already on the next chapter. Read everything they f
 
 ---
 
-### 11. Why should the ECB care about the unequal effects of climate change?
+### 15. Yemeni government force retreats from strait in major setback in war against Houthis
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/11/yemeni-government-force-retreats-strait-major-setback-war-against-houthis
+- **Дата:** 2026-11-15T08:46:28+00:00
+- **Почему отобрано:** Указывает на отступление правительственных сил Йемена от стратегически важного пролива в ходе войны против хуситов. Это важное геополитическое событие на Ближнем Востоке.
+
+Yemeni government force retreats from strait in major setback in war against Houthis By Mohammed Ghobari Nov 15, 2026 Add AL-MONITOR on Google FILE PHOTO: Views of Bab el-Mandeb strait, Yemen — Reuters By Mohammed Ghobari Nov 15 (Reuters) - Yemeni government forces announced on Sunday they were withdrawing from the area near the Bab el-Mandeb Strait to focus on a defence of their main base in Aden, in a major setback for the Saudi-backed campaign against the Iran-aligned Houthis. The announcement signalled the apparent end of a six-week government counteroffensive to reclaim the coast near the mouth of the Red Sea, seized by the Houthis in September in a lightning advance that squeezed oil exports. Sunday's announcement of a government retreat raises the prospect of new Houthi advances towards Aden, and underscores the predicament faced by Saudi Arabia in trying to stop the Houthis' drone and missile attacks on the kingdom. The government forces have been based in Aden on the southern coast since 2015 after the Houthis seized the capital Sanaa. Houthi gains in Yemen and attacks on Saudi Arabia and Red Sea shipping in recent months have strengthened the position of Iran in the wider Middle East conflict launched by the United States and Israel in February. "The Southern Armed Forces announce the implementation of a redeployment operation for its forces from Dhubab Airport and the Bab el-Mandeb area, west of Taiz Governorate," the main military force fighting for Yemen's government in the south of the country said in a statement. "This step is taken based on the priority of securing the capital, Aden, and the neighbouring governorates, as well as strengthening the front lines and addressing existing threats." There was no immediate response from the Houthis, or from Saudi Arabia, the Yemeni government's main international ally. HOUTHI GAINS Yemen's decade-long civil war, which had been dormant since 2022, abruptly reignited this summer as a spillover from the Iran con
+
+---
+
+### 16. Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/11/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province
+- **Дата:** 2026-11-15T03:46:26+00:00
+- **Почему отобрано:** Сообщает о перехвате коалицией под руководством Саудовской Аравии ракет и дронов, направленных в сторону Эр-Рияда и восточной провинции. Это прямое геополитическое событие, связанное с конфликтом в Йемене.
+
+Nov 15 (Reuters) - The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said on Sunday it had intercepted two Houthi ballistic missiles launched towards the Saudi capital Riyadh and three drones in the kingdom's oil-rich Eastern Province.The Houthis, who control most of the populous parts of Yemen, have intensified attacks on the Saudi capital in recent days. A Houthi attack last week damaged an administrative building of the state oil company Saudi Aramco in Riyadh's financial hub.
+
+---
+
+### 17. Iran's navy says three tankers on fire after hitting mines in Hormuz
+
+- **Источник:** Al-Monitor (Middle East)
+- **URL:** https://www.al-monitor.com/originals/2026/11/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz
+- **Дата:** 2026-11-14T23:46:29+00:00
+- **Почему отобрано:** Сообщает о возгорании трех танкеров после попадания в морские мины в Ормузском проливе. Это серьезное геополитическое событие с потенциальными экономическими последствиями на Ближнем Востоке.
+
+Nov 14 (Reuters) - Iran's navy said three oil tankers caught fire on Saturday after hitting naval mines in the Strait of Hormuz, Iranian state media reported.One tanker hit a naval mine in the eastern Strait of Hormuz on Saturday morning, while two others struck mines later in the day."Two violating tankers ... were attempting to slip through a prohibited route in the Strait of Hormuz when they hit naval mines, exploded, and burst into flames," Iran's IRNA news agency quoted the Revolutionary Gu
+
+---
+
+### 18. How the sovereign debt crisis shaped wealth inequality in the euro area
 
 - **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261008~dbf4f59782.en.html
-- **Дата:** 2026-10-08T09:00:00+00:00
-- **Почему отобрано:** Статья блога ЕЦБ о том, почему ЕЦБ должен заботиться о неравных последствиях изменения климата. Связывает климатические риски с монетарной политикой и экономикой ЕС.
-
-THE ECB BLOG Why should the ECB care about the unequal effects of climate change? 8 October 2026 By Daniela Arlia and Rachele Rizzo Climate change and the transition to a carbon-neutral economy do not affect everyone equally. This blog explores how the distributional effects of climate change and the transition can become relevant for price and financial stability. The consequences of climate change and the transition to a carbon-neutral economy are not the same for all households, sectors and regions. Droughts, for example, can drive up food prices. This hits low-income households harder than others, as they spend a larger share of their income on essentials like food. Owners of energy-efficient homes may see the value of their properties increase, but homes in flood-prone areas may lose value. [ 1 ] These unequal effects matter for the ECB and other central banks because, if nothing is done to mitigate them, they can amplify and prolong economic shocks. To illustrate this, think of a region dependent on coal mining: if coal is phased out as a source of energy, many firms and workers could be affected at the same time. If local employment opportunities are reduced, this could further weaken businesses, services and housing markets in the area. These cumulative effects may make it harder for the region to adapt . In more diversified regions, on the other hand, workers may find alternative employment opportunities more easily, which would help the local economy to recover after a transition shock. While the effects of climate-related shocks may initially be concentrated in specific regions, they can spill over to the wider economy through labour, product and financial market linkages, with implications for economic activity, inflation and financial stability. Additionally, if transition policies are perceived as unfair, public support for them may weaken. This can result in policy uncertainty and stop-and-go dynamics that increase the risk of a disorderly transition,
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261111~ee77dcd0d0.en.html
+- **Дата:** 2026-11-11T10:00:00+00:00
+- **Почему отобрано:** Анализирует, как кризис суверенного долга повлиял на неравенство богатства в еврозоне. Это конкретные экономические данные, релевантные для ЕС.
 
 ---
 
-### 12. Funding the AI revolution: evidence from euro area sectors
+### 19. Resilience of the euro area economy – weathering one shock, preparing for the next
+
+- **Источник:** European Central Bank Blog
+- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261021~1c5ec8f223.en.html
+- **Дата:** 2026-10-21T09:00:00+00:00
+- **Почему отобрано:** Обсуждает устойчивость экономики еврозоны к шокам и подготовку к следующим. Это макроэкономический анализ для ЕС.
+
+---
+
+### 20. Funding the AI revolution: evidence from euro area sectors
 
 - **Источник:** European Central Bank Blog
 - **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html
 - **Дата:** 2026-10-06T09:00:00+00:00
-- **Почему отобрано:** Анализ финансирования 'революции ИИ' в еврозоне. Важный технологический тренд с макроэкономическими последствиями.
-
-THE ECB BLOG Funding the AI revolution: evidence from euro area sectors 6 October 2026 By Ana Sofia Cianfarani, Paola Di Casola, José Ramos and Dennis Zander AI has the potential to reshape the euro area economy. This ECB Blog post explores how AI investments are being financed, focusing on the current financing mix of the most AI-intensive sectors and the consequences for monetary policy. Euro area firms are taking part in the artificial intelligence (AI) revolution. And, as discussed in a previous ECB Blog post , those operating in the most AI-intensive sectors often rely more on internal funds. Firm balance sheet data reveal that AI-intensive firms have recently started to turn more towards market-based financing as a source of debt financing, rather than relying on traditional bank lending . A deeper and more integrated European capital market could support this development and help euro area firms to harness the full benefits of the AI revolution. Adopting AI versus developing AI Rapid advances in AI are prompting firms to invest more heavily in digital technologies in the euro area, and even more so in the United States. [ 1 ] Between 2023 and 2025 the share of euro area firms using at least one form of AI technology more than doubled. Technologies for generating and analysing written and spoken language and, more recently, images and videos have been driving this development. Firms engage with AI in different ways: some mainly adopt AI by using existing tools to enhance their operations, while others develop AI by building new models, applications or technologies, and protecting their innovations through patents. This distinction matters because adoption and development involve different types of investments, risks and financing needs. Adopting AI often requires investments in software, data systems and staff skills. By contrast, developing AI typically demands larger and riskier investments in research, computing capacity and specialised talent. For our anal
-
----
-
-### 13. How firms are planning to finance AI adoption
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261002~7e82912ad5.en.html
-- **Дата:** 2026-10-02T09:00:00+00:00
-- **Почему отобрано:** Исследование того, как компании планируют финансировать внедрение ИИ. Связано с инвестициями и технологическим развитием в ЕС.
-
-THE ECB BLOG How firms are planning to finance AI adoption 2 October 2026 By Annalisa Ferrando, Sara Lamboglia, Judit Rariga, and Maurice Schmidt AI can reshape our economies. The ECB Blog explores the financing of AI investment in two posts. In this one we show that firms expect to rely overwhelmingly on their own resources to finance the transition. Based on the Survey on the Access to Finance of Enterprises, 72% of firms planning to invest in AI expect to use internal funds such as cash flow or retained earnings. What types of Artificial Intelligence (AI) investment are businesses planning for the year ahead? That was a central question posed in the latest Survey on the Access to Finance of Enterprises (SAFE). The answers paint a revealing picture of where firms see the greatest value in this rapidly evolving technology. We asked about 5,000 firms from across the euro area about their plans to invest in AI technologies and tools, data infrastructure, AI specialists and employee training over the next 12 months. AI is increasingly part of firms’ investment plans Nearly half of the firms surveyed (49%) expect to allocate their AI budgets to AI technologies and tools, accounting for the largest share of planned investment. Following closely behind, 46% of businesses are prioritising training for their employees, highlighting the fact that successful AI adoption depends on skills as well as technology. Data infrastructure was the focus for 40% of the firms surveyed, while just 12% are targeting the hiring of AI specialists. Meanwhile, 38% of firms did not select any of these categories. Larger firms, perhaps unsurprisingly, are more likely than their smaller counterparts to invest across all categories, though the overall trends remain consistent regardless of size. These findings offer a glimpse into how companies are preparing to navigate the AI revolution – and where they believe the opportunities lie. Chart 1 Types of expected AI investment (percentage of respond
-
----
-
-### 14. Why the drivers of inflation matter for monetary policy
-
-- **Источник:** European Central Bank Blog
-- **URL:** https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20260901~8d48e51f14.en.html
-- **Дата:** 2026-09-01T09:00:00+00:00
-- **Почему отобрано:** Объяснение, почему движущие силы инфляции важны для монетарной политики ЕЦБ. Прямое отношение к макроэкономическим индикаторам.
-
-THE ECB BLOG Why the drivers of inflation matter for monetary policy 1 September 2026 By Kristina Barauskaitė Griškevičienė and Claus Brand The drivers of the recent rise in inflation are different from those of the pandemic-era surge. This time the energy supply shock dominates, while demand and public policy stimulus have minor roles. These differences are key to explaining why monetary policy responses differ. Inflation has risen again in 2026, partly because the war in the Middle East has pushed up energy prices. At first glance, this may look similar to the inflation surge of 2021-22, which also started with higher energy prices, but the causes are different. In 2021-22 several powerful forces came together: pandemic-related supply shortages, strong demand after lockdowns, higher energy costs and public policy support. In 2026, by contrast, the rise in inflation has so far been driven almost entirely by higher energy costs. Thus, the two episodes differ fundamentally in the nature and magnitude of the inflation drivers. These differences in inflation dynamics carry important implications for monetary policy. While the ECB raised interest rates forcefully and persistently in response to the 2021-22 surge, the monetary policy response to the current episode has been more gradual. This blog post examines both inflation episodes and explains why the difference in inflation drivers calls for two distinct policy approaches. Two inflation episodes – two different stories To compare the two inflation episodes, we use a comprehensive time-series model. It identifies supply and demand imbalances as key inflation drivers – whether linked to energy, public policy or other factors. Our main tool is a Bayesian vector autoregression (BVAR) model which looks at euro area data from January 2007 to May 2026. The model incorporates a comprehensive set of macroeconomic variables, enabling us to identify key drivers of headline HICP inflation and HICP energy inflation. [ 1 ] These 
-
----
-
-### 15. Lessons Under Air-Raid Sirens: An Analysis of PISA 2025 Result
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/lessons-under-air-raid-sirens-an-analysis-of-pisa-2025-result
-- **Дата:** 2026-10-09T10:03:45+00:00
-- **Почему отобрано:** Анализ результатов PISA 2025 для Украины. Указывает на ухудшение результатов по сравнению с предыдущими годами из-за войны. Важный индикатор состояния образования и долгосрочного человеческого капитала.
-
-Lessons Under Air-Raid Sirens: An Analysis of PISA 2025 Result Alisa Dzhuhostran Society Photo: unsplash.com / zehua chen October 9, 2026 Facebook X Telegram 2 In the recently published PISA 2025 study, Ukrainian students performed slightly worse than in 2022 and considerably worse than in 2018. A similar pattern can be observed in many countries; however, Ukrainian students’ results are below the OECD average. PISA (Programme for International Student Assessment) is an international study launched by the Organisation for Economic Co-operation and Development in 1999 to assess how well students can apply the knowledge they acquire at school. A distinctive feature of the study is that it not only assesses learning outcomes but also examines the broader context, such as students’ socioeconomic status, educational environment, and other factors. The ninth cycle of PISA took place in 2025, with students from 91 countries participating. Each cycle assesses students’ competencies in three core domains: reading, mathematics, and science, with one designated as the major domain and given particular focus. In 2025, the major domain was science. PISA 2025 also introduced a new domain, “Learning in the Digital World” (LDW), aimed at assessing the use of technology for learning, inquiry, and problem-solving. In 2025, Ukraine participated in PISA for the third time: 9,000 fifteen-year-old students from 298 educational institutions across 17 regions took the test. Ukrainian students scored below the OECD average in all three domains. They scored 448 points in science, compared with the OECD average of 486, 431 in mathematics (469 in the OECD), and 418 in reading (466 in the OECD) (Figure 1). Estonia and Poland significantly outperform Ukraine across all three domains, while Ukraine outperforms Bulgaria, Moldova, and Georgia. In the “Learning in the Digital World” domain, Ukrainian teenagers scored an average of 478 points, 26 points below the OECD average. However, scores in Ukra
-
----
-
-### 16. From Exports to Imports: How Electricity Flows Between Ukraine and Its Neighbors Have Changed
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/from-exports-to-imports-how-electricity-flows-between-ukraine-and-its-neighbors-have-changed
-- **Дата:** 2026-10-09T09:08:19+00:00
-- **Почему отобрано:** Анализ изменения потоков электроэнергии между Украиной и соседями. Важно для энергетической безопасности и восстановления инфраструктуры.
-
-In this article, we analyze physical electricity flows — the actual movement of electricity across cross-border lines.
-
----
-
-### 17. Integration of the Ukrainian Electricity Market into the EU Market: Rules, Procedures, and Regulatory Challenges
-
-- **Источник:** VoxUkraine
-- **URL:** https://voxukraine.org/en/integration-of-the-ukrainian-electricity-market-into-the-eu-market-rules-procedures-and-regulatory-challenges
-- **Дата:** 2026-10-05T08:35:04+00:00
-- **Почему отобрано:** Интеграция украинского рынка электроэнергии в рынок ЕС: правила, процедуры и регуляторные вызовы. Важно для восстановления и европейской интеграции Украины.
-
-The role of EU-wide, regional, and national rules
-
----
-
-### 18. Hezbollah says it owned confiscated explosives, meant to attack Israel
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/10/hezbollah-says-it-owned-confiscated-explosives-meant-attack-israel
-- **Дата:** 2026-10-15T12:46:28+00:00
-- **Почему отобрано:** Хезболла заявляет о владении конфискованными взрывчаткой, предназначенной для атаки на Израиль. Геополитическая напряженность на Ближнем Востоке.
-
-BEIRUT, Oct 15 (Reuters) - A Hezbollah lawmaker said on Thursday that hundreds of kilograms of explosives seized last week by Lebanese security forces belonged to his group, as tensions persist over the government's push to disarm the Iran-backed movement.Lebanese authorities stopped the explosives-laden vehicleat a checkpoint in the easternBekaa region last week  and arrested two people in the car. 
-
----
-
-### 19. EU and Gulf states postpone summit due in Saudi Arabia
-
-- **Источник:** Al-Monitor (Middle East)
-- **URL:** https://www.al-monitor.com/originals/2026/10/eu-and-gulf-states-postpone-summit-due-saudi-arabia
-- **Дата:** 2026-10-15T10:46:30+00:00
-- **Почему отобрано:** ЕС и страны Персидского залива откладывают саммит в Саудовской Аравии из-за продолжающихся атак Ирана. Геополитическое событие, влияющее на региональные отношения и экономическое сотрудничество.
-
-By Timour AzhariRIYADH/BRUSSELS, Oct 15 (Reuters) - The European Union and Gulf states on Thursday postponed a joint summit due to be held in Saudi Arabia next week, as sustained attacks by the Iran-aligned Houthis fuel concerns about air travel to and from the kingdom.The Gulf Cooperation Council cited continued Houthi threats against Saudi Arabia and an extended suspension of operations at King Khalid International Airport when announcing the postponement of the summit scheduled for October 24
-
----
-
-### 20. The Labor Market: More Cautious Than Weak
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/the-labor-market-more-cautious-than-weak
-- **Дата:** 2026-09-24T19:27:20+00:00
-- **Почему отобрано:** Анализ рынка труда США, который 'охладился', но не обязательно слаб. Это важный опережающий индикатор, влияющий на потребительские расходы и экономический рост.
-
-
-  
-
-The US labor market has clearly cooled. What is less clear is whether that cooling signals meaningful weakness or simply a more cautious approach from both employers and workers. 
-
----
-
-### 21. Power Is the New Bottleneck: What Rising Electricity Demand Means for Business Planning
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/power-is-the-new-bottleneck-what-rising-electricity-demand-means-for-business-planning
-- **Дата:** 2026-09-18T18:10:49+00:00
-- **Почему отобрано:** Указывает на растущий спрос на электроэнергию как на 'узкое место' для бизнеса. Это новый фактор, который может влиять на экономическую активность и инфляцию, косвенно связан с долгосрочными прогнозами.
-
-
-  
-
-For many organizations, power has historically been treated as a utility expense: important, but rarely central to strategic planning. That assumption is becoming less reliable. 
-
----
-
-### 22. Build, Buy, or Wait? The 2027 CapEx Playbook
-
-- **Источник:** ITR Economics
-- **URL:** https://blog.itreconomics.com/blog/build-buy-or-wait-the-2027-capex-playbook
-- **Дата:** 2026-09-01T11:43:24+00:00
-- **Почему отобрано:** Обсуждает спрос на капитальное оборудование и неопределенность для планирования CAPEX. Связано с экономическим циклом и инвестиционной активностью.
-
-
-  
-
-Businesses entering the fall planning season face strong capital equipment demand and significant long-range uncertainty.   
-
----
-
-### 23. The Bipartisan American Affordability and Jobs Act of 2026: 4 ways the new permitting package gets transmission policy right
-
-- **Источник:** Niskanen Center
-- **URL:** https://www.niskanencenter.org/the-bipartisan-american-affordability-and-jobs-act-of-2026-4-ways-the-new-permitting-package-gets-transmission-policy-right/?utm_source=rss&utm_medium=rss&utm_campaign=the-bipartisan-american-affordability-and-jobs-act-of-2026-4-ways-the-new-permitting-package-gets-transmission-policy-right
-- **Дата:** 2026-10-02T18:31:32+00:00
-- **Почему отобрано:** Поддержка 'Bipartisan American Affordability and Jobs Act of 2026', касающегося политики передачи электроэнергии. Указывает на законодательные инициативы, влияющие на энергетику и инфраструктуру.
-
-Passing the Bipartisan American Affordability and Jobs Act is critical to ensuring affordable and reliable power for all.
-The post The Bipartisan American Affordability and Jobs Act of 2026: 4 ways the new permitting package gets transmission policy right appeared first on Niskanen Center.
-
----
-
-### 24. Niskanen Center supports introduction of the Bipartisan American Affordability and Jobs Act of 2026
-
-- **Источник:** Niskanen Center
-- **URL:** https://www.niskanencenter.org/niskanen-center-supports-introduction-of-the-bipartisan-american-affordability-and-jobs-act-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=niskanen-center-supports-introduction-of-the-bipartisan-american-affordability-and-jobs-act-of-2026
-- **Дата:** 2026-09-30T20:09:19+00:00
-- **Почему отобрано:** Поддержка 'Bipartisan American Affordability and Jobs Act of 2026', фокусируется на политике передачи электроэнергии. Важно для инфраструктурных изменений.
-
-The Niskanen Center strongly supports the introduction of the Bipartisan American Affordability and Jobs Act of 2026. This legislation includes the most consequential congressional transmission policies proposed in two decades, addressing longstanding barriers to planning, siting, and building the interstate grid. 
-The post Niskanen Center supports introduction of the Bipartisan American Affordability and Jobs Act of 2026 appeared first on Niskanen Center.
-
----
-
-### 25. Public comment: Proposed $103k fee for H-1B petitions 2026
-
-- **Источник:** Niskanen Center
-- **URL:** https://www.niskanencenter.org/public-comment-proposed-103k-fee-for-h-1b-petitions-2026/?utm_source=rss&utm_medium=rss&utm_campaign=public-comment-proposed-103k-fee-for-h-1b-petitions-2026
-- **Дата:** 2026-09-30T17:02:10+00:00
-- **Почему отобрано:** Публичный комментарий к предложению о сборе $103k за петиции H-1B в 2026 году. Касается иммиграционной политики и рынка труда.
-
-In the public comment below, Niskanen's Senior Policy Analyst Cecilia Esterline highlights the shortcomings of the proposal and offers alternative recommendations for addressing the issues raised in the proposal. 
-The post Public comment: Proposed $103k fee for H-1B petitions 2026 appeared first on Niskanen Center.
+- **Почему отобрано:** Исследует финансирование 'революции ИИ' в еврозоне по секторам. Это конкретные экономические данные, касающиеся технологического развития и ЕС.
 
 ---
 
