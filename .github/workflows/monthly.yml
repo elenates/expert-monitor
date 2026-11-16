@@ -45,6 +45,7 @@ jobs:
         run: |
           ITEMS=$(python3 -c "import json; d=json.load(open('data/filtered.json')); print(len(d))")
           gh issue create \
+            --assignee elenates \
             --title "📊 Данные за $(date +'%B %Y') собраны — пора делать саммари" \
             --body "Собрано и отфильтровано **${ITEMS} материалов**.
 
